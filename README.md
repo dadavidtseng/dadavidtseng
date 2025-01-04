@@ -1,5 +1,7 @@
 <!-- Header Section --> 
-<img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=150&color=000000&text=Yu-Wei%20Tseng%20|%20曾宥瑋&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=50" alt="header"> 
+<div>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=150&color=000000&text=Yu-Wei%20Tseng%20|%20曾宥瑋&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=50" alt="header">
+</div>
 
 <!-- Stats Section -->
 <div> 
@@ -10,33 +12,53 @@
 
 <div>
     <img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadavidtseng&layout=compact&hide_border=true&text_color=ffffff&bg_color=000000&title_color=ffffff" alt="top languages" />
-    <img width=48% src="https://github-readme-stats.vercel.app/api/wakatime?username=dadavidtseng&layout=compact" alt="top languages" />
-    
-<img src="https://skillicons.dev/icons?i=cpp,cs,py,js,react,nodejs,ts,mongodb,postgres,figma,vscode&perline=12" alt="Tech Stack" /> </a>
+    <img width=48% src="https://github-readme-stats.vercel.app/api/wakatime?username=dadavidtseng&layout=compact&hide_title=true&hide_border=true&text_color=ffffff&bg_color=000000&title_color=ffffff" alt="top languages" />
 </div>
 
 <!-- Technologies Section -->
 
-### Technologies I Use
-
-<div> 
-    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,cpp,unity,unreal,py,js,react,nodejs,ts,mongodb,postgres,figma,vscode&perline=12" alt="Tech Stack" /> </a> 
+<div align="center">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=50&color=000000&text=Programming%20Languages&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header"> 
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp" alt="Programming Languages"/>
 </div>
 
-<!-- Connect Section -->
+<div align="center">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=50&color=000000&text=Web%20Technologies&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header"> 
+    <img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Technologies"/>
+</div>
 
-### Connect With Me
+<div align="center">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=50&color=000000&text=IDEs&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
+    <img src="https://skillicons.dev/icons?i=rider,visualstudio" alt="IDEs"/>
+</div>
 
-<div> 
-    <a href="https://www.linkedin.com/in/dadavidtseng/" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" /></a> <a href="https://twitter.com/dadavidtseng" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="Twitter" height="50" width="50" /></a> <a href="https://www.instagram.com/dadavidtseng/" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" /></a> <a href="https://discordapp.com/users/example" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord" height="50" width="50" /></a> 
+<div align="center">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=50&color=000000&text=Software%Tools&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
+    <img src="https://skillicons.dev/icons?i=autocad,blender" alt="Software Tools"/>
+</div>
+
+<div align="center">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=50&color=000000&text=Game%Engines&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
+    <img src="https://skillicons.dev/icons?i=unity,unreal,godot" alt="Game Engines"/>
+</div>
+
+<div align="center">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=50&color=000000&text=Connect%20with%20me&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
+    <a href="https://www.linkedin.com/in/dadavidtseng/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin"/>
+    </a>
+    <a href="https://twitter.com/dadavidtseng" target="_blank">
+        <img src="https://skillicons.dev/icons?i=twitter"/>
+    </a>
+    <a href="https://discord.com/channels/@960573427859726356" target="_blank">
+        <img src="https://skillicons.dev/icons?i=discord"/>
+    </a>
 </div>
 
 <!-- Visit Counter --> 
 
-<div>
-    <a href="https://visitcount.itsvg.in"> <img src="https://visitcount.itsvg.in/api?id=dadavidtseng&icon=3&color=5" alt="Profile Visit Counter" /> </a> 
-</div> 
-
-
-
-
+<div align="center">
+    <p>
+        <img src="https://komarev.com/ghpvc/?username=dadavidtseng&style=for-the-badge&color=000000" alt="Profile Visit Counter"/>
+    </p>
+</div>
