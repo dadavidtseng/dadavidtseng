@@ -6,13 +6,13 @@
 <!-- Stats Section -->
 <div> 
     <img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=dadavidtseng&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Yu-Wei's Contribution graph"/>
-    <img width=48% src="https://github-readme-stats.vercel.app/api?username=dadavidtseng&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&show_icons=true&count_private=true&hide_border=true" alt="Yu-Wei's GitHub stats" />
-    <img width=51% src="https://github-readme-streak-stats.herokuapp.com/?user=dadavidtseng&hide_border=true&stroke=0000&background=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&ring=ffffff&fire=ffffff" alt="stats" />
+    <img width=100% src="https://github-readme-stats.vercel.app/api?username=dadavidtseng&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&show_icons=true&count_private=true&hide_border=true" alt="Yu-Wei's GitHub stats" />
+    <img width=100% src="https://github-readme-streak-stats.herokuapp.com/?user=dadavidtseng&hide_border=true&stroke=0000&background=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&ring=ffffff&fire=ffffff" alt="stats" />
 </div>
 
 <div>
-    <img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadavidtseng&layout=compact&hide_border=true&text_color=ffffff&bg_color=000000&title_color=ffffff" alt="top languages" />
-    <img width=48% src="https://github-readme-stats.vercel.app/api/wakatime?username=dadavidtseng&layout=compact&hide_title=true&hide_border=true&text_color=ffffff&bg_color=000000&title_color=ffffff" alt="top languages" />
+    <img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadavidtseng&layout=compact&hide_border=true&text_color=ffffff&bg_color=000000&title_color=ffffff" alt="top languages" />
+    <img width=100% src="https://github-readme-stats.vercel.app/api/wakatime?username=dadavidtseng&layout=compact&hide_title=true&hide_border=true&text_color=ffffff&bg_color=000000&title_color=ffffff" alt="top languages" />
 </div>
 
 <!-- Technologies Section -->
@@ -38,7 +38,7 @@
 </div>
 
 <div align="center">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=50&color=000000&text=Game%Engines&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=50&color=000000&text=Game%20Engines&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
     <img src="https://skillicons.dev/icons?i=unity,unreal,godot" alt="Game Engines"/>
 </div>
 
