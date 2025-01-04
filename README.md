@@ -1,26 +1,30 @@
 <!-- Header Section --> 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=150&theme=dark&text=Yu-Wei%20Tseng%20|%20曾宥瑋&animation=fadeIn&textBg=false" alt="header"> 
-
-<div>
-        <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg" alt="snake" >
-<br><br>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=150&color=000000&text=Yu-Wei%20Tseng%20|%20曾宥瑋&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=50" alt="header"> 
 
 <!-- Stats Section -->
-<div > 
-    <img src="https://github-readme-stats.vercel.app/api?username=dadavidtseng&theme=dark&show_icons=true&count_private=true&hide_border=true" alt="Yu-Wei's GitHub stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dadavidtseng&theme=dark&hide_border=true" alt="GitHub Streak" /> 
-<br><br> 
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dadavidtseng&theme=dark&hide_border=true&no-bg=true&langs_count=8" alt="Top Languages" /> 
+<div> 
+    <img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=dadavidtseng&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Yu-Wei's Contribution graph"/>
+    <img width=48% src="https://github-readme-stats.vercel.app/api?username=dadavidtseng&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&show_icons=true&count_private=true&hide_border=true" alt="Yu-Wei's GitHub stats" />
+    <img width=51% src="https://github-readme-streak-stats.herokuapp.com/?user=dadavidtseng&hide_border=true&stroke=0000&background=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&ring=ffffff&fire=ffffff" alt="stats" />
+</div>
+
+<div>
+    <img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadavidtseng&layout=compact&hide_border=true&text_color=ffffff&bg_color=000000&title_color=ffffff" alt="top languages" />
+    <img width=48% src="https://github-readme-stats.vercel.app/api/wakatime?username=dadavidtseng&layout=compact" alt="top languages" />
+    
+<img src="https://skillicons.dev/icons?i=cpp,cs,py,js,react,nodejs,ts,mongodb,postgres,figma,vscode&perline=12" alt="Tech Stack" /> </a>
 </div>
 
 <!-- Technologies Section -->
+
 ### Technologies I Use
+
 <div> 
     <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,cpp,unity,unreal,py,js,react,nodejs,ts,mongodb,postgres,figma,vscode&perline=12" alt="Tech Stack" /> </a> 
 </div>
 
 <!-- Connect Section -->
+
 ### Connect With Me
 
 <div> 
@@ -28,6 +32,11 @@
 </div>
 
 <!-- Visit Counter --> 
-<a href="https://visitcount.itsvg.in"> <img src="https://visitcount.itsvg.in/api?id=dadavidtseng&icon=3&color=6" alt="Profile Visit Counter" /> </a> </div> <!-- Gradient Divider --> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div>
+    <a href="https://visitcount.itsvg.in"> <img src="https://visitcount.itsvg.in/api?id=dadavidtseng&icon=3&color=5" alt="Profile Visit Counter" /> </a> 
+</div> 
+
+
 
 
