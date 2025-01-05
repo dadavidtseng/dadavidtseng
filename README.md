@@ -3,6 +3,8 @@
     <img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=150&color=000000&text=Yu-Wei%20Tseng%20|%20曾宥瑋&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=50" alt="header">
 </div>
 
+
+
 <!-- Stats Section -->
 <div> 
     <img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=dadavidtseng&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Yu-Wei's Contribution graph"/>
@@ -33,7 +35,7 @@
 </div>
 
 <div align="center">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=50&color=000000&text=Software%Tools&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=50&color=000000&text=Software%20Tools&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
     <img src="https://skillicons.dev/icons?i=autocad,blender" alt="Software Tools"/>
 </div>
 
@@ -53,12 +55,12 @@
     <a href="https://discord.com/channels/@960573427859726356" target="_blank">
         <img src="https://skillicons.dev/icons?i=discord"/>
     </a>
+    <br>
+    <br>
 </div>
 
 <!-- Visit Counter --> 
 
 <div align="center">
-    <p>
-        <img src="https://komarev.com/ghpvc/?username=dadavidtseng&style=for-the-badge&color=000000" alt="Profile Visit Counter"/>
-    </p>
+    <img src="https://komarev.com/ghpvc/?username=dadavidtseng&style=for-the-badge&color=000000" alt="Profile Visit Counter"/>
 </div>
