@@ -36,7 +36,7 @@
 
 <div align="center">
     <img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=50&color=000000&text=Software%20Tools&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
-    <img src="https://skillicons.dev/icons?i=autocad,blender" alt="Software Tools"/>
+    <img src="https://skillicons.dev/icons?i=autocad,ai,blender,pr,ps" alt="Software Tools"/>
 </div>
 
 <div align="center">
