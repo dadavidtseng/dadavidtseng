@@ -4,7 +4,6 @@
 </div>
 
 
-
 <!-- Stats Section -->
 <div> 
     <img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=dadavidtseng&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Yu-Wei's Contribution graph"/>
@@ -14,7 +13,8 @@
 
 <div>
     <img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadavidtseng&layout=compact&hide_border=true&text_color=ffffff&bg_color=000000&title_color=ffffff" alt="top languages" />
-    <img width=100% src="https://github-readme-stats.vercel.app/api/wakatime?username=dadavidtseng&layout=compact&hide_title=true&hide_border=true&text_color=ffffff&bg_color=000000&title_color=ffffff" alt="top languages" />
+
+[//]: # (    <img width=100% src="https://github-readme-stats.vercel.app/api/wakatime?username=dadavidtseng&layout=compact&hide_title=true&hide_border=true&text_color=ffffff&bg_color=000000&title_color=ffffff" alt="top languages" />)
 </div>
 
 <!-- Technologies Section -->
