@@ -20,7 +20,7 @@
                 <div align="center">
                     <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&color=000000&text=Programming%20Languages&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
                     <br>
-                    <img src="https://skillicons.dev/icons?i=c,cs,cpp" alt="Programming Languages">
+                    <img src="https://skillicons.dev/icons?i=c,cs,cpp,rust,java" alt="Programming Languages">
                 </div>
                 <br><br>
                 <div align="center">
@@ -32,7 +32,7 @@
                 <div align="center">
                     <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&color=000000&text=IDEs&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
                     <br>
-                    <img src="https://skillicons.dev/icons?i=rider,visualstudio" alt="IDEs">
+                    <img src="https://skillicons.dev/icons?i=rider,webstorm,idea,visualstudio" alt="IDEs">
                 </div>
                 <br><br>
                 <div align="center">
@@ -46,6 +46,13 @@
                     <br>
                     <img src="https://skillicons.dev/icons?i=unity,unreal,godot" alt="Game Engines">
                 </div>
+                <br><br>
+                <div align="center">
+                    <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&color=000000&text=Connect%20with%20me&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
+                    <br>
+                    <img src="https://skillicons.dev/icons?i=linkedin,instagram,discord" alt="IDEs">
+                </div>
+                <br><br>
             </td>
         </tr>
     </table>
