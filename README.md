@@ -1,6 +1,6 @@
 <!-- Header Section --> 
 <div>
-    <img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=150&color=000000&text=Yu-Wei%20Tseng%20|%20曾宥瑋&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=50" alt="header">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=000000&text=Yu-Wei%20Tseng%20|%20曾宥瑋&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=50" alt="header">
 </div>
 
 > This is a blockquote <br>
@@ -21,7 +21,7 @@
             </td>
             <td width="50%" style="border: none; vertical-align: top; text-align: center;">
                 <div>
-                    <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&color=000000&text=Programming%20Languages&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
+                    <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Programming%20Languages&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
                     <br>
                     <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C">
                     <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
@@ -31,31 +31,31 @@
                 </div>
                 <br><br>
                 <div align="center">
-                    <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&color=000000&text=Web%20Technologies&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
+                    <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Web%20Technologies&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
                     <br>
                     <img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Technologies">
                 </div>
                 <br><br>
                 <div align="center">
-                    <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&color=000000&text=IDEs&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
+                    <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=IDEs&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
                     <br>
                     <img src="https://skillicons.dev/icons?i=rider,webstorm,idea,visualstudio" alt="IDEs">
                 </div>
                 <br><br>
                 <div align="center">
-                    <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&color=000000&text=Software%20Tools&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
+                    <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Software%20Tools&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
                     <br>
                     <img src="https://skillicons.dev/icons?i=autocad,ai,blender,pr,ps" alt="Software Tools">
                 </div>
                 <br><br>
                 <div align="center">
-                    <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&color=000000&text=Game%20Engines&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
+                    <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Game%20Engines&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
                     <br>
                     <img src="https://skillicons.dev/icons?i=unity,unreal,godot" alt="Game Engines">
                 </div>
                 <br><br>
                 <div align="center">
-                    <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&color=000000&text=Connect%20with%20me&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
+                    <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Connect%20with%20me&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
                     <a href="https://github.com/dadavidtseng/PlanetPainter">
                         <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=PlanetPainter&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="PlanetPainter">
                     </a>
