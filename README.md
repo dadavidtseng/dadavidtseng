@@ -23,13 +23,13 @@
             <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=DaemonWindows&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="DaemonWindows">
         </a>
     </div>
-</div><div align="center">
+</div>
+
+<div align="center">
     <table border="0" cellpadding="0" cellspacing="0" style="border: none; width: 100%;">
         <tr>
             <td width="50%" style="border: none; vertical-align: top; text-align: center;">
     <div>
-        <!-- Maintaining Banner -->
-        <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Maintaining&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="Maintaining Banner">
         <div>
             <!-- Starship -->
             <a href="https://github.com/dadavidtseng/Starship">
@@ -48,9 +48,9 @@
         </div>
         <!-- Archived Banner (moved inside the main div) -->
         <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Archived&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="Archived Banner">
-        <div style="display: flex; width: 100%;">
+        <div>
             <!-- PlanetPainter -->
-            <a href="https://github.com/dadavidtseng/PlanetPainter" style="width: 50%; padding-right: 5px">
+            <a href="https://github.com/dadavidtseng/PlanetPainter">
                 <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=PlanetPainter&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="PlanetPainter">
             </a>
         </div>
