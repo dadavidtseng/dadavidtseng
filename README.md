@@ -23,8 +23,7 @@
             <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=DaemonWindows&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="DaemonWindows">
         </a>
     </div>
-</div>
-<div align="center">
+</div><div align="center">
     <table border="0" cellpadding="0" cellspacing="0" style="border: none; width: 100%;">
         <tr>
             <td width="50%" style="border: none; vertical-align: top; text-align: center;">
