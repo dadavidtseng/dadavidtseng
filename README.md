@@ -24,7 +24,6 @@
         </a>
     </div>
 </div>
-
 <div align="center">
     <table border="0" cellpadding="0" cellspacing="0" style="border: none; width: 100%;">
         <tr>
@@ -42,20 +41,20 @@
                             <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=Libra&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="Libra">
                         </a>
                     </div>
-                <div>
-                <!-- Doomenstein -->
-                <a href="https://github.com/dadavidtseng/Doomenstein">
-                    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=Doomenstein&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="Doomenstein">
-                </a>
-            </div>
-            <!-- Archived Banner -->
-            <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Archived&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="Archived Banner">
-            <div style="display: flex; width: 100%;">
-                <!-- PlanetPainter -->
-                <a href="https://github.com/dadavidtseng/PlanetPainter" style="width: 50%; padding-right: 5px">
-                    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=PlanetPainter&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="PlanetPainter">
-                </a>
-                </div>
+                    <div>
+                        <!-- Doomenstein -->
+                        <a href="https://github.com/dadavidtseng/Doomenstein">
+                            <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=Doomenstein&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="Doomenstein">
+                        </a>
+                    </div>
+                    <!-- Archived Banner -->
+                    <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Archived&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="Archived Banner">
+                    <div style="display: flex; width: 100%;">
+                        <!-- PlanetPainter -->
+                        <a href="https://github.com/dadavidtseng/PlanetPainter" style="width: 50%; padding-right: 5px">
+                            <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=PlanetPainter&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="PlanetPainter">
+                        </a>
+                    </div>
                 </div>
                     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dadavidtseng&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Yu-Wei's Contribution graph">
                     <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dadavidtseng&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&show_icons=true&count_private=true&hide_border=true" alt="Yu-Wei's GitHub stats">
