@@ -1,58 +1,54 @@
-<!-- Header Section --> 
+[//]: # (Header)
 <div>
     <img width=100% src="https://capsule-render.vercel.app/api?type=rect&height=150&color=000000&text=Yu-Wei%20Tseng%20|%20曾宥瑋&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=50" alt="header">
 </div>
 
-[//]: # (Currently Working On)
-<div>
-    
-</div>
-
+[//]: # (Body)
 <div align="center">
     <table>
         <tr>
             <td width="50%" valign="top">
                 <div>
-                <!-- Currently Working On Banner -->
+<!-- Currently Working On Banner -->
                     <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Currently%20Working%20On&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="Currently Working On Banner">
                 <div align="center">
-                    <!-- DaemonEngine -->
+    <!-- DaemonEngine -->
                         <a href="https://github.com/dadavidtseng/DaemonEngine">
                             <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=DaemonEngine&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="DaemonEngine">
                         </a>
                 </div>
                 <div align="center">
-                <!-- DaemonChess -->
+    <!-- DaemonChess -->
                     <a href="https://github.com/dadavidtseng/DaemonChess">
                         <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=DaemonChess&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="DaemonChess">
                     </a>
-                <!-- DaemonWindows -->
+    <!-- DaemonWindows -->
                     <a href="https://github.com/dadavidtseng/DaemonWindows">
                         <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=DaemonWindows&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="DaemonWindows">
                     </a>
                 </div>
-                <!-- Maintaining Banner -->
+<!-- Maintaining Banner -->
                     <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Maintaining&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="Maintaining Banner">
                     <div>
-                    <!-- Starship -->
+    <!-- Starship -->
                         <a href="https://github.com/dadavidtseng/Starship">
                             <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=Starship&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="Starship">
                         </a>
-                    <!-- Libra -->
+    <!-- Libra -->
                         <a href="https://github.com/dadavidtseng/Libra">
                             <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=Libra&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="Libra">
                         </a>
                     </div>
                     <div>
-                    <!-- Doomenstein -->
+    <!-- Doomenstein -->
                         <a href="https://github.com/dadavidtseng/Doomenstein">
                             <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=Doomenstein&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="Doomenstein">
                         </a>
                     </div>
-                <!-- Archived Banner -->
+<!-- Archived Banner -->
                     <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Archived&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="Archived Banner">
                     <div>
-                    <!-- PlanetPainter -->
+    <!-- PlanetPainter -->
                         <a href="https://github.com/dadavidtseng/PlanetPainter">
                             <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=PlanetPainter&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="PlanetPainter">
                         </a>
@@ -64,6 +60,7 @@
             </td>
             <td width="50%" valign="top">
                 <div align="center">
+<!-- Programming Languages -->
                     <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Programming%20Languages&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
                     <br>
                     <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -72,8 +69,9 @@
                     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
                     <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
                 </div>
-                <br><br>
+                <br><br> 
                 <div align="center">
+<!-- Web Technologies -->
                     <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Web%20Technologies&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
                     <br>
                     <img src="https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
@@ -84,6 +82,7 @@
                 </div>
                 <br><br>
                 <div align="center">
+<!-- IDEs -->
                     <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=IDEs&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
                     <br>
                     <img src="https://img.shields.io/badge/rider-000000?style=for-the-badge&logo=rider&logoColor=white" alt="JetBrains Rider">
@@ -95,6 +94,7 @@
                 </div>
                 <br><br>
                 <div align="center">
+<!-- Game Engines -->
                     <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Game%20Engines&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
                     <br>
                     <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
@@ -103,6 +103,7 @@
                 </div>
                 <br><br>
                 <div align="center">
+<!-- Software Tools -->
                     <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Software%20Tools&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
                     <br>
                     <img src="https://img.shields.io/badge/autocad-000000?style=for-the-badge&logo=autocad&logoColor=white" alt="Autodesk AutoCAD">
@@ -116,12 +117,14 @@
                 </div>
                 <br><br>
                 <div align="center">
+<!-- AI Tools -->
                     <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=AI%20Tools&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="AI Tools">
                     <br>
                     <img src="https://img.shields.io/badge/model%20context%20protocol-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol">
                 </div>
                 <br><br>
                 <div align="center">
+<!-- Documentation Tools -->
                     <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Software%20Tools&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
                     <br>
                     <img src="https://img.shields.io/badge/readthedocs-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Read the Docs">
@@ -132,7 +135,7 @@
     </table>
 </div>
 
-[//]: # (Profile Views)
+[//]: # (Footer)
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=dadavidtseng&style=for-the-badge&color=000000" alt="Profile Visit Counter"/>
 </div>
