@@ -7,14 +7,14 @@
 <div>
     <!-- Currently Working On Banner -->
     <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Currently%20Working%20On&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="Currently Working On Banner">
-    <div style="display: flex; width: 100%;">
+    <div align="center">
         <!-- DaemonEngine -->
-        <a href="https://github.com/dadavidtseng/DaemonEngine" style="width: 50%; padding-right: 10px">
-            <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=DaemonEngine&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="DaemonEngine">
+        <a href="https://github.com/dadavidtseng/DaemonEngine">
+            <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=DaemonEngine&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="DaemonEngine">
         </a>
         <!-- DaemonChess -->
-        <a href="https://github.com/dadavidtseng/DaemonChess" style="width: 50%; padding-left: 10px">
-            <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=DaemonChess&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="DaemonChess">
+        <a href="https://github.com/dadavidtseng/DaemonChess">
+            <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=DaemonChess&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="DaemonChess">
         </a>
     </div>
     <div style="display: flex; width: 100%;">
