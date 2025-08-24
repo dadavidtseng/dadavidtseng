@@ -11,7 +11,7 @@
 <div align="center">
     <table>
         <tr>
-            <td width="50%" align="top">
+            <td width="50%" valign="top">
                 <div>
                 <!-- Currently Working On Banner -->
                     <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Currently%20Working%20On&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="Currently Working On Banner">
@@ -62,7 +62,7 @@
                     <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dadavidtseng&hide_border=true&stroke=0000&background=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&ring=ffffff&fire=ffffff" alt="stats">
                 </div>
             </td>
-            <td width="50%" align="top">
+            <td width="50%" valign="top">
                 <div align="center">
                     <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Programming%20Languages&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
                     <br>
