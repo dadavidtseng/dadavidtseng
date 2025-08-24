@@ -3,6 +3,9 @@
     <img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=150&color=000000&text=Yu-Wei%20Tseng%20|%20曾宥瑋&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=50" alt="header">
 </div>
 
+> This is a blockquote <br>
+> It supports multiple lines
+
 
 <div align="center">
     <table border="0" cellpadding="0" cellspacing="0" style="border: none; width: 100%;">
@@ -17,10 +20,14 @@
                 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadavidtseng&layout=compact&hide_border=true&text_color=ffffff&bg_color=000000&title_color=ffffff" alt="top languages">
             </td>
             <td width="50%" style="border: none; vertical-align: top; text-align: center;">
-                <div align="center">
+                <div>
                     <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&color=000000&text=Programming%20Languages&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
                     <br>
-                    <img src="https://skillicons.dev/icons?i=c,cs,cpp,rust,java" alt="Programming Languages">
+                    <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C">
+                    <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+                    <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+                    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+                    <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
                 </div>
                 <br><br>
                 <div align="center">
@@ -49,8 +56,12 @@
                 <br><br>
                 <div align="center">
                     <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&color=000000&text=Connect%20with%20me&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
-                    <br>
-                    <img src="https://skillicons.dev/icons?i=linkedin,instagram,discord" alt="IDEs">
+                    <a href="https://github.com/dadavidtseng/PlanetPainter">
+                        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=PlanetPainter&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="PlanetPainter">
+                    </a>
+                    <a href="https://github.com/dadavidtseng/DaemonEngine">
+                        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=DaemonEngine&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="DaemonEngine">
+                    </a>
                 </div>
                 <br><br>
             </td>
