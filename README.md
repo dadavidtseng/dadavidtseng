@@ -27,7 +27,6 @@
     <table border="0" cellpadding="0" cellspacing="0" style="border: none; width: 100%;">
         <tr>
             <td width="50%" style="border: none; vertical-align: top; text-align: center;">
-                <!-- Maintaining Banner -->
                 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Maintaining&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="Maintaining Banner">
                 <div>
                     <!-- Starship -->
