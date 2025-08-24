@@ -9,28 +9,28 @@
 </div>
 
 <div align="center">
-    <table border="0" cellpadding="0" cellspacing="0">
+    <table>
         <tr>
             <td width="50%" align="top">
                 <div>
                 <!-- Currently Working On Banner -->
                     <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Currently%20Working%20On&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="Currently Working On Banner">
-                    <div align="center">
+                <div align="center">
                     <!-- DaemonEngine -->
-        <a href="https://github.com/dadavidtseng/DaemonEngine">
-            <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=DaemonEngine&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="DaemonEngine">
-        </a>
-    </div>
-    <div align="center">
-        <!-- DaemonChess -->
-        <a href="https://github.com/dadavidtseng/DaemonChess">
-            <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=DaemonChess&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="DaemonChess">
-        </a>
-        <!-- DaemonWindows -->
-        <a href="https://github.com/dadavidtseng/DaemonWindows">
-            <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=DaemonWindows&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="DaemonWindows">
-        </a>
-    </div>
+                        <a href="https://github.com/dadavidtseng/DaemonEngine">
+                            <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=DaemonEngine&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="DaemonEngine">
+                        </a>
+                </div>
+                <div align="center">
+                <!-- DaemonChess -->
+                    <a href="https://github.com/dadavidtseng/DaemonChess">
+                        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=DaemonChess&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="DaemonChess">
+                    </a>
+                <!-- DaemonWindows -->
+                    <a href="https://github.com/dadavidtseng/DaemonWindows">
+                        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=DaemonWindows&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="DaemonWindows">
+                    </a>
+                </div>
                 <!-- Maintaining Banner -->
                     <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Maintaining&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="Maintaining Banner">
                     <div>
@@ -43,27 +43,26 @@
                             <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=Libra&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="Libra">
                         </a>
                     </div>
-                <div>
+                    <div>
                     <!-- Doomenstein -->
                         <a href="https://github.com/dadavidtseng/Doomenstein">
                             <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=Doomenstein&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="Doomenstein">
                         </a>
+                    </div>
+                <!-- Archived Banner -->
+                    <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Archived&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="Archived Banner">
+                    <div>
+                    <!-- PlanetPainter -->
+                        <a href="https://github.com/dadavidtseng/PlanetPainter">
+                            <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=PlanetPainter&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="PlanetPainter">
+                        </a>
+                    </div>
+                    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dadavidtseng&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Yu-Wei's Contribution graph">
+                    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dadavidtseng&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&show_icons=true&count_private=true&hide_border=true" alt="Yu-Wei's GitHub stats">
+                    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dadavidtseng&hide_border=true&stroke=0000&background=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&ring=ffffff&fire=ffffff" alt="stats">
                 </div>
-        <!-- Archived Banner (moved inside the main div) -->
-        <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Archived&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="Archived Banner">
-        <div>
-            <!-- PlanetPainter -->
-            <a href="https://github.com/dadavidtseng/PlanetPainter">
-                <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=PlanetPainter&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="PlanetPainter">
-            </a>
-        </div>
-        <!-- All stats images also moved inside the main div -->
-        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dadavidtseng&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Yu-Wei's Contribution graph">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dadavidtseng&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&show_icons=true&count_private=true&hide_border=true" alt="Yu-Wei's GitHub stats">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dadavidtseng&hide_border=true&stroke=0000&background=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&ring=ffffff&fire=ffffff" alt="stats">
-    </div>
-</td>
-            <td width="50%">
+            </td>
+            <td width="50%" align="top">
                 <div align="center">
                     <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Programming%20Languages&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
                     <br>
