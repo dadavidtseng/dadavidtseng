@@ -18,9 +18,9 @@
                         </a>
                 </div>
                 <div align="center">
-    <!-- DaemonChess -->
-                    <a href="https://github.com/dadavidtseng/DaemonChess">
-                        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=DaemonChess&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="DaemonChess">
+    <!-- DaemonCraft -->
+                    <a href="https://github.com/dadavidtseng/DaemonCraft">
+                        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=DaemonCraft&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="DaemonCraft">
                     </a>
     <!-- DaemonWindows -->
                     <a href="https://github.com/dadavidtseng/DaemonWindows">
@@ -44,6 +44,10 @@
                         <a href="https://github.com/dadavidtseng/Doomenstein">
                             <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=Doomenstein&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="Doomenstein">
                         </a>
+<!-- DaemonChess -->
+                    <a href="https://github.com/dadavidtseng/DaemonChess">
+                        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=DaemonChess&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="DaemonChess">
+                    </a>
                     </div>
 <!-- Archived Banner -->
                     <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Archived&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="Archived Banner">
