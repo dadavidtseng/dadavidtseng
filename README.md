@@ -1,8 +1,3 @@
-[//]: # (Header)
-<div>
-    <img width=100% src="https://capsule-render.vercel.app/api?type=rect&height=150&color=000000&text=Yu-Wei%20Tseng%20|%20曾宥瑋&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=50" alt="header">
-</div>
-
 [//]: # (Body)
 <div align="center">
     <table>
