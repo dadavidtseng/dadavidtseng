@@ -1,12 +1,10 @@
 import https from "node:https";
 import fs from "node:fs";
+import { fileURLToPath } from "node:url";
 import { parseString } from "xml2js";
 
 const TOKEN = process.env.GH_TOKEN || "";
-const README_PATH = new URL("./README.md", import.meta.url).pathname.replace(
-  /^\//,
-  ""
-);
+const README_PATH = fileURLToPath(new URL("./README.md", import.meta.url));
 
 function replaceChunk(content, marker, chunk) {
   const re = new RegExp(
