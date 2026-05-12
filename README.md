@@ -4,14 +4,14 @@ Currently working on [DaemonEngine](https://github.com/dadavidtseng/DaemonEngine
 
 ### Recent Commits
 <!-- recent_commits starts -->
-* [`491a772`](https://github.com/dadavidtseng/AGENTS/commit/491a7726e8079b10449f93f7283da59f51811502) **AGENTS** — chore: bump version for agent-lead (2026-05-08)
-* [`924a45d`](https://github.com/dadavidtseng/DaemonAgent/commit/924a45d42c0d75596880980c90987b469aa498df) **DaemonAgent** — fix(hotreload): destroy old C++ entities before re-creati... (2026-05-07)
-* [`f3177a2`](https://github.com/dadavidtseng/DaemonEngine/commit/f3177a26c6f15259790717650200fb7f3e2dc829) **DaemonEngine** — fix(script): enable module dependency tracking for hot-re... (2026-05-07)
-* [`fd49b7f`](https://github.com/dadavidtseng/AGENTS/commit/fd49b7f39034df6d6f418739da15d9a2f30c5c1d) **AGENTS** — update: add akash-tls-certificate in secret.toml (2026-05-07)
-* [`27853de`](https://github.com/dadavidtseng/DaemonEngine/commit/27853de32f49c443d6aba4455ed4622d549168c6) **DaemonEngine** — feat(resource): add OBJ model loading to MeshCache (2026-05-07)
-* [`a19c3f4`](https://github.com/dadavidtseng/DaemonAgent/commit/a19c3f49bf5347226136839033d0ae49356d0b3a) **DaemonAgent** — fix(game): remove debug text from attract mode screen label (2026-05-07)
-* [`309e73b`](https://github.com/dadavidtseng/AGENTS/commit/309e73ba68ddc07e1a359329df2bbd6bc0321418) **AGENTS** — fix(agent-docs): fix search modal background in light mode (2026-05-07)
-* [`322492d`](https://github.com/dadavidtseng/AGENTS/commit/322492d413809ea9ab61bfd15b6155aab8f50939) **AGENTS** — fix(agent-docs): correct Starlight color scale for light ... (2026-05-07)
+* [`f4e9159`](https://github.com/dadavidtseng/dadavidtseng/commit/f4e91596e2fba4bafc159f81fbcd722258520c72) **dadavidtseng** — fix: grant contents write permission to workflow (2026-05-12)
+* [`9545ff9`](https://github.com/dadavidtseng/dadavidtseng/commit/9545ff999e6e6dae508277c81d9f022891ad2f5d) **dadavidtseng** — fix: use fileURLToPath for cross-platform path resolution (2026-05-12)
+* [`14aea72`](https://github.com/dadavidtseng/dadavidtseng/commit/14aea72a804d983fadca8b56b01332cfcacc59b8) **dadavidtseng** — feat: add auto-updating README with GitHub Actions (2026-05-12)
+* [`7c69073`](https://github.com/dadavidtseng/Ant/commit/7c69073bcfa7842a286f03b2e591117f15be5936) **Ant** — feat(ant): BOMBER role, queen starve-lock, reachable-food... (2026-05-11)
+* [`57438e7`](https://github.com/dadavidtseng/Ant/commit/57438e74e7117bb9cb776f79b7e74fd4e769ba0c) **Ant** — chore: untrack DLLs, storehouse, and tool configs from git (2026-05-10)
+* [`dfcfd14`](https://github.com/dadavidtseng/Ant/commit/dfcfd141a3add6d267bfd432abf4300194fbc862) **Ant** — chore: update tooling configs and game settings (2026-05-10)
+* [`c090001`](https://github.com/dadavidtseng/Ant/commit/c09000120603439c6b994b737bf25dc83ba8c07c) **Ant** — feat: Storehouse .dll files (2026-05-10)
+* [`af051fd`](https://github.com/dadavidtseng/Ant/commit/af051fdee4773e1ebef6b36e160ec811c87cd3dc) **Ant** — chore: add project tooling configs (claude, serena, spec-... (2026-05-09)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
@@ -20,7 +20,7 @@ More on [my GitHub](https://github.com/dadavidtseng)
 
 ### On My Blog
 <!-- blog starts -->
-* [Embedding V8 JavaScript Engine into a C++ Game Engine](https://dadavidtseng.info/blog/embed-v8-javascript-engine-into-cpp-game-engine.mdx/) (2024-07-20)
+* [Embedding V8 JavaScript Engine into a C++ Game Engine](https://dadavidtseng.com/blog/embed-v8-javascript-engine-into-cpp-game-engine.mdx/) (2024-07-20)
 <!-- blog ends -->
 
 More on [dadavidtseng.com](https://dadavidtseng.com/blog)
