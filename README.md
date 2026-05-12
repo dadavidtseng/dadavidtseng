@@ -1,140 +1,30 @@
-[//]: # (Body)
-<div align="center">
-    <table>
-        <tr>
-            <td width="50%" valign="top">
-                <div>
-<!-- Currently Working On Banner -->
-                    <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Currently%20Working%20On&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="Currently Working On Banner">
-                <div align="center">
-    <!-- DaemonEngine -->
-                        <a href="https://github.com/dadavidtseng/DaemonEngine">
-                            <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=DaemonEngine&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="DaemonEngine">
-                        </a>
-                </div>
-                <div align="center">
-    <!-- DaemonCraft -->
-                    <a href="https://github.com/dadavidtseng/DaemonCraft">
-                        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=DaemonCraft&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="DaemonCraft">
-                    </a>
-    <!-- DaemonWindows -->
-                    <a href="https://github.com/dadavidtseng/DaemonWindows">
-                        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=DaemonWindows&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="DaemonWindows">
-                    </a>
-                </div>
-<!-- Maintaining Banner -->
-                    <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Maintaining&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="Maintaining Banner">
-                    <div>
-    <!-- Starship -->
-                        <a href="https://github.com/dadavidtseng/DaemonStarship">
-                            <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=DaemonStarship&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="Starship">
-                        </a>
-    <!-- Libra -->
-                        <a href="https://github.com/dadavidtseng/DaemonLibra">
-                            <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=DaemonLibra&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="Libra">
-                        </a>
-                    </div>
-                    <div>
-    <!-- Doomenstein -->
-                        <a href="https://github.com/dadavidtseng/Daemonstein">
-                            <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=Daemonstein&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="Doomenstein">
-                        </a>
-<!-- DaemonChess -->
-                    <a href="https://github.com/dadavidtseng/DaemonChess">
-                        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=DaemonChess&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="DaemonChess">
-                    </a>
-                    </div>
-<!-- Archived Banner -->
-                    <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Archived&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="Archived Banner">
-                    <div>
-    <!-- PlanetPainter -->
-                        <a href="https://github.com/dadavidtseng/PlanetPainter">
-                            <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadavidtseng&repo=PlanetPainter&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="PlanetPainter">
-                        </a>
-                    </div>
-                    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dadavidtseng&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Yu-Wei's Contribution graph">
-                    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dadavidtseng&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&show_icons=true&count_private=true&hide_border=true" alt="Yu-Wei's GitHub stats">
-                    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dadavidtseng&hide_border=true&stroke=0000&background=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&ring=ffffff&fire=ffffff" alt="stats">
-                </div>
-            </td>
-            <td width="50%" valign="top">
-                <div align="center">
-<!-- Programming Languages -->
-                    <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Programming%20Languages&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
-                    <br>
-                    <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C">
-                    <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-                    <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-                    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-                    <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-                </div>
-                <br><br> 
-                <div align="center">
-<!-- Web Technologies -->
-                    <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Web%20Technologies&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
-                    <br>
-                    <img src="https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-                    <img src="https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
-                    <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-                    <img src="https://img.shields.io/badge/vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue">
-                    <img src="https://img.shields.io/badge/vite-000000?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-                </div>
-                <br><br>
-                <div align="center">
-<!-- IDEs -->
-                    <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=IDEs&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
-                    <br>
-                    <img src="https://img.shields.io/badge/rider-000000?style=for-the-badge&logo=rider&logoColor=white" alt="JetBrains Rider">
-                    <img src="https://img.shields.io/badge/webstorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" alt="JetBrains Webstorm">
-                    <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white" alt="JetBrains Intellij IDEA">
-                    <img src="https://img.shields.io/badge/visual%20studio-000000?style=for-the-badge&logoColor=white" alt="Visual Studio">
-                    <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="JetBrains Pycharm">
-                    <img src="https://img.shields.io/badge/rustrover-000000?style=for-the-badge&logoColor=white" alt="JetBrains RustRover">
-                </div>
-                <br><br>
-                <div align="center">
-<!-- Game Engines -->
-                    <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Game%20Engines&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
-                    <br>
-                    <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
-                    <img src="https://img.shields.io/badge/unreal%20engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine">
-                    <img src="https://img.shields.io/badge/godot-000000?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot">
-                </div>
-                <br><br>
-                <div align="center">
-<!-- Software Tools -->
-                    <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Software%20Tools&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
-                    <br>
-                    <img src="https://img.shields.io/badge/autocad-000000?style=for-the-badge&logo=autocad&logoColor=white" alt="Autodesk AutoCAD">
-                    <img src="https://img.shields.io/badge/illustrator-000000?style=for-the-badge&logoColor=white" alt="Adobe Illustrator">
-                    <img src="https://img.shields.io/badge/blender-000000?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
-                    <img src="https://img.shields.io/badge/premiere-000000?style=for-the-badge&logoColor=white" alt="Adobe Premiere">
-                    <img src="https://img.shields.io/badge/photoshop-000000?style=for-the-badge&logoColor=white" alt="Adobe Photoshop">
-                    <img src="https://img.shields.io/badge/revit-000000?style=for-the-badge&logo=autodesk%20revit&logoColor=white" alt="Autodesk Revit">
-                    <img src="https://img.shields.io/badge/archicad-000000?style=for-the-badge&logo=archicad&logoColor=white" alt="Graphisoft ArchiCAD">
-                    <img src="https://img.shields.io/badge/rhino-000000?style=for-the-badge&logo=rhinoceros&logoColor=white" alt="Rhinoceros 3D">
-                </div>
-                <br><br>
-                <div align="center">
-<!-- AI Tools -->
-                    <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=AI%20Tools&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="AI Tools">
-                    <br>
-                    <img src="https://img.shields.io/badge/model%20context%20protocol-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol">
-                </div>
-                <br><br>
-                <div align="center">
-<!-- Documentation Tools -->
-                    <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Software%20Tools&animation=fadeIn&textBg=false&fontColor=ffffff&fontSize=25" alt="header">
-                    <br>
-                    <img src="https://img.shields.io/badge/readthedocs-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Read the Docs">
-                </div>
-                <br><br>
-            </td>
-        </tr>
-    </table>
-</div>
+Currently working on [DaemonEngine](https://github.com/dadavidtseng/DaemonEngine) — a custom C++ game engine with V8 scripting. Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https://dadavidtseng.com).
 
-[//]: # (Footer)
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=dadavidtseng&style=for-the-badge&color=000000" alt="Profile Visit Counter"/>
-</div>
+<table><tr><td valign="top" width="50%">
+
+### Recent Commits
+<!-- recent_commits starts -->
+* [`491a772`](https://github.com/dadavidtseng/AGENTS/commit/491a7726e8079b10449f93f7283da59f51811502) **AGENTS** — chore: bump version for agent-lead (2026-05-08)
+* [`924a45d`](https://github.com/dadavidtseng/DaemonAgent/commit/924a45d42c0d75596880980c90987b469aa498df) **DaemonAgent** — fix(hotreload): destroy old C++ entities before re-creati... (2026-05-07)
+* [`f3177a2`](https://github.com/dadavidtseng/DaemonEngine/commit/f3177a26c6f15259790717650200fb7f3e2dc829) **DaemonEngine** — fix(script): enable module dependency tracking for hot-re... (2026-05-07)
+* [`fd49b7f`](https://github.com/dadavidtseng/AGENTS/commit/fd49b7f39034df6d6f418739da15d9a2f30c5c1d) **AGENTS** — update: add akash-tls-certificate in secret.toml (2026-05-07)
+* [`27853de`](https://github.com/dadavidtseng/DaemonEngine/commit/27853de32f49c443d6aba4455ed4622d549168c6) **DaemonEngine** — feat(resource): add OBJ model loading to MeshCache (2026-05-07)
+* [`a19c3f4`](https://github.com/dadavidtseng/DaemonAgent/commit/a19c3f49bf5347226136839033d0ae49356d0b3a) **DaemonAgent** — fix(game): remove debug text from attract mode screen label (2026-05-07)
+* [`309e73b`](https://github.com/dadavidtseng/AGENTS/commit/309e73ba68ddc07e1a359329df2bbd6bc0321418) **AGENTS** — fix(agent-docs): fix search modal background in light mode (2026-05-07)
+* [`322492d`](https://github.com/dadavidtseng/AGENTS/commit/322492d413809ea9ab61bfd15b6155aab8f50939) **AGENTS** — fix(agent-docs): correct Starlight color scale for light ... (2026-05-07)
+<!-- recent_commits ends -->
+
+More on [my GitHub](https://github.com/dadavidtseng)
+
+</td><td valign="top" width="50%">
+
+### On My Blog
+<!-- blog starts -->
+* [Embedding V8 JavaScript Engine into a C++ Game Engine](https://dadavidtseng.info/blog/embed-v8-javascript-engine-into-cpp-game-engine.mdx/) (2024-07-20)
+<!-- blog ends -->
+
+More on [dadavidtseng.com](https://dadavidtseng.com/blog)
+
+</td></tr></table>
+
+<a href="https://github.com/dadavidtseng/dadavidtseng/actions"><img src="https://github.com/dadavidtseng/dadavidtseng/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
