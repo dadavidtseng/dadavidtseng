@@ -163,14 +163,11 @@ async function fetchContributionStats() {
           const calendar =
             json.data.user.contributionsCollection.contributionCalendar;
           const days = calendar.weeks.flatMap((w) => w.contributionDays);
-          const today = new Date().toISOString().split("T")[0];
-          const todayEntry = days.find((d) => d.date === today);
-          const todayCount = todayEntry?.contributionCount || 0;
+          const today = days[days.length - 1].date;
+          const todayCount = days[days.length - 1].contributionCount;
 
           let streak = 0;
           for (let i = days.length - 1; i >= 0; i--) {
-            if (days[i].date > today) continue;
-            if (days[i].date === today && days[i].contributionCount === 0) break;
             if (days[i].contributionCount > 0) streak++;
             else break;
           }
