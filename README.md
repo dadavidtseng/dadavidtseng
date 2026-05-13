@@ -20,7 +20,7 @@ More on [my GitHub](https://github.com/dadavidtseng)
 
 ### On My Blog
 <!-- blog starts -->
-* [Embedding V8 JavaScript Engine into a C++ Game Engine](https://dadavidtseng.com/blog/embed-v8-javascript-engine-into-cpp-game-engine.mdx/) (2024-07-20)
+* [Embedding V8 JavaScript Engine into a C++ Game Engine](https://dadavidtseng.com/blog/embed-v8-javascript-engine-into-cpp-game-engine/) (2024-07-20)
 <!-- blog ends -->
 
 More on [dadavidtseng.com](https://dadavidtseng.com/blog)
