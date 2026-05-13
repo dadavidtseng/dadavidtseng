@@ -1,5 +1,5 @@
 <!-- stats starts -->
-12-day commit streak | 3171 contributions this year
+12-day commit streak | 3172 contributions this year
 <!-- stats ends -->
 
 Currently working on [DaemonEngine](https://github.com/dadavidtseng/DaemonEngine) — a custom C++ game engine with V8 scripting. Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https://dadavidtseng.com).
@@ -8,6 +8,7 @@ Currently working on [DaemonEngine](https://github.com/dadavidtseng/DaemonEngine
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`f4df0e4`](https://github.com/dadavidtseng/dadavidtseng/commit/f4df0e48acfd3f2859166bc33f0dfba06a9155b4) **dadavidtseng** — feat: add contribution streak and stats via GitHub GraphQ... (2026-05-13)
 * [`f0f0af9`](https://github.com/dadavidtseng/DaemonAgent/commit/f0f0af96aecf15933859f89ec8f5787a5338c3c8) **DaemonAgent** — docs: auto-update README via agent-docs pipeline (2026-05-13)
 * [`c7165db`](https://github.com/dadavidtseng/AGENTS/commit/c7165dbc4ce13d734c4c3110a06166a58011a80c) **AGENTS** — fix(agent-docs): remove duplicate Overview heading from TOC (2026-05-13)
 * [`c1ef5b6`](https://github.com/dadavidtseng/DaemonEngine/commit/c1ef5b6bdb9a6324882195eeb499bf08c0bc4823) **DaemonEngine** — docs: auto-update README via agent-docs pipeline (2026-05-12)
@@ -15,7 +16,6 @@ Currently working on [DaemonEngine](https://github.com/dadavidtseng/DaemonEngine
 * [`d707644`](https://github.com/dadavidtseng/DaemonAgent/commit/d707644ea535104464c2b1147317c95cb578a1cc) **DaemonAgent** — docs: auto-update README via agent-docs pipeline (2026-05-12)
 * [`f7e280b`](https://github.com/dadavidtseng/DaemonEngine/commit/f7e280bbee3f92b163419087b7ac73e41fb3dcbb) **DaemonEngine** — docs: auto-update README via agent-docs pipeline (2026-05-12)
 * [`caf97af`](https://github.com/dadavidtseng/AGENTS/commit/caf97af96812bf94f31a71cc6fbcacfd7ad27755) **AGENTS** — fix(agent-docs): normalize section headings to ## for Sta... (2026-05-12)
-* [`e5d02ae`](https://github.com/dadavidtseng/DaemonAgent/commit/e5d02aee48676f5cf529725d7c0a594710b0039b) **DaemonAgent** — docs: auto-update README via agent-docs pipeline (2026-05-12)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
