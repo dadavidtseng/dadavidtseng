@@ -124,9 +124,10 @@ async function fetchBlogPosts() {
 async function fetchContributionStats() {
   if (!TOKEN) return null;
 
+  const year = new Date().getFullYear();
   const query = `query {
     user(login: "dadavidtseng") {
-      contributionsCollection {
+      contributionsCollection(from: "${year}-01-01T00:00:00Z", to: "${year}-12-31T23:59:59Z") {
         contributionCalendar {
           totalContributions
           weeks {
@@ -162,9 +163,15 @@ async function fetchContributionStats() {
           const json = JSON.parse(data);
           const calendar =
             json.data.user.contributionsCollection.contributionCalendar;
-          const days = calendar.weeks.flatMap((w) => w.contributionDays);
-          const today = days[days.length - 1].date;
-          const todayCount = days[days.length - 1].contributionCount;
+          const allDays = calendar.weeks.flatMap((w) => w.contributionDays);
+          const now = new Date();
+          const todayStr = [
+            now.getFullYear(),
+            String(now.getMonth() + 1).padStart(2, "0"),
+            String(now.getDate()).padStart(2, "0"),
+          ].join("-");
+          const days = allDays.filter((d) => d.date <= todayStr);
+          const todayCount = days[days.length - 1]?.contributionCount || 0;
 
           let streak = 0;
           for (let i = days.length - 1; i >= 0; i--) {

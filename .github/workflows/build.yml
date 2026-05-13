@@ -27,6 +27,7 @@ jobs:
       - name: Update README
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          TZ: Asia/Taipei
         run: node build_readme.mjs
 
       - name: Commit and push if changed
