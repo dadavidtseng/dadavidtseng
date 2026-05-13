@@ -199,12 +199,11 @@ async function main() {
   let readme = fs.readFileSync(README_PATH, "utf-8");
 
   if (stats) {
+    const year = new Date().getFullYear();
     const parts = [];
-    if (stats.streak > 0)
-      parts.push(`${stats.streak}-day commit streak`);
-    if (stats.todayCount > 0)
-      parts.push(`${stats.todayCount} contributions today`);
-    parts.push(`${stats.total} contributions this year`);
+    parts.push(`${stats.streak}-day commit streak`);
+    parts.push(`${stats.todayCount} commits today`);
+    parts.push(`${stats.total} contributions in ${year}`);
     readme = replaceChunk(readme, "stats", parts.join(" | "));
   }
 

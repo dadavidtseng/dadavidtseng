@@ -1,7 +1,3 @@
-<!-- stats starts -->
-12-day commit streak | 3172 contributions this year
-<!-- stats ends -->
-
 Currently working on [DaemonEngine](https://github.com/dadavidtseng/DaemonEngine) — a custom C++ game engine with V8 scripting. Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https://dadavidtseng.com).
 
 <table><tr><td valign="top" width="50%">
@@ -32,3 +28,7 @@ More on [dadavidtseng.com](https://dadavidtseng.com/blog)
 </td></tr></table>
 
 <a href="https://github.com/dadavidtseng/dadavidtseng/actions"><img src="https://github.com/dadavidtseng/dadavidtseng/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
+
+<!-- stats starts -->
+12-day commit streak | 0 commits today | 3172 contributions in 2026
+<!-- stats ends -->
