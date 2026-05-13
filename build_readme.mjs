@@ -121,13 +121,92 @@ async function fetchBlogPosts() {
   }
 }
 
+async function fetchContributionStats() {
+  if (!TOKEN) return null;
+
+  const query = `query {
+    user(login: "dadavidtseng") {
+      contributionsCollection {
+        contributionCalendar {
+          totalContributions
+          weeks {
+            contributionDays {
+              contributionCount
+              date
+            }
+          }
+        }
+      }
+    }
+  }`;
+
+  return new Promise((resolve) => {
+    const body = JSON.stringify({ query });
+    const opts = {
+      hostname: "api.github.com",
+      path: "/graphql",
+      method: "POST",
+      headers: {
+        "User-Agent": "dadavidtseng-readme-bot",
+        Authorization: `Bearer ${TOKEN}`,
+        "Content-Type": "application/json",
+        "Content-Length": Buffer.byteLength(body),
+      },
+    };
+
+    const req = https.request(opts, (res) => {
+      let data = "";
+      res.on("data", (c) => (data += c));
+      res.on("end", () => {
+        try {
+          const json = JSON.parse(data);
+          const calendar =
+            json.data.user.contributionsCollection.contributionCalendar;
+          const days = calendar.weeks.flatMap((w) => w.contributionDays);
+          const today = new Date().toISOString().split("T")[0];
+          const todayEntry = days.find((d) => d.date === today);
+          const todayCount = todayEntry?.contributionCount || 0;
+
+          let streak = 0;
+          for (let i = days.length - 1; i >= 0; i--) {
+            if (days[i].date > today) continue;
+            if (days[i].date === today && days[i].contributionCount === 0) break;
+            if (days[i].contributionCount > 0) streak++;
+            else break;
+          }
+
+          resolve({ streak, todayCount, total: calendar.totalContributions });
+        } catch (e) {
+          console.error("Failed to parse contribution stats:", e.message);
+          resolve(null);
+        }
+      });
+    });
+
+    req.on("error", () => resolve(null));
+    req.write(body);
+    req.end();
+  });
+}
+
 async function main() {
-  const [commits, posts] = await Promise.all([
+  const [commits, posts, stats] = await Promise.all([
     fetchRecentCommits(),
     fetchBlogPosts(),
+    fetchContributionStats(),
   ]);
 
   let readme = fs.readFileSync(README_PATH, "utf-8");
+
+  if (stats) {
+    const parts = [];
+    if (stats.streak > 0)
+      parts.push(`${stats.streak}-day commit streak`);
+    if (stats.todayCount > 0)
+      parts.push(`${stats.todayCount} contributions today`);
+    parts.push(`${stats.total} contributions this year`);
+    readme = replaceChunk(readme, "stats", parts.join(" | "));
+  }
 
   if (commits.length) {
     const commitsMd = commits
@@ -148,7 +227,7 @@ async function main() {
 
   fs.writeFileSync(README_PATH, readme);
   console.log(
-    `Updated README: ${commits.length} commits, ${posts.length} blog posts`
+    `Updated README: ${commits.length} commits, ${posts.length} blog posts, streak: ${stats?.streak ?? "N/A"}`
   );
 }
 
