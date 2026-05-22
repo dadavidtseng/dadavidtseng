@@ -70,4 +70,8 @@ node_modules/
 *.out
 *.app
 
+# Claude
 .qodo
+.claude
+.spec-workflow
+.serena
