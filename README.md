@@ -28,7 +28,3 @@ More on [dadavidtseng.com](https://dadavidtseng.com/blog)
 </td></tr></table>
 
 <a href="https://github.com/dadavidtseng/dadavidtseng/actions"><img src="https://github.com/dadavidtseng/dadavidtseng/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
-
-<!-- stats starts -->
-0-day commit streak | 0 commits today | 1250 contributions in 2026
-<!-- stats ends -->
