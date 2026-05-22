@@ -1,11 +1,26 @@
-import https from "node:https";
+/**
+ * ---------------------------------------------------------------------------------------------------
+ * build_readme.mjs
+ * ---------------------------------------------------------------------------------------------------
+ */
+
+/**
+ * ---------------------------------------------------------------------------------------------------
+ */
 import fs from "node:fs";
+import https from "node:https";
 import { fileURLToPath } from "node:url";
 import { parseString } from "xml2js";
 
+/**
+ * ---------------------------------------------------------------------------------------------------
+ */
 const TOKEN = process.env.GH_TOKEN || "";
 const README_PATH = fileURLToPath(new URL("./README.md", import.meta.url));
 
+/**
+ * ---------------------------------------------------------------------------------------------------
+ */
 function replaceChunk(content, marker, chunk) {
   const re = new RegExp(
     `<!-- ${marker} starts -->.*<!-- ${marker} ends -->`,
@@ -17,31 +32,16 @@ function replaceChunk(content, marker, chunk) {
   );
 }
 
-function fetchJSON(url, headers = {}) {
+/**
+ * ---------------------------------------------------------------------------------------------------
+ */
+function httpGet(url, headers = {}) {
   return new Promise((resolve, reject) => {
     const parsed = new URL(url);
     const opts = {
       hostname: parsed.hostname,
       path: parsed.pathname + parsed.search,
       headers: { "User-Agent": "dadavidtseng-readme-bot", ...headers },
-    };
-    https
-      .get(opts, (res) => {
-        let data = "";
-        res.on("data", (c) => (data += c));
-        res.on("end", () => resolve(JSON.parse(data)));
-      })
-      .on("error", reject);
-  });
-}
-
-function fetchText(url) {
-  return new Promise((resolve, reject) => {
-    const parsed = new URL(url);
-    const opts = {
-      hostname: parsed.hostname,
-      path: parsed.pathname + parsed.search,
-      headers: { "User-Agent": "dadavidtseng-readme-bot" },
     };
     https
       .get(opts, (res) => {
@@ -59,13 +59,17 @@ function parseXML(xml) {
   });
 }
 
+/**
+ * ---------------------------------------------------------------------------------------------------
+ */
 async function fetchRecentCommits() {
   const headers = TOKEN ? { Authorization: `Bearer ${TOKEN}` } : {};
 
-  const events = await fetchJSON(
-    "https://api.github.com/users/dadavidtseng/events/public?per_page=100",
+  const raw = await httpGet(
+    "https://api.github.com/users/dadavidtseng/events?per_page=100",
     headers
   );
+  const events = JSON.parse(raw);
 
   const pushEvents = events
     .filter((e) => e.type === "PushEvent")
@@ -81,10 +85,11 @@ async function fetchRecentCommits() {
     seen.add(sha);
 
     try {
-      const commit = await fetchJSON(
+      const commitRaw = await httpGet(
         `https://api.github.com/repos/${repo}/commits/${sha}`,
         headers
       );
+      const commit = JSON.parse(commitRaw);
       const msg = (commit.commit?.message || "").split("\n")[0];
       if (msg.startsWith("Merge") || msg.startsWith("Updated content"))
         continue;
@@ -97,17 +102,20 @@ async function fetchRecentCommits() {
         date: event.created_at.split("T")[0],
       });
     } catch {
-      continue;
+      /* skip commits that fail to fetch */
     }
     if (commits.length >= 8) break;
   }
 
-  return commits.slice(0, 8);
+  return commits;
 }
 
+/**
+ * ---------------------------------------------------------------------------------------------------
+ */
 async function fetchBlogPosts() {
   try {
-    const xml = await fetchText("https://dadavidtseng.com/rss.xml");
+    const xml = await httpGet("https://dadavidtseng.com/rss.xml");
     const parsed = await parseXML(xml);
     const items = parsed?.rss?.channel?.[0]?.item || [];
     return items.slice(0, 5).map((item) => ({
@@ -121,95 +129,16 @@ async function fetchBlogPosts() {
   }
 }
 
-async function fetchContributionStats() {
-  if (!TOKEN) return null;
-
-  const year = new Date().getFullYear();
-  const query = `query {
-    user(login: "dadavidtseng") {
-      contributionsCollection(from: "${year}-01-01T00:00:00Z", to: "${year}-12-31T23:59:59Z") {
-        contributionCalendar {
-          totalContributions
-          weeks {
-            contributionDays {
-              contributionCount
-              date
-            }
-          }
-        }
-      }
-    }
-  }`;
-
-  return new Promise((resolve) => {
-    const body = JSON.stringify({ query });
-    const opts = {
-      hostname: "api.github.com",
-      path: "/graphql",
-      method: "POST",
-      headers: {
-        "User-Agent": "dadavidtseng-readme-bot",
-        Authorization: `Bearer ${TOKEN}`,
-        "Content-Type": "application/json",
-        "Content-Length": Buffer.byteLength(body),
-      },
-    };
-
-    const req = https.request(opts, (res) => {
-      let data = "";
-      res.on("data", (c) => (data += c));
-      res.on("end", () => {
-        try {
-          const json = JSON.parse(data);
-          const calendar =
-            json.data.user.contributionsCollection.contributionCalendar;
-          const allDays = calendar.weeks.flatMap((w) => w.contributionDays);
-          const now = new Date();
-          const todayStr = [
-            now.getFullYear(),
-            String(now.getMonth() + 1).padStart(2, "0"),
-            String(now.getDate()).padStart(2, "0"),
-          ].join("-");
-          const days = allDays.filter((d) => d.date <= todayStr);
-          const todayCount = days[days.length - 1]?.contributionCount || 0;
-
-          let streak = 0;
-          for (let i = days.length - 1; i >= 0; i--) {
-            if (days[i].contributionCount > 0) streak++;
-            else break;
-          }
-
-          resolve({ streak, todayCount, total: calendar.totalContributions });
-        } catch (e) {
-          console.error("Failed to parse contribution stats:", e.message);
-          resolve(null);
-        }
-      });
-    });
-
-    req.on("error", () => resolve(null));
-    req.write(body);
-    req.end();
-  });
-}
-
+/**
+ * ---------------------------------------------------------------------------------------------------
+ */
 async function main() {
-  const [commits, posts, stats] = await Promise.all([
+  const [commits, posts] = await Promise.all([
     fetchRecentCommits(),
     fetchBlogPosts(),
-    fetchContributionStats(),
   ]);
 
   let readme = fs.readFileSync(README_PATH, "utf-8");
-
-  if (stats) {
-    const year = new Date().getFullYear();
-    const parts = [];
-    parts.push(`${stats.streak}-day commit streak`);
-    parts.push(`${stats.todayCount} commits today`);
-    parts.push(`${stats.total} contributions in ${year}`);
-    readme = replaceChunk(readme, "stats", parts.join(" | "));
-  }
 
   if (commits.length) {
     const commitsMd = commits
@@ -230,7 +159,7 @@ async function main() {
 
   fs.writeFileSync(README_PATH, readme);
   console.log(
-    `Updated README: ${commits.length} commits, ${posts.length} blog posts, streak: ${stats?.streak ?? "N/A"}`
+    `Updated README: ${commits.length} commits, ${posts.length} blog posts`
   );
 }
 
