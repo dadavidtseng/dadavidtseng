@@ -10,7 +10,7 @@ Currently working on [DaemonEngine](https://github.com/dadavidtseng/DaemonEngine
 * [`f4df0e4`](https://github.com/dadavidtseng/dadavidtseng/commit/f4df0e48acfd3f2859166bc33f0dfba06a9155b4) **dadavidtseng** — feat: add contribution streak and stats via GitHub GraphQ... (2026-05-13)
 * [`f0f0af9`](https://github.com/dadavidtseng/DaemonAgent/commit/f0f0af96aecf15933859f89ec8f5787a5338c3c8) **DaemonAgent** — docs: auto-update README via agent-docs pipeline (2026-05-13)
 * [`c7165db`](https://github.com/dadavidtseng/AGENTS/commit/c7165dbc4ce13d734c4c3110a06166a58011a80c) **AGENTS** — fix(agent-docs): remove duplicate Overview heading from TOC (2026-05-13)
-* [`c1ef5b6`](https://github.com/dadavidtseng/DaemonEngine/commit/c1ef5b6bdb9a6324882195eeb499bf08c0bc4823) **DaemonEngine** — docs: auto-update README via agent-docs pipeline (2026-05-12)
+* [`c1ef5b6`](https://github.com/EngineDaemon/DaemonEngine/commit/c1ef5b6bdb9a6324882195eeb499bf08c0bc4823) **EngineDaemon/DaemonEngine** — docs: auto-update README via agent-docs pipeline (2026-05-12)
 * [`46bf66c`](https://github.com/dadavidtseng/AGENTS/commit/46bf66c49d67ec6359bad3c6186329067094f83a) **AGENTS** — fix(agent-docs): strip duplicate H1, read source code ins... (2026-05-12)
 <!-- recent_commits ends -->
 
@@ -30,5 +30,5 @@ More on [dadavidtseng.com](https://dadavidtseng.com/blog)
 <a href="https://github.com/dadavidtseng/dadavidtseng/actions"><img src="https://github.com/dadavidtseng/dadavidtseng/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
 
 <!-- stats starts -->
-0-day commit streak | 0 commits today | 1267 contributions in 2026
+0-day commit streak | 0 commits today | 1251 contributions in 2026
 <!-- stats ends -->
