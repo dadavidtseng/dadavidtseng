@@ -4,6 +4,7 @@ Currently working on [DaemonEngine](https://github.com/dadavidtseng/DaemonEngine
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`533affb`](https://github.com/dadavidtseng/neetcode-submissions/commit/533affb3cee37f8a0b03d15589d0f50c61bd63f7) **neetcode-submissions** — Add: minimum-window-with-characters - submission-0 (2026-05-26)
 * [`e8cbef5`](https://github.com/dadavidtseng/LeetCodePractice/commit/e8cbef56eacdc824e55f856a69f3c0c3203f7010) **LeetCodePractice** — Update README - Topic Tags (2026-05-26)
 * [`c9a1a49`](https://github.com/dadavidtseng/LeetCodePractice/commit/c9a1a4975415ae0a487e4c4a557deded99faf6e9) **LeetCodePractice** — Time: 8 ms (36.84%), Space: 11 MB (18.56%) - LeetHub (2026-05-26)
 * [`11010a1`](https://github.com/dadavidtseng/neetcode-submissions/commit/11010a1e5719179ca8ed72d27449ee0702466cb2) **neetcode-submissions** — Add: longest-repeating-substring-with-replacement - submi... (2026-05-26)
@@ -11,7 +12,6 @@ Currently working on [DaemonEngine](https://github.com/dadavidtseng/DaemonEngine
 * [`5b0213f`](https://github.com/dadavidtseng/LeetCodePractice/commit/5b0213f28bb0195c964b65452a355c04d1179c83) **LeetCodePractice** — Create README - LeetHub (2026-05-26)
 * [`36e5161`](https://github.com/dadavidtseng/LeetCodePractice/commit/36e5161c9edcbd05c56e126e1f078b337276a228) **LeetCodePractice** — Time: 13 ms (21.6%), Space: 11 MB (39.73%) - LeetHub (2026-05-26)
 * [`fe08692`](https://github.com/dadavidtseng/LeetCodePractice/commit/fe086927bc94bfe6ebfd56d81e777b739cbdf479) **LeetCodePractice** — Update README - Topic Tags (2026-05-26)
-* [`8c9f79f`](https://github.com/dadavidtseng/neetcode-submissions/commit/8c9f79fe1c514005d4b43955ebce5768f636df27) **neetcode-submissions** — Add: longest-repeating-substring-with-replacement - submi... (2026-05-26)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
