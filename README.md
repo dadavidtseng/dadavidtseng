@@ -4,14 +4,14 @@ Currently working on [DaemonEngine](https://github.com/dadavidtseng/DaemonEngine
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`14cc197`](https://github.com/dadavidtseng/LeetCodePractice/commit/14cc1972ade69dc8797578fdff5e9ba20470d7ae) **LeetCodePractice** — Updated stats (2026-05-26)
+* [`e52f7c3`](https://github.com/dadavidtseng/LeetCodePractice/commit/e52f7c382d6cebb7c1bfde0765d166047181b042) **LeetCodePractice** — Update README - Topic Tags (2026-05-26)
+* [`2d1dfa3`](https://github.com/dadavidtseng/LeetCodePractice/commit/2d1dfa352f7ca03780eea41601c7b2973c12366d) **LeetCodePractice** — Time: 6 ms (63.69%), Space: 11.8 MB (14.72%) - LeetHub (2026-05-26)
+* [`9980b8d`](https://github.com/dadavidtseng/LeetCodePractice/commit/9980b8d96a6e5d9d9175fd032910f9703848d72e) **LeetCodePractice** — Create README - LeetHub (2026-05-26)
+* [`18facab`](https://github.com/dadavidtseng/neetcode-submissions/commit/18facabec2a99ef37350cd5facdc8aa784314efb) **neetcode-submissions** — Add: minimum-window-with-characters - submission-2 (2026-05-26)
+* [`a37591a`](https://github.com/dadavidtseng/neetcode-submissions/commit/a37591a7e02c1de597ce8bfe9d4910362cc20dd1) **neetcode-submissions** — Add: minimum-window-with-characters - submission-1 (2026-05-26)
 * [`533affb`](https://github.com/dadavidtseng/neetcode-submissions/commit/533affb3cee37f8a0b03d15589d0f50c61bd63f7) **neetcode-submissions** — Add: minimum-window-with-characters - submission-0 (2026-05-26)
 * [`e8cbef5`](https://github.com/dadavidtseng/LeetCodePractice/commit/e8cbef56eacdc824e55f856a69f3c0c3203f7010) **LeetCodePractice** — Update README - Topic Tags (2026-05-26)
-* [`c9a1a49`](https://github.com/dadavidtseng/LeetCodePractice/commit/c9a1a4975415ae0a487e4c4a557deded99faf6e9) **LeetCodePractice** — Time: 8 ms (36.84%), Space: 11 MB (18.56%) - LeetHub (2026-05-26)
-* [`11010a1`](https://github.com/dadavidtseng/neetcode-submissions/commit/11010a1e5719179ca8ed72d27449ee0702466cb2) **neetcode-submissions** — Add: longest-repeating-substring-with-replacement - submi... (2026-05-26)
-* [`9af6195`](https://github.com/dadavidtseng/LeetCodePractice/commit/9af6195c162bd3aef2ed86d9f3ff9ee949393c78) **LeetCodePractice** — Updated stats (2026-05-26)
-* [`5b0213f`](https://github.com/dadavidtseng/LeetCodePractice/commit/5b0213f28bb0195c964b65452a355c04d1179c83) **LeetCodePractice** — Create README - LeetHub (2026-05-26)
-* [`36e5161`](https://github.com/dadavidtseng/LeetCodePractice/commit/36e5161c9edcbd05c56e126e1f078b337276a228) **LeetCodePractice** — Time: 13 ms (21.6%), Space: 11 MB (39.73%) - LeetHub (2026-05-26)
-* [`fe08692`](https://github.com/dadavidtseng/LeetCodePractice/commit/fe086927bc94bfe6ebfd56d81e777b739cbdf479) **LeetCodePractice** — Update README - Topic Tags (2026-05-26)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
