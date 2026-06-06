@@ -4,14 +4,14 @@ Currently working on [DaemonEngine](https://github.com/dadavidtseng/DaemonEngine
 
 ### Recent Commits
 <!-- recent_commits starts -->
-* [`ed8bafb`](https://github.com/dadavidtseng/neetcode-submissions/commit/ed8bafb0f353eff21072e348768857630a63d3d1) **neetcode-submissions** — Add: evaluate-reverse-polish-notation - submission-2 (2026-06-06)
-* [`798f0cb`](https://github.com/dadavidtseng/LeetCodePractice/commit/798f0cb58a146e6b769231d8a330b26c16c1e1b3) **LeetCodePractice** — Update README - Topic Tags (2026-06-06)
-* [`c1e9d52`](https://github.com/dadavidtseng/LeetCodePractice/commit/c1e9d52894d89866aa525c1f37ddb6beb76e1276) **LeetCodePractice** — Time: 0 ms (100%), Space: 20.6 MB (73.12%) - LeetHub (2026-06-06)
-* [`1c7bf91`](https://github.com/dadavidtseng/LeetCodePractice/commit/1c7bf918fa0aa34c67dde191430dca5775e4fcee) **LeetCodePractice** — Update README - Topic Tags (2026-06-06)
-* [`6cd953a`](https://github.com/dadavidtseng/LeetCodePractice/commit/6cd953a80d2d8f665b4947f208ab0519d946165e) **LeetCodePractice** — Time: 1 ms (49.39%), Space: 17.2 MB (40.07%) - LeetHub (2026-06-06)
-* [`0d35c16`](https://github.com/dadavidtseng/neetcode-submissions/commit/0d35c16d9bf2e459b615117775eddcfdb23f459d) **neetcode-submissions** — Add: evaluate-reverse-polish-notation - submission-1 (2026-06-06)
-* [`bf27423`](https://github.com/dadavidtseng/neetcode-submissions/commit/bf274236f276268f378798476f8a516020927f4e) **neetcode-submissions** — Add: evaluate-reverse-polish-notation - submission-0 (2026-06-06)
-* [`e4b3952`](https://github.com/dadavidtseng/LeetCodePractice/commit/e4b3952bf4ec98af36bbcb37152264b8fcb22115) **LeetCodePractice** — Update README - Topic Tags (2026-06-06)
+* [`f555d49`](https://github.com/dadavidtseng/neetcode-submissions/commit/f555d492bd7c31427eb26328a5dd5b40e900bf3c) **neetcode-submissions** — Add: duplicate-integer - submission-2 (2026-06-06)
+* [`2c94b1f`](https://github.com/dadavidtseng/LeetCodePractice/commit/2c94b1f5071e1ed654ea9d3e1e731bd49c46515d) **LeetCodePractice** — Update README - Topic Tags (2026-06-06)
+* [`1bffbc4`](https://github.com/dadavidtseng/LeetCodePractice/commit/1bffbc4317420eb0ae3a2a09cea58dbd6c553183) **LeetCodePractice** — Time: 11 ms (65.98%), Space: 32.4 MB (21.61%) - LeetHub (2026-06-06)
+* [`8175ea9`](https://github.com/dadavidtseng/neetcode-submissions/commit/8175ea9d97ce162f4c6855eb81cd73538e4ff895) **neetcode-submissions** — Add: duplicate-integer - submission-1 (2026-06-06)
+* [`7f0923b`](https://github.com/dadavidtseng/LeetCodePractice/commit/7f0923b1b0f0032623056ce721bb71286b90275a) **LeetCodePractice** — Update README - Topic Tags (2026-06-06)
+* [`7de3b2a`](https://github.com/dadavidtseng/LeetCodePractice/commit/7de3b2a6f0affa003233dcba0dda208e2e00243d) **LeetCodePractice** — Time: 8 ms (43.34%), Space: 3.9 MB (47.03%) - LeetHub (2026-06-06)
+* [`be17eb7`](https://github.com/dadavidtseng/LeetCodePractice/commit/be17eb72cf4615ffe325e522fec13155e2c7f233) **LeetCodePractice** — Update README - Topic Tags (2026-06-06)
+* [`7e50c6e`](https://github.com/dadavidtseng/LeetCodePractice/commit/7e50c6e649d166d34ee23ed13a95b83d17568fec) **LeetCodePractice** — Time: 0 ms (100%), Space: 15.9 MB (93.58%) - LeetHub (2026-06-06)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
