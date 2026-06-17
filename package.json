@@ -3,9 +3,13 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node build_readme.mjs"
+    "build": "node build-readme.mjs"
   },
   "dependencies": {
     "xml2js": "0.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.3",
+    "@types/xml2js": "^0.4.14"
   }
 }
