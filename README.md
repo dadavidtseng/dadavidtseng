@@ -4,14 +4,14 @@ Currently working on [DaemonEngine](https://github.com/dadavidtseng/DaemonEngine
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`e20047c`](https://github.com/dadavidtseng/dadavidtseng/commit/e20047c14ca7987b955d9dc1cf8578ccf024525d) **dadavidtseng** — chore: add jsconfig.json for IDE type resolution (2026-06-17)
+* [`43ad1d1`](https://github.com/dadavidtseng/lakekeeper/commit/43ad1d1f9891eaba8fb17b415d36d128050fe78f) **lakekeeper** — fix: add type annotations to SQL arrays and update sqlx c... (2026-06-17)
+* [`c40bd38`](https://github.com/dadavidtseng/lakekeeper/commit/c40bd38c65fb5fe3c53902c08e2ccfb65a29c33a) **lakekeeper** — feat: clean up empty namespace folders on storage after drop (2026-06-17)
+* [`124b38d`](https://github.com/dadavidtseng/lakekeeper/commit/124b38dc4e57e6a69e4477441c688df4c07f1434) **lakekeeper** — feat: fetch namespace locations in drop_namespace SQL query (2026-06-17)
+* [`a0d45c2`](https://github.com/dadavidtseng/lakekeeper/commit/a0d45c23d8da21e48c3620568e6c7eee7f0b4688) **lakekeeper** — refactor: add namespace_locations field to NamespaceDropInfo (2026-06-17)
 * [`47150b2`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/47150b2fda521af6eb66b324efe1f4e29ff4caab) **nap-of-the-earth/nap-of-the-rpi** — chore: add uv.lock for reproducible dependency resolution (2026-06-17)
 * [`c25bf0b`](https://github.com/plugnjam/plug-research/commit/c25bf0b2866e619f7617e8b2322662f4aaa73e64) **plugnjam/plug-research** — docs(spec-02): add build tool research articles (2026-06-17)
 * [`370f71b`](https://github.com/dadavidtseng/dadavidtseng/commit/370f71b8e40665f5f54fab8474009a067b1bcf0a) **dadavidtseng** — ci(readme): remove debug step after confirming token fix (2026-06-17)
-* [`4f18061`](https://github.com/dadavidtseng/dadavidtseng/commit/4f180618dff0b35b4050aacad314420c0c24a4d5) **dadavidtseng** — ci(readme): add debug step to verify token org access (2026-06-17)
-* [`6713d7f`](https://github.com/plugnjam/plug-core/commit/6713d7f6b10f7988460f885b94e0f204eb0197b9) **plugnjam/plug-core** — fix: add missing standard includes for CI (size_t, bool) (2026-06-17)
-* [`ad872e8`](https://github.com/dadavidtseng/dadavidtseng/commit/ad872e8e9983b432bdf227fffb81e5695e0bd556) **dadavidtseng** — refactor(readme): extract constants, rename helpers, add ... (2026-06-17)
-* [`fbfb0f7`](https://github.com/plugnjam/plug-core/commit/fbfb0f70a25d9dd3aa0dc4015b8418d8ceb29795) **plugnjam/plug-core** — refactor(core): rename plug_* prefix to core_* for kernel... (2026-06-17)
-* [`2f11354`](https://github.com/dadavidtseng/neetcode-submissions/commit/2f1135432f784e834055c29f1b13cc4edd0cd29e) **neetcode-submissions** — Add: is-anagram - submission-5 (2026-06-13)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
