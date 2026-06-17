@@ -1,6 +1,6 @@
 Currently working on:
 
-1. [AGENTS](https://github.com/dadavidtseng/AGENTS) — multi-agent orchestration platform with pluggable tool registry and message bus; DaemonEngine runs as one of the agents
+1. [AGENTS](https://github.com/dadavidtseng/AGENTS) — multi-agent orchestration platform with pluggable tool registry; DaemonEngine runs as one of the agents
 2. [plugnjam](https://github.com/plugnjam) — modular C11 game engine with a plugin-first architecture; write plugins in C, C++, or Rust
 3. [DaemonEngine](https://github.com/dadavidtseng/DaemonEngine) — C++20 game engine with real-time V8 scripting, DirectX 11 rendering, and multithreaded job system
 
