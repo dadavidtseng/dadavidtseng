@@ -5,13 +5,13 @@ Currently working on [DaemonEngine](https://github.com/dadavidtseng/DaemonEngine
 ### Recent Commits
 <!-- recent_commits starts -->
 * [`4f18061`](https://github.com/dadavidtseng/dadavidtseng/commit/4f180618dff0b35b4050aacad314420c0c24a4d5) **dadavidtseng** — ci(readme): add debug step to verify token org access (2026-06-17)
+* [`6713d7f`](https://github.com/plugnjam/plug-core/commit/6713d7f6b10f7988460f885b94e0f204eb0197b9) **plugnjam/plug-core** — fix: add missing standard includes for CI (size_t, bool) (2026-06-17)
 * [`ad872e8`](https://github.com/dadavidtseng/dadavidtseng/commit/ad872e8e9983b432bdf227fffb81e5695e0bd556) **dadavidtseng** — refactor(readme): extract constants, rename helpers, add ... (2026-06-17)
+* [`fbfb0f7`](https://github.com/plugnjam/plug-core/commit/fbfb0f70a25d9dd3aa0dc4015b8418d8ceb29795) **plugnjam/plug-core** — refactor(core): rename plug_* prefix to core_* for kernel... (2026-06-17)
 * [`2f11354`](https://github.com/dadavidtseng/neetcode-submissions/commit/2f1135432f784e834055c29f1b13cc4edd0cd29e) **neetcode-submissions** — Add: is-anagram - submission-5 (2026-06-13)
 * [`d81668b`](https://github.com/dadavidtseng/LeetCodePractice/commit/d81668b20b95c6614d3bfdd7c69ca048e1191d84) **LeetCodePractice** — Update README - Topic Tags (2026-06-13)
 * [`d531299`](https://github.com/dadavidtseng/LeetCodePractice/commit/d531299b7b2dbe5b5221fcb034fed38f636a1b5b) **LeetCodePractice** — Time: 12 ms (83.4%), Space: 26.7 MB (26.26%) - LeetHub (2026-06-13)
 * [`d3e4031`](https://github.com/dadavidtseng/neetcode-submissions/commit/d3e4031bcc3a53c5d415f0bb886da81bbd938c54) **neetcode-submissions** — Add: anagram-groups - submission-16 (2026-06-13)
-* [`92502dc`](https://github.com/dadavidtseng/neetcode-submissions/commit/92502dc11234a2275ba164007f4b5d19724352ce) **neetcode-submissions** — Add: anagram-groups - submission-13 (2026-06-12)
-* [`fa62730`](https://github.com/dadavidtseng/neetcode-submissions/commit/fa627307fe2aa303214d7e19f813c7b119314547) **neetcode-submissions** — Add: anagram-groups - submission-12 (2026-06-12)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
