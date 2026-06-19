@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`e6a6feb`](https://github.com/dadavidtseng/LeetCodePractice/commit/e6a6febdc662b80fd531ae5f5d1fe0065f78a58a) **LeetCodePractice** — Update README - Topic Tags (2026-06-19)
+* [`0204860`](https://github.com/dadavidtseng/LeetCodePractice/commit/0204860e3fe8fda6180f06775fba767ca21987d6) **LeetCodePractice** — Time: 11 ms (83.57%), Space: 23.9 MB (17.84%) - LeetHub (2026-06-19)
+* [`0390102`](https://github.com/dadavidtseng/neetcode-submissions/commit/0390102f5476aba166faee1a6136f6388fa91771) **neetcode-submissions** — Add: anagram-groups - submission-18 (2026-06-19)
+* [`c5a8ddb`](https://github.com/dadavidtseng/neetcode-submissions/commit/c5a8ddbd0db790ee9e20d366c09cb0136be708ca) **neetcode-submissions** — Add: anagram-groups - submission-17 (2026-06-19)
+* [`04dd304`](https://github.com/dadavidtseng/LeetCodePractice/commit/04dd304219578feea522273be3e04cdbbb78eef0) **LeetCodePractice** — Update README - Topic Tags (2026-06-19)
+* [`e90e626`](https://github.com/dadavidtseng/LeetCodePractice/commit/e90e626640ce02a500abb218dd9da26554582ff1) **LeetCodePractice** — Time: 12 ms (57.05%), Space: 22.1 MB (55.44%) - LeetHub (2026-06-19)
+* [`fdf3de0`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/fdf3de0a9964bebb2068b4ba3d52f3fa3706c2e8) **hackerrank-orchestrate-june26** — feat: add majority voting — run each claim 3x, take conse... (2026-06-19)
 * [`f4a0029`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/f4a00290957b03b5fe8bf38a4b7a69a5baddfbb9) **hackerrank-orchestrate-june26** — feat: add Pass 4 self-review — VLM verifies its own verdi... (2026-06-19)
-* [`6f44f46`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/6f44f46b25324d29a0edd2850bfc9c75d6971550) **hackerrank-orchestrate-june26** — feat: add evidence/issue_type/severity/object_part calibr... (2026-06-19)
-* [`31fc200`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/31fc200adcac689c53217b6d90c598334d75b411) **hackerrank-orchestrate-june26** — fix: refine Rule 4 — only force contradicted when claimed... (2026-06-19)
-* [`d7c0393`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/d7c03934577e036a7fa569f3d0bf3a4f8d99007a) **hackerrank-orchestrate-june26** — feat: add post-synthesis calibration rules and improve is... (2026-06-19)
-* [`8d76d46`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/8d76d4643b957e98311ca47defdcc7d518a6cf1a) **hackerrank-orchestrate-june26** — fix: support Opus models that don't accept temperature pa... (2026-06-19)
-* [`0f4ba10`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/0f4ba104c3262fd7178c0cf7db0f78ff5db7e1c0) **hackerrank-orchestrate-june26** — fix(prompts): add issue_type guidance to reduce misclassi... (2026-06-19)
-* [`b665059`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/b665059498c5199299df37a398d8af58b2bd6bec) **hackerrank-orchestrate-june26** — fix(prompts): stronger severity calibration — default to ... (2026-06-19)
-* [`c4c25bc`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/c4c25bccbe5a87abaae748753100ed6fec68d8bf) **hackerrank-orchestrate-june26** — fix(prompts): reduce not_enough_information over-use in s... (2026-06-19)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
