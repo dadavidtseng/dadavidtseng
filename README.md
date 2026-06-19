@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
-* [`e6a6feb`](https://github.com/dadavidtseng/LeetCodePractice/commit/e6a6febdc662b80fd531ae5f5d1fe0065f78a58a) **LeetCodePractice** — Update README - Topic Tags (2026-06-19)
-* [`0204860`](https://github.com/dadavidtseng/LeetCodePractice/commit/0204860e3fe8fda6180f06775fba767ca21987d6) **LeetCodePractice** — Time: 11 ms (83.57%), Space: 23.9 MB (17.84%) - LeetHub (2026-06-19)
-* [`0390102`](https://github.com/dadavidtseng/neetcode-submissions/commit/0390102f5476aba166faee1a6136f6388fa91771) **neetcode-submissions** — Add: anagram-groups - submission-18 (2026-06-19)
-* [`c5a8ddb`](https://github.com/dadavidtseng/neetcode-submissions/commit/c5a8ddbd0db790ee9e20d366c09cb0136be708ca) **neetcode-submissions** — Add: anagram-groups - submission-17 (2026-06-19)
-* [`04dd304`](https://github.com/dadavidtseng/LeetCodePractice/commit/04dd304219578feea522273be3e04cdbbb78eef0) **LeetCodePractice** — Update README - Topic Tags (2026-06-19)
-* [`e90e626`](https://github.com/dadavidtseng/LeetCodePractice/commit/e90e626640ce02a500abb218dd9da26554582ff1) **LeetCodePractice** — Time: 12 ms (57.05%), Space: 22.1 MB (55.44%) - LeetHub (2026-06-19)
-* [`fdf3de0`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/fdf3de0a9964bebb2068b4ba3d52f3fa3706c2e8) **hackerrank-orchestrate-june26** — feat: add majority voting — run each claim 3x, take conse... (2026-06-19)
-* [`f4a0029`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/f4a00290957b03b5fe8bf38a4b7a69a5baddfbb9) **hackerrank-orchestrate-june26** — feat: add Pass 4 self-review — VLM verifies its own verdi... (2026-06-19)
+* [`b08b40f`](https://github.com/dadavidtseng/LeetCodePractice/commit/b08b40fe4281332fe8968ff5daebe2bd6ae1646d) **LeetCodePractice** — Update README - Topic Tags (2026-06-19)
+* [`d39a1fa`](https://github.com/dadavidtseng/LeetCodePractice/commit/d39a1fab8ab57d106f055a7803fa500b397d59e4) **LeetCodePractice** — Time: 3 ms (89.3%), Space: 22.7 MB (81.29%) - LeetHub (2026-06-19)
+* [`d6bffdb`](https://github.com/dadavidtseng/neetcode-submissions/commit/d6bffdbc49b02aacf5238d8e1c748ff1cc6077d1) **neetcode-submissions** — Add: top-k-elements-in-list - submission-9 (2026-06-19)
+* [`01a25cd`](https://github.com/dadavidtseng/neetcode-submissions/commit/01a25cdb0cf328636bccde5838d8ea002c23d725) **neetcode-submissions** — Add: top-k-elements-in-list - submission-8 (2026-06-19)
+* [`e89a759`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/e89a759e949770827913734e31a6008d4ab92a48) **hackerrank-orchestrate-june26** — docs: update evaluation_report.md with final results (84.... (2026-06-19)
+* [`a7f2d2a`](https://github.com/dadavidtseng/neetcode-submissions/commit/a7f2d2ad11bc8c2e1dbbd95f82ea37e83813ad6f) **neetcode-submissions** — Add: top-k-elements-in-list - submission-6 (2026-06-19)
+* [`761c9e3`](https://github.com/dadavidtseng/LeetCodePractice/commit/761c9e385380bcaac96adfc3748cb8fa00f7a609) **LeetCodePractice** — Time: 3 ms (89.3%), Space: 22.6 MB (94.7%) - LeetHub (2026-06-19)
+* [`22f832b`](https://github.com/dadavidtseng/LeetCodePractice/commit/22f832b47dfd2cabe8fca50cc5f4d837ae6bb55f) **LeetCodePractice** — Update README - Topic Tags (2026-06-19)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
