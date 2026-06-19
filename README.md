@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
-* [`7ed3b5b`](https://github.com/dadavidtseng/tip103/commit/7ed3b5bf8c7789a180d00cdb265b8de6a49d55fd) **tip103** — update: w3s2 (2026-06-18)
-* [`01e62ef`](https://github.com/dadavidtseng/lakekeeper/commit/01e62ef943483efa1c98d3b80afe7376eb07c5d1) **lakekeeper** — feat(ui): bump console to v0.15.1 (#1855) (2026-06-18)
-* [`915a0e6`](https://github.com/dadavidtseng/lakekeeper/commit/915a0e6817a184c5202706b5e62559b53bd717c5) **lakekeeper** — fix: apply formatting fixes (2026-06-18)
-* [`93a1601`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/93a160140155c1e3bdd7852578771ddf7873e776) **nap-of-the-earth/nap-of-the-rpi** — test(core): add config manager tests (2026-06-18)
-* [`00c0808`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/00c0808602eadeff43b7f381bfd16f55c1b9d616) **nap-of-the-earth/nap-of-the-rpi** — style: apply linter formatting to skeleton files (2026-06-18)
-* [`2f439a3`](https://github.com/dadavidtseng/lakekeeper/commit/2f439a372b49668648dca06089724cac5ea86915) **lakekeeper** — fix: use filter_map for namespace location parsing to avo... (2026-06-18)
-* [`e075893`](https://github.com/dadavidtseng/lakekeeper/commit/e07589372998980f0d74e72fbf04963dfea24f30) **lakekeeper** — fix: use filter_map for namespace location parsing to avo... (2026-06-18)
-* [`c980bb3`](https://github.com/dadavidtseng/su26-ai301-contribution-log/commit/c980bb336cf7b7c8999a18a2a825a9eb459ffcfc) **su26-ai301-contribution-log** — docs: Phase IV: add PR link, status, and reflections (2026-06-17)
+* [`0d0018d`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/0d0018df39878831253e3ca05c88ba03e4139ac2) **hackerrank-orchestrate-june26** — docs: add code README with setup, usage, and architecture... (2026-06-19)
+* [`b0120b0`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/b0120b0a5d78b10914354bd224fe89ad5e9eeee1) **hackerrank-orchestrate-june26** — feat(main): add pipeline orchestrator for claim processing (2026-06-19)
+* [`bb794d7`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/bb794d729cbe582940b35b7fef47b859d1ef9736) **hackerrank-orchestrate-june26** — feat(rules): add rule-based risk flags and evidence suffi... (2026-06-19)
+* [`a9008a3`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/a9008a3593b0c6429057df739b209657f187b71b) **hackerrank-orchestrate-june26** — feat(analyzer): add Pass 2 image analysis with Claude vision (2026-06-19)
+* [`5671476`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/5671476ae514f4a166dba5be05cabd20100da04d) **hackerrank-orchestrate-june26** — feat(extractor): add Pass 1 claim extraction from convers... (2026-06-19)
+* [`be186d6`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/be186d62718977c1315c97a1d11f2c7e1c05ce37) **hackerrank-orchestrate-june26** — feat(prompts): add prompt templates for 3-pass pipeline (2026-06-19)
+* [`e869d9e`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/e869d9e7d873526da88fbf11cbcb161f93315335) **hackerrank-orchestrate-june26** — feat(utils): add CSV loading, image encoding, and data lo... (2026-06-19)
+* [`dc96af4`](https://github.com/dadavidtseng/tip103/commit/dc96af46f1e5af5cca0dfcedd884025f542cac7a) **tip103** — update: w3s2-v1-1 and w3s2-v1-2 (2026-06-19)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
