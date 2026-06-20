@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`9b52c80`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/9b52c8048e82f989278fbc7001c92d50bf9d1195) **nap-of-the-earth/nap-of-the-rpi** — test(modules): add PIR sensor tests (2026-06-20)
+* [`764d1ac`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/764d1acaed7ac53e1c6a8c7372ff1094932ad662) **nap-of-the-earth/nap-of-the-rpi** — style: apply linter formatting to skeleton files (2026-06-20)
+* [`b6a4b1d`](https://github.com/dadavidtseng/lakekeeper/commit/b6a4b1d58a86995d99717b84f11dab8144a55118) **lakekeeper** — chore(authz): rename role-rebind context keys to requeste... (2026-06-20)
 * [`37c0d14`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/37c0d145d69d321efafdf1843129f980ef6c0039) **hackerrank-orchestrate-june26** — docs: add interview cheat sheet for AI Judge prep (2026-06-20)
 * [`c5399da`](https://github.com/dadavidtseng/neetcode-submissions/commit/c5399da8387fdda02da3999fc8d0a279dc720ecd) **neetcode-submissions** — Add: top-k-elements-in-list - submission-11 (2026-06-20)
 * [`cedd97f`](https://github.com/dadavidtseng/neetcode-submissions/commit/cedd97f700bc451059c3b84710bf6a283f0aa6b6) **neetcode-submissions** — Add: top-k-elements-in-list - submission-10 (2026-06-19)
 * [`c4bf59b`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/c4bf59b8513beb697d50323e81ebe4e8e76fb87f) **hackerrank-orchestrate-june26** — fix: improve supporting_image_ids and valid_image calibra... (2026-06-19)
 * [`b08b40f`](https://github.com/dadavidtseng/LeetCodePractice/commit/b08b40fe4281332fe8968ff5daebe2bd6ae1646d) **LeetCodePractice** — Update README - Topic Tags (2026-06-19)
-* [`d39a1fa`](https://github.com/dadavidtseng/LeetCodePractice/commit/d39a1fab8ab57d106f055a7803fa500b397d59e4) **LeetCodePractice** — Time: 3 ms (89.3%), Space: 22.7 MB (81.29%) - LeetHub (2026-06-19)
-* [`d6bffdb`](https://github.com/dadavidtseng/neetcode-submissions/commit/d6bffdbc49b02aacf5238d8e1c748ff1cc6077d1) **neetcode-submissions** — Add: top-k-elements-in-list - submission-9 (2026-06-19)
-* [`01a25cd`](https://github.com/dadavidtseng/neetcode-submissions/commit/01a25cdb0cf328636bccde5838d8ea002c23d725) **neetcode-submissions** — Add: top-k-elements-in-list - submission-8 (2026-06-19)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
