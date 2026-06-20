@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`48b8ae4`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/48b8ae4bbaf28fcd205f71952508406e0790d69d) **nap-of-the-earth/nap-of-the-rpi** — docs: add comprehensive README with setup and usage guide (2026-06-20)
+* [`def213f`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/def213f8dead622e0554ca27f1103df72ff309b5) **nap-of-the-earth/nap-of-the-rpi** — feat: wire all modules in main.py with systemd watchdog s... (2026-06-20)
+* [`b01ba94`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/b01ba94c936281525f37d032c038834ea652c40e) **nap-of-the-earth/nap-of-the-rpi** — style: apply linter formatting to voice command and core ... (2026-06-20)
+* [`18db27d`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/18db27da9aba73287003b52257c2e8ce926d6332) **nap-of-the-earth/nap-of-the-rpi** — test(modules): add voice command tests (2026-06-20)
+* [`ff5681d`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/ff5681dd3eefbf2287c4369fa31e2b2f5836601d) **nap-of-the-earth/nap-of-the-rpi** — style: apply linter formatting to TTS and weather modules (2026-06-20)
+* [`7d7c75e`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/7d7c75ea221ee71b5eba303a5509e8278aced850) **hackerrank-orchestrate-june26** — del: INTERVIEW_CHEATSHEET.md (2026-06-20)
+* [`2e8f0c4`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/2e8f0c4a3acb75467b530f8d418658a47133275f) **nap-of-the-earth/nap-of-the-rpi** — test(modules): add weather service tests (2026-06-20)
 * [`d0b597b`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/d0b597be10fe90ec973eb7b656b3ed377b274fa7) **nap-of-the-earth/nap-of-the-rpi** — test(modules): add laser controller tests (2026-06-20)
-* [`9b52c80`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/9b52c8048e82f989278fbc7001c92d50bf9d1195) **nap-of-the-earth/nap-of-the-rpi** — test(modules): add PIR sensor tests (2026-06-20)
-* [`764d1ac`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/764d1acaed7ac53e1c6a8c7372ff1094932ad662) **nap-of-the-earth/nap-of-the-rpi** — style: apply linter formatting to skeleton files (2026-06-20)
-* [`b6a4b1d`](https://github.com/dadavidtseng/lakekeeper/commit/b6a4b1d58a86995d99717b84f11dab8144a55118) **lakekeeper** — chore(authz): rename role-rebind context keys to requeste... (2026-06-20)
-* [`37c0d14`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/37c0d145d69d321efafdf1843129f980ef6c0039) **hackerrank-orchestrate-june26** — docs: add interview cheat sheet for AI Judge prep (2026-06-20)
-* [`c5399da`](https://github.com/dadavidtseng/neetcode-submissions/commit/c5399da8387fdda02da3999fc8d0a279dc720ecd) **neetcode-submissions** — Add: top-k-elements-in-list - submission-11 (2026-06-20)
-* [`cedd97f`](https://github.com/dadavidtseng/neetcode-submissions/commit/cedd97f700bc451059c3b84710bf6a283f0aa6b6) **neetcode-submissions** — Add: top-k-elements-in-list - submission-10 (2026-06-19)
-* [`c4bf59b`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/c4bf59b8513beb697d50323e81ebe4e8e76fb87f) **hackerrank-orchestrate-june26** — fix: improve supporting_image_ids and valid_image calibra... (2026-06-19)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
