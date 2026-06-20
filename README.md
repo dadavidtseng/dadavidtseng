@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`37c0d14`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/37c0d145d69d321efafdf1843129f980ef6c0039) **hackerrank-orchestrate-june26** — docs: add interview cheat sheet for AI Judge prep (2026-06-20)
+* [`c5399da`](https://github.com/dadavidtseng/neetcode-submissions/commit/c5399da8387fdda02da3999fc8d0a279dc720ecd) **neetcode-submissions** — Add: top-k-elements-in-list - submission-11 (2026-06-20)
+* [`cedd97f`](https://github.com/dadavidtseng/neetcode-submissions/commit/cedd97f700bc451059c3b84710bf6a283f0aa6b6) **neetcode-submissions** — Add: top-k-elements-in-list - submission-10 (2026-06-19)
+* [`c4bf59b`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/c4bf59b8513beb697d50323e81ebe4e8e76fb87f) **hackerrank-orchestrate-june26** — fix: improve supporting_image_ids and valid_image calibra... (2026-06-19)
 * [`b08b40f`](https://github.com/dadavidtseng/LeetCodePractice/commit/b08b40fe4281332fe8968ff5daebe2bd6ae1646d) **LeetCodePractice** — Update README - Topic Tags (2026-06-19)
 * [`d39a1fa`](https://github.com/dadavidtseng/LeetCodePractice/commit/d39a1fab8ab57d106f055a7803fa500b397d59e4) **LeetCodePractice** — Time: 3 ms (89.3%), Space: 22.7 MB (81.29%) - LeetHub (2026-06-19)
 * [`d6bffdb`](https://github.com/dadavidtseng/neetcode-submissions/commit/d6bffdbc49b02aacf5238d8e1c748ff1cc6077d1) **neetcode-submissions** — Add: top-k-elements-in-list - submission-9 (2026-06-19)
 * [`01a25cd`](https://github.com/dadavidtseng/neetcode-submissions/commit/01a25cdb0cf328636bccde5838d8ea002c23d725) **neetcode-submissions** — Add: top-k-elements-in-list - submission-8 (2026-06-19)
-* [`e89a759`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/e89a759e949770827913734e31a6008d4ab92a48) **hackerrank-orchestrate-june26** — docs: update evaluation_report.md with final results (84.... (2026-06-19)
-* [`a7f2d2a`](https://github.com/dadavidtseng/neetcode-submissions/commit/a7f2d2ad11bc8c2e1dbbd95f82ea37e83813ad6f) **neetcode-submissions** — Add: top-k-elements-in-list - submission-6 (2026-06-19)
-* [`761c9e3`](https://github.com/dadavidtseng/LeetCodePractice/commit/761c9e385380bcaac96adfc3748cb8fa00f7a609) **LeetCodePractice** — Time: 3 ms (89.3%), Space: 22.6 MB (94.7%) - LeetHub (2026-06-19)
-* [`22f832b`](https://github.com/dadavidtseng/LeetCodePractice/commit/22f832b47dfd2cabe8fca50cc5f4d837ae6bb55f) **LeetCodePractice** — Update README - Topic Tags (2026-06-19)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
