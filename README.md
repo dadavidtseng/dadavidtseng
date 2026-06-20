@@ -10,6 +10,7 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`b0f32f8`](https://github.com/dadavidtseng/neetcode-submissions/commit/b0f32f8cfed4ba4c0057c3a5023473b1fb9d0fc9) **neetcode-submissions** — Add: top-k-elements-in-list - submission-12 (2026-06-20)
 * [`48b8ae4`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/48b8ae4bbaf28fcd205f71952508406e0790d69d) **nap-of-the-earth/nap-of-the-rpi** — docs: add comprehensive README with setup and usage guide (2026-06-20)
 * [`def213f`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/def213f8dead622e0554ca27f1103df72ff309b5) **nap-of-the-earth/nap-of-the-rpi** — feat: wire all modules in main.py with systemd watchdog s... (2026-06-20)
 * [`b01ba94`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/b01ba94c936281525f37d032c038834ea652c40e) **nap-of-the-earth/nap-of-the-rpi** — style: apply linter formatting to voice command and core ... (2026-06-20)
@@ -17,7 +18,6 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 * [`ff5681d`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/ff5681dd3eefbf2287c4369fa31e2b2f5836601d) **nap-of-the-earth/nap-of-the-rpi** — style: apply linter formatting to TTS and weather modules (2026-06-20)
 * [`7d7c75e`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/7d7c75ea221ee71b5eba303a5509e8278aced850) **hackerrank-orchestrate-june26** — del: INTERVIEW_CHEATSHEET.md (2026-06-20)
 * [`2e8f0c4`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/2e8f0c4a3acb75467b530f8d418658a47133275f) **nap-of-the-earth/nap-of-the-rpi** — test(modules): add weather service tests (2026-06-20)
-* [`d0b597b`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/d0b597be10fe90ec973eb7b656b3ed377b274fa7) **nap-of-the-earth/nap-of-the-rpi** — test(modules): add laser controller tests (2026-06-20)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
