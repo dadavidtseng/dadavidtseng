@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`bd96697`](https://github.com/plugnjam/plug-docs/commit/bd96697cf766cd57b5f9346094baba7a3650adfb) **plugnjam/plug-docs** — refactor(docs): rename tmbuild to plug, tm_ to plug_ acro... (2026-06-21)
+* [`dd3c0e5`](https://github.com/plugnjam/plug-core/commit/dd3c0e5a3b46208bd9bf5aaafa6be3fa3dae1b0e) **plugnjam/plug-core** — refactor: rename plug_main_loop.h to main.h, apply code f... (2026-06-21)
+* [`29c9b81`](https://github.com/plugnjam/plug-research/commit/29c9b81ef355f539b71b22918a58a273e2e8c8a2) **plugnjam/plug-research** — refactor(wiki): rename tmbuild to plug in PlugNJam-owned ... (2026-06-21)
 * [`b0f32f8`](https://github.com/dadavidtseng/neetcode-submissions/commit/b0f32f8cfed4ba4c0057c3a5023473b1fb9d0fc9) **neetcode-submissions** — Add: top-k-elements-in-list - submission-12 (2026-06-20)
 * [`48b8ae4`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/48b8ae4bbaf28fcd205f71952508406e0790d69d) **nap-of-the-earth/nap-of-the-rpi** — docs: add comprehensive README with setup and usage guide (2026-06-20)
 * [`def213f`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/def213f8dead622e0554ca27f1103df72ff309b5) **nap-of-the-earth/nap-of-the-rpi** — feat: wire all modules in main.py with systemd watchdog s... (2026-06-20)
 * [`b01ba94`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/b01ba94c936281525f37d032c038834ea652c40e) **nap-of-the-earth/nap-of-the-rpi** — style: apply linter formatting to voice command and core ... (2026-06-20)
 * [`18db27d`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/18db27da9aba73287003b52257c2e8ce926d6332) **nap-of-the-earth/nap-of-the-rpi** — test(modules): add voice command tests (2026-06-20)
-* [`ff5681d`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/ff5681dd3eefbf2287c4369fa31e2b2f5836601d) **nap-of-the-earth/nap-of-the-rpi** — style: apply linter formatting to TTS and weather modules (2026-06-20)
-* [`7d7c75e`](https://github.com/dadavidtseng/hackerrank-orchestrate-june26/commit/7d7c75ea221ee71b5eba303a5509e8278aced850) **hackerrank-orchestrate-june26** — del: INTERVIEW_CHEATSHEET.md (2026-06-20)
-* [`2e8f0c4`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/2e8f0c4a3acb75467b530f8d418658a47133275f) **nap-of-the-earth/nap-of-the-rpi** — test(modules): add weather service tests (2026-06-20)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
