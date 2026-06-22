@@ -10,6 +10,7 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`86f8bc5`](https://github.com/plugnjam/plug-core/commit/86f8bc5a3c8bbf7ef8b4c26eacbac5619966e1c5) **plugnjam/plug-core** — refactor: document registry.h, rename reg → registry, ref... (2026-06-22)
 * [`54563c3`](https://github.com/plugnjam/plug-core/commit/54563c34ac32b98af2ac5e36942bf16245d62d2a) **plugnjam/plug-core** — refactor: rename all plug_/PLUG_ to core_/CORE_ across co... (2026-06-21)
 * [`bd96697`](https://github.com/plugnjam/plug-docs/commit/bd96697cf766cd57b5f9346094baba7a3650adfb) **plugnjam/plug-docs** — refactor(docs): rename tmbuild to plug, tm_ to plug_ acro... (2026-06-21)
 * [`dd3c0e5`](https://github.com/plugnjam/plug-core/commit/dd3c0e5a3b46208bd9bf5aaafa6be3fa3dae1b0e) **plugnjam/plug-core** — refactor: rename plug_main_loop.h to main.h, apply code f... (2026-06-21)
@@ -17,7 +18,6 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 * [`b0f32f8`](https://github.com/dadavidtseng/neetcode-submissions/commit/b0f32f8cfed4ba4c0057c3a5023473b1fb9d0fc9) **neetcode-submissions** — Add: top-k-elements-in-list - submission-12 (2026-06-20)
 * [`48b8ae4`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/48b8ae4bbaf28fcd205f71952508406e0790d69d) **nap-of-the-earth/nap-of-the-rpi** — docs: add comprehensive README with setup and usage guide (2026-06-20)
 * [`def213f`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/def213f8dead622e0554ca27f1103df72ff309b5) **nap-of-the-earth/nap-of-the-rpi** — feat: wire all modules in main.py with systemd watchdog s... (2026-06-20)
-* [`b01ba94`](https://github.com/nap-of-the-earth/nap-of-the-rpi/commit/b01ba94c936281525f37d032c038834ea652c40e) **nap-of-the-earth/nap-of-the-rpi** — style: apply linter formatting to voice command and core ... (2026-06-20)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
