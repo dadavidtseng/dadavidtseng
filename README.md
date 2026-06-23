@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`88437e3`](https://github.com/plugnjam/plug-core/commit/88437e3e5ff57c7e8d4d0e65d0e31e725774dc02) **plugnjam/plug-core** — fix(platform): fix __ulock_wait reading 8 bytes from 4-by... (2026-06-23)
+* [`c8936db`](https://github.com/plugnjam/plug-core/commit/c8936dbada1ab02895fc0b46c69363e26f740002) **plugnjam/plug-core** — fix(samples): resolve hot-reload segfault in hello_c (2026-06-23)
+* [`f0f0c98`](https://github.com/plugnjam/plug-core/commit/f0f0c980ff64e4a0fc24e44bd3e41dde646ec888) **plugnjam/plug-core** — fix(platform): remove duplicate code in platform_linux.c,... (2026-06-23)
+* [`fccbf41`](https://github.com/plugnjam/plug-core/commit/fccbf41e4723bf893f8c6ba13f68138161fca4b6) **plugnjam/plug-core** — feat(samples): cross-language circular API consumption (2026-06-23)
 * [`444607d`](https://github.com/a-g-e-n-t-s/AGENTS/commit/444607d6256293fc0d673080e96aa0f6e08a0f6b) **a-g-e-n-t-s/AGENTS** — refactor: convert agent-worker to submodule (2026-06-22)
 * [`04bad1b`](https://github.com/a-g-e-n-t-s/agent-worker/commit/04bad1b352477e637c7e60f657b5a25f14965d38) **a-g-e-n-t-s/agent-worker** — docs: auto-update READMEs via model-manager LLM (2026-06-22)
 * [`ca26344`](https://github.com/a-g-e-n-t-s/AGENTS/commit/ca26344bd6b4730a39739dfe512ebd67cdeaf22a) **a-g-e-n-t-s/AGENTS** — fix(mcp-server-git): resolve logsPath to absolute path us... (2026-06-22)
 * [`62703b0`](https://github.com/plugnjam/plug-core/commit/62703b0a2f90615311617d014ed219ee05c4fa59) **plugnjam/plug-core** — fix(ci): fix macOS build — use .bundle suffix, portable s... (2026-06-22)
-* [`0f10376`](https://github.com/plugnjam/plug-core/commit/0f1037647c7b7153105a9395f7954faa51cc0108) **plugnjam/plug-core** — ci: add macOS build job (2026-06-22)
-* [`4903300`](https://github.com/plugnjam/plug-core/commit/49033003572c8c57391574f0c3d81e8e949a785a) **plugnjam/plug-core** — style: clean up platform.h formatting and add struct tag ... (2026-06-22)
-* [`86f8bc5`](https://github.com/plugnjam/plug-core/commit/86f8bc5a3c8bbf7ef8b4c26eacbac5619966e1c5) **plugnjam/plug-core** — refactor: document registry.h, rename reg → registry, ref... (2026-06-22)
-* [`54563c3`](https://github.com/plugnjam/plug-core/commit/54563c34ac32b98af2ac5e36942bf16245d62d2a) **plugnjam/plug-core** — refactor: rename all plug_/PLUG_ to core_/CORE_ across co... (2026-06-21)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
