@@ -10,6 +10,7 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`210b3a1`](https://github.com/dadavidtseng/neetcode-submissions/commit/210b3a119af01cd719181f619e3ebfd6d913646c) **neetcode-submissions** — Add: top-k-elements-in-list - submission-13 (2026-06-23)
 * [`c67f4d3`](https://github.com/dadavidtseng/dadavidtseng/commit/c67f4d32fa9ff8d807f39380fc6fa5c2319d3196) **dadavidtseng** — update: AGENTS repository link in README (2026-06-23)
 * [`289f2a5`](https://github.com/plugnjam/plug-core/commit/289f2a5dbe2dbff3c0f02cdaddb5d7955bb76dc9) **plugnjam/plug-core** — chore: rename jobs variable and remove empty .gitkeep files (2026-06-23)
 * [`a21c6a8`](https://github.com/plugnjam/plug-core/commit/a21c6a85adaf3e6c52820ff38b90b1cf49e1cf1d) **plugnjam/plug-core** — style(registry): rename parameter to self for consistency (2026-06-23)
@@ -17,7 +18,6 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 * [`9b89e1f`](https://github.com/plugnjam/plug-core/commit/9b89e1f3456059078ef9461b53959a526f0bc831) **plugnjam/plug-core** — refactor(platform): improve code style and return thread ... (2026-06-23)
 * [`cfdf1c0`](https://github.com/a-g-e-n-t-s/AGENTS/commit/cfdf1c055c45478d86b5b462b1f903aaad43ff8e) **a-g-e-n-t-s/AGENTS** — chore: bump agents/agent-docs (2026-06-23)
 * [`4b14c5d`](https://github.com/a-g-e-n-t-s/agent-docs/commit/4b14c5db37527fa0868348771dfa01ead1d62c18) **a-g-e-n-t-s/agent-docs** — fix: update config.json paths for new submodule structure (2026-06-23)
-* [`5fa569b`](https://github.com/a-g-e-n-t-s/AGENTS/commit/5fa569b2f506e639135228cc195377be7ce280f5) **a-g-e-n-t-s/AGENTS** — docs: auto-update READMEs via model-manager LLM (2026-06-23)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
