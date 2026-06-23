@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
-* [`88437e3`](https://github.com/plugnjam/plug-core/commit/88437e3e5ff57c7e8d4d0e65d0e31e725774dc02) **plugnjam/plug-core** — fix(platform): fix __ulock_wait reading 8 bytes from 4-by... (2026-06-23)
-* [`c8936db`](https://github.com/plugnjam/plug-core/commit/c8936dbada1ab02895fc0b46c69363e26f740002) **plugnjam/plug-core** — fix(samples): resolve hot-reload segfault in hello_c (2026-06-23)
-* [`f0f0c98`](https://github.com/plugnjam/plug-core/commit/f0f0c980ff64e4a0fc24e44bd3e41dde646ec888) **plugnjam/plug-core** — fix(platform): remove duplicate code in platform_linux.c,... (2026-06-23)
-* [`fccbf41`](https://github.com/plugnjam/plug-core/commit/fccbf41e4723bf893f8c6ba13f68138161fca4b6) **plugnjam/plug-core** — feat(samples): cross-language circular API consumption (2026-06-23)
-* [`444607d`](https://github.com/a-g-e-n-t-s/AGENTS/commit/444607d6256293fc0d673080e96aa0f6e08a0f6b) **a-g-e-n-t-s/AGENTS** — refactor: convert agent-worker to submodule (2026-06-22)
-* [`04bad1b`](https://github.com/a-g-e-n-t-s/agent-worker/commit/04bad1b352477e637c7e60f657b5a25f14965d38) **a-g-e-n-t-s/agent-worker** — docs: auto-update READMEs via model-manager LLM (2026-06-22)
-* [`ca26344`](https://github.com/a-g-e-n-t-s/AGENTS/commit/ca26344bd6b4730a39739dfe512ebd67cdeaf22a) **a-g-e-n-t-s/AGENTS** — fix(mcp-server-git): resolve logsPath to absolute path us... (2026-06-22)
-* [`62703b0`](https://github.com/plugnjam/plug-core/commit/62703b0a2f90615311617d014ed219ee05c4fa59) **plugnjam/plug-core** — fix(ci): fix macOS build — use .bundle suffix, portable s... (2026-06-22)
+* [`f3bad7b`](https://github.com/a-g-e-n-t-s/AGENTS/commit/f3bad7b64857ac5d9e42ac8185b99de3c93257f9) **a-g-e-n-t-s/AGENTS** — chore: bump abilities/ability-file-local (2026-06-23)
+* [`ee8ef0d`](https://github.com/a-g-e-n-t-s/AGENTS/commit/ee8ef0d02fc578d081fcbf44d1b111b9bdb43f90) **a-g-e-n-t-s/AGENTS** — chore: bump mcp-clients/mcp-client-discord (2026-06-23)
+* [`1f0d116`](https://github.com/a-g-e-n-t-s/AGENTS/commit/1f0d11630d2c4bbf36fa11648390274ee8e5c145) **a-g-e-n-t-s/AGENTS** — chore: bump abilities/ability-arcadedb (2026-06-23)
+* [`55ae1e5`](https://github.com/a-g-e-n-t-s/AGENTS/commit/55ae1e5d34836057154ccc6c02c7d297d122b135) **a-g-e-n-t-s/AGENTS** — fix: gitignore abilities/ conflict and add retry to bump ... (2026-06-23)
+* [`76df3ef`](https://github.com/a-g-e-n-t-s/AGENTS/commit/76df3efa6cea4b2af9a0c327d1edc5c5cf01a209) **a-g-e-n-t-s/AGENTS** — chore: bump mcp-servers/mcp-server-discord (2026-06-23)
+* [`cdc7c21`](https://github.com/a-g-e-n-t-s/AGENTS/commit/cdc7c21027bda69dc976d8ede1e4ae62d3a077fd) **a-g-e-n-t-s/AGENTS** — chore: bump mcp-servers/mcp-server-discord (2026-06-23)
+* [`86a3f80`](https://github.com/a-g-e-n-t-s/AGENTS/commit/86a3f80e3cbf9919f11a02e0b4cc2abdbb877084) **a-g-e-n-t-s/AGENTS** — chore: bump agents/agent-worker (2026-06-23)
+* [`a6b3af6`](https://github.com/a-g-e-n-t-s/AGENTS/commit/a6b3af69a9b6d04448fa3c4990f4e7938d45af51) **a-g-e-n-t-s/AGENTS** — chore: bump agents/agent-docs (2026-06-23)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
