@@ -10,6 +10,7 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`5458492`](https://github.com/dadavidtseng/neetcode-submissions/commit/54584928d38ea2a26b11fa100c68a7efa4f7790e) **neetcode-submissions** — Add: car-fleet - submission-0 (2026-06-25)
 * [`b92c902`](https://github.com/dadavidtseng/lakekeeper/commit/b92c9020710da87447957c11c72caf95d6c223e5) **lakekeeper** — feat(authn): let admission gates contribute resolved role... (2026-06-25)
 * [`0329526`](https://github.com/dadavidtseng/lakekeeper/commit/032952613ade57f560d06956357f6aaea4e97290) **lakekeeper** — fix: base-location guard, deepest-first cleanup order, re... (2026-06-25)
 * [`7be9c21`](https://github.com/dadavidtseng/LeetCodePython/commit/7be9c2146b969bcefccd7875af610c838aed00cc) **LeetCodePython** — feat: add py-0347-top-k-frequent-elements (2026-06-24)
@@ -17,7 +18,6 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 * [`f73c75d`](https://github.com/dadavidtseng/neetcode-submissions/commit/f73c75d173ce0d402f4ed985d8b8e426ba092dec) **neetcode-submissions** — Add: string-encode-and-decode - submission-5 (2026-06-24)
 * [`fe3cc40`](https://github.com/dadavidtseng/neetcode-submissions/commit/fe3cc403b07e95cf5de6d345f6b3c3c994a711fb) **neetcode-submissions** — Add: string-encode-and-decode - submission-2 (2026-06-24)
 * [`847d77d`](https://github.com/dadavidtseng/neetcode-submissions/commit/847d77d0d209faa1fbdd296f085ed42c2ac2f2e0) **neetcode-submissions** — Add: top-k-elements-in-list - submission-22 (2026-06-24)
-* [`61728a8`](https://github.com/dadavidtseng/LeetCodePractice/commit/61728a822bd4eb19a4f78cf0a6390a6b244da717) **LeetCodePractice** — Update README - Topic Tags (2026-06-24)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
