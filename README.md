@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`b92c902`](https://github.com/dadavidtseng/lakekeeper/commit/b92c9020710da87447957c11c72caf95d6c223e5) **lakekeeper** — feat(authn): let admission gates contribute resolved role... (2026-06-25)
+* [`0329526`](https://github.com/dadavidtseng/lakekeeper/commit/032952613ade57f560d06956357f6aaea4e97290) **lakekeeper** — fix: base-location guard, deepest-first cleanup order, re... (2026-06-25)
 * [`7be9c21`](https://github.com/dadavidtseng/LeetCodePython/commit/7be9c2146b969bcefccd7875af610c838aed00cc) **LeetCodePython** — feat: add py-0347-top-k-frequent-elements (2026-06-24)
 * [`6aaa997`](https://github.com/dadavidtseng/LeetCodeCpp/commit/6aaa997847367df39cdc4b12abd4a9fdac62767d) **LeetCodeCpp** — feat: rewrite cpp-0347-top-k-frequent-elements with multi... (2026-06-24)
 * [`f73c75d`](https://github.com/dadavidtseng/neetcode-submissions/commit/f73c75d173ce0d402f4ed985d8b8e426ba092dec) **neetcode-submissions** — Add: string-encode-and-decode - submission-5 (2026-06-24)
 * [`fe3cc40`](https://github.com/dadavidtseng/neetcode-submissions/commit/fe3cc403b07e95cf5de6d345f6b3c3c994a711fb) **neetcode-submissions** — Add: string-encode-and-decode - submission-2 (2026-06-24)
 * [`847d77d`](https://github.com/dadavidtseng/neetcode-submissions/commit/847d77d0d209faa1fbdd296f085ed42c2ac2f2e0) **neetcode-submissions** — Add: top-k-elements-in-list - submission-22 (2026-06-24)
 * [`61728a8`](https://github.com/dadavidtseng/LeetCodePractice/commit/61728a822bd4eb19a4f78cf0a6390a6b244da717) **LeetCodePractice** — Update README - Topic Tags (2026-06-24)
-* [`9c76384`](https://github.com/dadavidtseng/LeetCodePractice/commit/9c763847e668d38e4c76e2ca37d7daf4c760a1ca) **LeetCodePractice** — Time: 2 ms (57.88%), Space: 20.6 MB (10.56%) - LeetHub (2026-06-24)
-* [`d306a47`](https://github.com/dadavidtseng/neetcode-submissions/commit/d306a47732c9d1607801cc975f41d066355c663c) **neetcode-submissions** — Add: top-k-elements-in-list - submission-17 (2026-06-24)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
