@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
-* [`1335615`](https://github.com/plugnjam/plug-core/commit/1335615e6cfb119b9d9c281851d8913b30920824) **plugnjam/plug-core** — style: address PR review feedback (2026-06-26)
-* [`fb3cacf`](https://github.com/plugnjam/plug-core/commit/fb3cacfc1265752a572ec513b3631815d043fd74) **plugnjam/plug-core** — refactor(jobs): migrate to shared atomics and rename sys ... (2026-06-26)
-* [`6ffb517`](https://github.com/dadavidtseng/LeetCodePractice/commit/6ffb5177181a2dff0c10de3d46e9b00fddb7cbd0) **LeetCodePractice** — Time: 19 ms (6.56%), Space: 19.6 MB (54.11%) - LeetHub (2026-06-25)
-* [`c43524c`](https://github.com/dadavidtseng/LeetCodePractice/commit/c43524c1e410eb4290839650209a84862e047a6f) **LeetCodePractice** — Update README - Topic Tags (2026-06-25)
-* [`85cce1a`](https://github.com/dadavidtseng/LeetCodePractice/commit/85cce1a8fe55a7af9637e17991c258214f14096f) **LeetCodePractice** — Update README - Topic Tags (2026-06-25)
-* [`3710815`](https://github.com/dadavidtseng/LeetCodePractice/commit/3710815c6931868198d6deb68560eebb6041065c) **LeetCodePractice** — Time: 19 ms (6.56%), Space: 19.7 MB (54.11%) - LeetHub (2026-06-25)
-* [`746fa92`](https://github.com/dadavidtseng/neetcode-submissions/commit/746fa9249142b610fc0e6fdbd759d479fe64e81b) **neetcode-submissions** — Add: is-palindrome - submission-5 (2026-06-25)
-* [`110a758`](https://github.com/dadavidtseng/neetcode-submissions/commit/110a7587c1252f885b6e6b2bfbb823fce644872b) **neetcode-submissions** — Add: products-of-array-discluding-self - submission-5 (2026-06-25)
+* [`6a3e04a`](https://github.com/dadavidtseng/LeetCodePractice/commit/6a3e04a6fa318404cc4c3e3d0de24842c761f39a) **LeetCodePractice** — Update README - Topic Tags (2026-06-26)
+* [`e658130`](https://github.com/dadavidtseng/LeetCodePractice/commit/e658130f18b3ef548f215ed70f7969a7ac100183) **LeetCodePractice** — Time: 195 ms (5.04%), Space: 42.7 MB (5.2%) - LeetHub (2026-06-26)
+* [`26acebe`](https://github.com/dadavidtseng/LeetCodePractice/commit/26acebe22b138891a72d6dd48d1d39aa99755b25) **LeetCodePractice** — Update README - Topic Tags (2026-06-26)
+* [`222cd48`](https://github.com/dadavidtseng/LeetCodePractice/commit/222cd48fdf728155a86e4358ad3f903e447ffef3) **LeetCodePractice** — Time: 195 ms (5.04%), Space: 42.7 MB (5.2%) - LeetHub (2026-06-26)
+* [`0942906`](https://github.com/dadavidtseng/neetcode-submissions/commit/0942906c0996177516840c7907b0681966e3f782) **neetcode-submissions** — Add: longest-consecutive-sequence - submission-9 (2026-06-26)
+* [`85aa31d`](https://github.com/dadavidtseng/neetcode-submissions/commit/85aa31d4c21e9939a11e4731b78bb622cd2bfc9d) **neetcode-submissions** — Add: longest-consecutive-sequence - submission-8 (2026-06-26)
+* [`e7a80e7`](https://github.com/dadavidtseng/LeetCodePractice/commit/e7a80e763b896227eef2238b395df323e89acc70) **LeetCodePractice** — Time: 39 ms (94.51%), Space: 36.7 MB (37.54%) - LeetHub (2026-06-26)
+* [`e875668`](https://github.com/dadavidtseng/LeetCodePractice/commit/e87566849227d2e880a926c4f2c0dc20f72ec1b1) **LeetCodePractice** — Update README - Topic Tags (2026-06-26)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
