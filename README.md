@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
-* [`6a3e04a`](https://github.com/dadavidtseng/LeetCodePractice/commit/6a3e04a6fa318404cc4c3e3d0de24842c761f39a) **LeetCodePractice** — Update README - Topic Tags (2026-06-26)
-* [`e658130`](https://github.com/dadavidtseng/LeetCodePractice/commit/e658130f18b3ef548f215ed70f7969a7ac100183) **LeetCodePractice** — Time: 195 ms (5.04%), Space: 42.7 MB (5.2%) - LeetHub (2026-06-26)
-* [`26acebe`](https://github.com/dadavidtseng/LeetCodePractice/commit/26acebe22b138891a72d6dd48d1d39aa99755b25) **LeetCodePractice** — Update README - Topic Tags (2026-06-26)
-* [`222cd48`](https://github.com/dadavidtseng/LeetCodePractice/commit/222cd48fdf728155a86e4358ad3f903e447ffef3) **LeetCodePractice** — Time: 195 ms (5.04%), Space: 42.7 MB (5.2%) - LeetHub (2026-06-26)
-* [`0942906`](https://github.com/dadavidtseng/neetcode-submissions/commit/0942906c0996177516840c7907b0681966e3f782) **neetcode-submissions** — Add: longest-consecutive-sequence - submission-9 (2026-06-26)
-* [`85aa31d`](https://github.com/dadavidtseng/neetcode-submissions/commit/85aa31d4c21e9939a11e4731b78bb622cd2bfc9d) **neetcode-submissions** — Add: longest-consecutive-sequence - submission-8 (2026-06-26)
-* [`e7a80e7`](https://github.com/dadavidtseng/LeetCodePractice/commit/e7a80e763b896227eef2238b395df323e89acc70) **LeetCodePractice** — Time: 39 ms (94.51%), Space: 36.7 MB (37.54%) - LeetHub (2026-06-26)
-* [`e875668`](https://github.com/dadavidtseng/LeetCodePractice/commit/e87566849227d2e880a926c4f2c0dc20f72ec1b1) **LeetCodePractice** — Update README - Topic Tags (2026-06-26)
+* [`b1544a0`](https://github.com/dadavidtseng/LeetCodePractice/commit/b1544a097121929c96804e30f2e45738342eb0a1) **LeetCodePractice** — Updated stats (2026-06-26)
+* [`73275fd`](https://github.com/dadavidtseng/LeetCodePractice/commit/73275fd7a80f9312a2a9f236a60ef08c8d091356) **LeetCodePractice** — Update README - Topic Tags (2026-06-26)
+* [`dcb9c80`](https://github.com/dadavidtseng/LeetCodePractice/commit/dcb9c80b4d783486a6f539953896dcaa69e5f995) **LeetCodePractice** — Time: 58 ms (6.68%), Space: 20 MB (87.32%) - LeetHub (2026-06-26)
+* [`d863236`](https://github.com/dadavidtseng/LeetCodePractice/commit/d8632367d5c5d60c8ef497b62c0dac246e5d440b) **LeetCodePractice** — Create README - LeetHub (2026-06-26)
+* [`c4da409`](https://github.com/dadavidtseng/neetcode-submissions/commit/c4da40974ed4387016d65a8ddcec157a802a833d) **neetcode-submissions** — Add: copy-linked-list-with-random-pointer - submission-0 (2026-06-26)
+* [`009c63d`](https://github.com/dadavidtseng/LeetCodePractice/commit/009c63d89561a79b2d74e60d50fce3eaeca39a49) **LeetCodePractice** — Update README - Topic Tags (2026-06-26)
+* [`70c2058`](https://github.com/dadavidtseng/LeetCodePractice/commit/70c205816ec2a24ead82d07b6cbf170d62469ace) **LeetCodePractice** — Time: 15 ms (81.28%), Space: 19.4 MB (52.99%) - LeetHub (2026-06-26)
+* [`3e6fc3d`](https://github.com/dadavidtseng/neetcode-submissions/commit/3e6fc3d4df59a7a15386c65351a5655accf37f88) **neetcode-submissions** — Add: permutation-string - submission-2 (2026-06-26)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
