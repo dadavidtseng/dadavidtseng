@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`6058f07`](https://github.com/oriensworld/nap-of-the-rpi/commit/6058f07b780f2f907a6d2d88ac221422b8260908) **oriensworld/nap-of-the-rpi** — refactor: tts_speaker.py import order (2026-06-27)
+* [`0a43dab`](https://github.com/oriensworld/nap-of-the-rpi/commit/0a43dab76d41e85058355e92b32f20a68f0d937e) **oriensworld/nap-of-the-rpi** — style: apply linter formatting to logger imports (2026-06-27)
+* [`228ebe1`](https://github.com/dadavidtseng/lakekeeper/commit/228ebe1f9cf43fb5fdaecb4616ea525cf5a0679e) **lakekeeper** — feat(deps): bump console to v0.18.1 (#1871) (2026-06-27)
+* [`414c0d5`](https://github.com/dadavidtseng/lakekeeper/commit/414c0d50ce37ceaf5909021855613cc105872c9b) **lakekeeper** — test: rewrite cleanup tests to reflect hierarchical stora... (2026-06-27)
 * [`eb11700`](https://github.com/dadavidtseng/leetcode-cpp/commit/eb11700dd48131546637b70912832e5ff6a445ad) **leetcode-cpp** — rename: cpp-0001-two-sum.filters (2026-06-26)
 * [`7760650`](https://github.com/dadavidtseng/leetcode-cpp/commit/7760650330c81aaf6caee77b3e01af1cd6a20a37) **leetcode-cpp** — refactor: reorganize arrays-and-hashing problems into top... (2026-06-26)
 * [`0d062ad`](https://github.com/dadavidtseng/leetcode-python/commit/0d062ad857c59b63759df53569964cc511773549) **leetcode-python** — refactor: reorganize problems into topic-based directories (2026-06-26)
 * [`fec24b3`](https://github.com/dadavidtseng/leetcode-cpp/commit/fec24b3c3b3ad9f00e1ec4dd9ef80156a3edb82a) **leetcode-cpp** — fix: cpp-0001-two-sum (2026-06-26)
-* [`260a6c8`](https://github.com/dadavidtseng/leetcode-cpp/commit/260a6c8bd6404b48bf0217cd4e7aa126d5debfc9) **leetcode-cpp** — feat: rewrite cpp-0206-reverse-linked-list with multiple ... (2026-06-26)
-* [`ed98290`](https://github.com/dadavidtseng/leetcode-python/commit/ed982902f1eb6e07830cbab8a067ca9510b7b353) **leetcode-python** — feat: add py-0981-time-based-key-value-store (2026-06-26)
-* [`eef8632`](https://github.com/dadavidtseng/leetcode-practice/commit/eef8632d75ec707f0f648592008525bbc8e3b848) **leetcode-practice** — Update README - Topic Tags (2026-06-26)
-* [`5372006`](https://github.com/dadavidtseng/leetcode-practice/commit/5372006848d7c8af2394501fdd0c15424472695a) **leetcode-practice** — Time: 0 ms (100%), Space: 20.4 MB (91.49%) - LeetHub (2026-06-26)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
