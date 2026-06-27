@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
-* [`6058f07`](https://github.com/oriensworld/nap-of-the-rpi/commit/6058f07b780f2f907a6d2d88ac221422b8260908) **oriensworld/nap-of-the-rpi** — refactor: tts_speaker.py import order (2026-06-27)
-* [`0a43dab`](https://github.com/oriensworld/nap-of-the-rpi/commit/0a43dab76d41e85058355e92b32f20a68f0d937e) **oriensworld/nap-of-the-rpi** — style: apply linter formatting to logger imports (2026-06-27)
-* [`228ebe1`](https://github.com/dadavidtseng/lakekeeper/commit/228ebe1f9cf43fb5fdaecb4616ea525cf5a0679e) **lakekeeper** — feat(deps): bump console to v0.18.1 (#1871) (2026-06-27)
-* [`414c0d5`](https://github.com/dadavidtseng/lakekeeper/commit/414c0d50ce37ceaf5909021855613cc105872c9b) **lakekeeper** — test: rewrite cleanup tests to reflect hierarchical stora... (2026-06-27)
-* [`eb11700`](https://github.com/dadavidtseng/leetcode-cpp/commit/eb11700dd48131546637b70912832e5ff6a445ad) **leetcode-cpp** — rename: cpp-0001-two-sum.filters (2026-06-26)
-* [`7760650`](https://github.com/dadavidtseng/leetcode-cpp/commit/7760650330c81aaf6caee77b3e01af1cd6a20a37) **leetcode-cpp** — refactor: reorganize arrays-and-hashing problems into top... (2026-06-26)
-* [`0d062ad`](https://github.com/dadavidtseng/leetcode-python/commit/0d062ad857c59b63759df53569964cc511773549) **leetcode-python** — refactor: reorganize problems into topic-based directories (2026-06-26)
-* [`fec24b3`](https://github.com/dadavidtseng/leetcode-cpp/commit/fec24b3c3b3ad9f00e1ec4dd9ef80156a3edb82a) **leetcode-cpp** — fix: cpp-0001-two-sum (2026-06-26)
+* [`0e95e45`](https://github.com/dadavidtseng/leetcode-rust/commit/0e95e45bba65874464f6b6ebf0e8e7001ba295e6) **leetcode-rust** — refactor: reorganize problems into topic-based directories (2026-06-27)
+* [`be665df`](https://github.com/daemon-engine/Protogame3D/commit/be665df7458feedd6bc14c9d3349265b143d1b83) **daemon-engine/Protogame3D** — chore: standardize .gitignore and .gitattributes (2026-06-27)
+* [`1890c60`](https://github.com/daemon-engine/Protogame2D/commit/1890c60df78a8f16f17eaeb4966bcb07354ec88f) **daemon-engine/Protogame2D** — chore: standardize .gitignore custom section (2026-06-27)
+* [`0afd33f`](https://github.com/daemon-engine/MathUnitTests/commit/0afd33f1f251adc7509581a5bfaa15982e82a17f) **daemon-engine/MathUnitTests** — chore: untrack .serena directory (2026-06-27)
+* [`b853b12`](https://github.com/daemon-engine/DaemonCraft/commit/b853b1236247f395e8a017b5544eb197e7cc25ca) **daemon-engine/DaemonCraft** — chore: untrack .spec-workflow directory (2026-06-27)
+* [`e8e2169`](https://github.com/daemon-engine/DaemonWindows/commit/e8e2169b58723f71fe7be1489171a31d53526e8a) **daemon-engine/DaemonWindows** — chore: untrack .claude and .spec-workflow directories (2026-06-27)
+* [`76d4b97`](https://github.com/daemon-engine/DaemonCraft/commit/76d4b97e6fd5b268ac2fb3f20619bceb3c75134a) **daemon-engine/DaemonCraft** — chore: untrack .claude directory (2026-06-27)
+* [`67a5e4c`](https://github.com/daemon-engine/MathVisualTests/commit/67a5e4cae2245e1b72164c8be34847750e72c370) **daemon-engine/MathVisualTests** — refactor: move project files into MathVisualTests/ subfolder (2026-06-27)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
