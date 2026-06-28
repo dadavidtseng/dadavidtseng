@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`81af3a2`](https://github.com/dadavidtseng/neetcode-practice/commit/81af3a207fb4baa84f6087831e4b3ef9c59a428c) **neetcode-practice** — Add: duplicate-integer - submission-4 (2026-06-28)
+* [`2a43fd7`](https://github.com/dadavidtseng/neetcode-practice/commit/2a43fd70d50096b582c2e4d031338b92993d85e6) **neetcode-practice** — Add: factory - submission-0 (2026-06-28)
 * [`e36dd58`](https://github.com/dadavidtseng/leetcode-practice/commit/e36dd58ea964e75fcc353ef9c9874f0daba115a7) **leetcode-practice** — Update README - Topic Tags (2026-06-27)
 * [`bac1800`](https://github.com/dadavidtseng/leetcode-practice/commit/bac1800159e98cb5b74e2d76c4164b786111152b) **leetcode-practice** — Time: 24 ms (67.42%), Space: 33.7 MB (29.91%) - LeetHub (2026-06-27)
 * [`046552d`](https://github.com/dadavidtseng/neetcode-practice/commit/046552dc90aaa3b964f66787f075a10c6f918efd) **neetcode-practice** — Add: find-duplicate-integer - submission-2 (2026-06-27)
 * [`9d56ac2`](https://github.com/dadavidtseng/neetcode-practice/commit/9d56ac252a9032778778f1296ee7ec9f070a0eed) **neetcode-practice** — Add: find-duplicate-integer - submission-0 (2026-06-27)
 * [`846a5c9`](https://github.com/dadavidtseng/leetcode-practice/commit/846a5c9b7e7bfef9938b1f3e17ce20ccde8c6358) **leetcode-practice** — Updated stats (2026-06-27)
 * [`c7dd4d2`](https://github.com/dadavidtseng/leetcode-practice/commit/c7dd4d21fc95712baa60e8ba51cfe06f3b66cdcb) **leetcode-practice** — Update README - Topic Tags (2026-06-27)
-* [`4f2b121`](https://github.com/dadavidtseng/leetcode-practice/commit/4f2b121872a502c81ba86cc32410573cb6d27077) **leetcode-practice** — Time: 26 ms (59.54%), Space: 33.8 MB (18.37%) - LeetHub (2026-06-27)
-* [`957eb32`](https://github.com/dadavidtseng/leetcode-practice/commit/957eb3237af92da898fc921eae603b2165f4a2c1) **leetcode-practice** — Create README - LeetHub (2026-06-27)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
