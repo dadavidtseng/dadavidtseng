@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`6e0b12a`](https://github.com/a-g-e-n-t-s/mcp-server-blender/commit/6e0b12aa8e83128ef7e3507cc6524a10df450d17) **a-g-e-n-t-s/mcp-server-blender** — refactor: modularize tools into separate files (2026-06-29)
+* [`0d3ac13`](https://github.com/a-g-e-n-t-s/mcp-server-blender/commit/0d3ac13d053e9bd77997f9b39cff2510c011b360) **a-g-e-n-t-s/mcp-server-blender** — del: .env.gui (2026-06-29)
+* [`58c0ccf`](https://github.com/a-g-e-n-t-s/AGENTS/commit/58c0ccfa060be3509379ea2c340dfa4e77bcc30b) **a-g-e-n-t-s/AGENTS** — chore: bump mcp-servers/mcp-server-blender (2026-06-29)
+* [`d2da8c8`](https://github.com/a-g-e-n-t-s/AGENTS/commit/d2da8c8b4777da0f91a822a0d9d0e6ad12fb08aa) **a-g-e-n-t-s/AGENTS** — chore: bump mcp-servers/mcp-server-blender (2026-06-29)
+* [`d503223`](https://github.com/a-g-e-n-t-s/mcp-server-blender/commit/d5032236475f8b3d3bdc05d6bad3978e262e5c9d) **a-g-e-n-t-s/mcp-server-blender** — fix(bootstrap): force viewport redraw after object mutations (2026-06-29)
 * [`c550b36`](https://github.com/dadavidtseng/apm/commit/c550b365b47101837cd2661ffddb3e11157ca786) **apm** — docs(enterprise): consolidate governance into a 5-phase r... (2026-06-29)
 * [`317c6d9`](https://github.com/a-g-e-n-t-s/AGENTS/commit/317c6d960beab0de26e1185cd270182d1671e9ca) **a-g-e-n-t-s/AGENTS** — chore: bump mcp-servers/mcp-server-blender (2026-06-29)
 * [`f1887f8`](https://github.com/dadavidtseng/leetcode-practice/commit/f1887f87178a996a592635871e3ce12f588ad87c) **leetcode-practice** — Update README - Topic Tags (2026-06-29)
-* [`36ed273`](https://github.com/dadavidtseng/leetcode-practice/commit/36ed27358b5f42a8e51e8d0a6e31c9a02e0ce7e2) **leetcode-practice** — Time: 0 ms (100%), Space: 9 MB (37.77%) - LeetHub (2026-06-29)
-* [`4bb8b31`](https://github.com/dadavidtseng/neetcode-practice/commit/4bb8b31987e3b5e1d1163157be6c2e439dc381b1) **neetcode-practice** — Add: validate-parentheses - submission-6 (2026-06-29)
-* [`d965f30`](https://github.com/dadavidtseng/neetcode-practice/commit/d965f307b6f831848c08fb2b6c7be03ecaa31ec5) **neetcode-practice** — Add: validate-parentheses - submission-5 (2026-06-29)
-* [`181ed67`](https://github.com/dadavidtseng/leetcode-practice/commit/181ed679c7636e0a313ae9dc683de374f9c23f62) **leetcode-practice** — Update README - Topic Tags (2026-06-29)
-* [`b864fa7`](https://github.com/dadavidtseng/leetcode-practice/commit/b864fa7c331c2f472d408118d7ec429d3257be65) **leetcode-practice** — Time: 338 ms (1.09%), Space: 8.7 MB (98.39%) - LeetHub (2026-06-29)
 <!-- recent_commits ends -->
 
 More on [my GitHub](https://github.com/dadavidtseng)
