@@ -20,8 +20,6 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 * [`a5bb14b`](https://github.com/dadavidtseng/neetcode-practice/commit/a5bb14b07db2cdf680103d041638054ce56bbd9e) **neetcode-practice** — Add: reverse-nodes-in-k-group - submission-0 (2026-06-29)
 <!-- recent_commits ends -->
 
-More on [my GitHub](https://github.com/dadavidtseng)
-
 </td><td valign="top" width="50%">
 
 ### On My Blog
