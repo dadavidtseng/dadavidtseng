@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
-* [`8259d8a`](https://github.com/oriensworld/ow-marketplace/commit/8259d8a4fdc9c37d38e01bf41b83520dc725eceb) **oriensworld/ow-marketplace** — chore: bump ow-plugin version to 0.3.1 (2026-07-02)
-* [`85f0b0c`](https://github.com/oriensworld/ow-plugin/commit/85f0b0c169ff10ef56f7bf1341a9b539baeacd1c) **oriensworld/ow-plugin** — chore: bump version to 0.3.1 (2026-07-02)
-* [`53b4087`](https://github.com/oriensworld/ow-plugin/commit/53b4087b556ed3aa79f68c2e2fdee2ac5d46eff8) **oriensworld/ow-plugin** — feat: add PostToolUse hook for Write/Edit events (2026-07-02)
-* [`d6d05ee`](https://github.com/oriensworld/ow-marketplace/commit/d6d05eeadb077991b5f67ac23a6ce8dfc21d3c9e) **oriensworld/ow-marketplace** — chore: bump ow-plugin version to 0.3.0 (2026-07-02)
-* [`72a5106`](https://github.com/oriensworld/ow-plugin/commit/72a5106a83607cd01765e062941032c848408bed) **oriensworld/ow-plugin** — feat: add commands, agents, hooks and bump to v0.3.0 (2026-07-02)
-* [`9c72c8e`](https://github.com/oriensworld/ow-marketplace/commit/9c72c8ec160a364dc12ea31d5241d6e57ca54031) **oriensworld/ow-marketplace** — chore: bump version for ow-plugin to 0.2.0 (2026-07-02)
-* [`7da3883`](https://github.com/oriensworld/ow-plugin/commit/7da38830ab97ec3e1e9e30d78bd02390ff1de4d3) **oriensworld/ow-plugin** — chore: bump version to 0.2.0 (2026-07-02)
-* [`9bcee32`](https://github.com/oriensworld/ow-plugin/commit/9bcee3254df282b0548e9118497c01094a830056) **oriensworld/ow-plugin** — update: .mcp.json for claude desktop (2026-07-02)
+* [`9a0b04a`](https://github.com/oriensworld/ow-home/commit/9a0b04aeb9b952c9dea2f65d2509fd540cf2bff7) **oriensworld/ow-home** — feat(led): add Sense HAT LED display module (2026-07-02)
+* [`2bde4ac`](https://github.com/dadavidtseng/leetcode-cpp/commit/2bde4acfca28bcf67bdb6e92584267defb090643) **leetcode-cpp** — refactor: flatten solution directory structure (2026-07-02)
+* [`955e1b0`](https://github.com/oriensworld/ow-home/commit/955e1b033202c9dfbbf22a68ea00f543cdf1d14f) **oriensworld/ow-home** — feat(force): add force sensor module for RP-S40-ST + ADS1115 (2026-07-02)
+* [`71f071e`](https://github.com/dadavidtseng/neetcode-practice/commit/71f071e782fe2caa1fe9e1845ee33970218df03d) **neetcode-practice** — Add: count-number-of-islands - submission-1 (2026-07-02)
+* [`95220e6`](https://github.com/oriensworld/ow-home/commit/95220e6b95d6659ffdc20efa977669af36bfb170) **oriensworld/ow-home** — feat(sound): add KY-038 sound sensor module (2026-07-02)
+* [`0aa3f81`](https://github.com/dadavidtseng/leetcode-cpp/commit/0aa3f816d6b029e1e8d00713d2d9456a750f11f1) **leetcode-cpp** — style: reformat codebase with clang-format (4-space indent) (2026-07-02)
+* [`0ec2f80`](https://github.com/dadavidtseng/leetcode-cpp/commit/0ec2f807acef90d20fda7abc9a62de35f4645da8) **leetcode-cpp** — style: reformat cpp-0001-two-sum (2026-07-02)
+* [`bca1b48`](https://github.com/oriensworld/ow-marketplace/commit/bca1b48ac3cb158edbf3505b01f3731c2798f649) **oriensworld/ow-marketplace** — chore: bump ow-plugin version to 0.4.0 (2026-07-02)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
