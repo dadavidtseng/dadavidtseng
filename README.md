@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
-* [`4db62f2`](https://github.com/oriensworld/ow-marketplace/commit/4db62f26de269bf7230779cfe02b1176e74b48f7) **oriensworld/ow-marketplace** — fix: marketplace.json format (2026-07-02)
-* [`96657f8`](https://github.com/oriensworld/ow-home/commit/96657f8a1264266211e401e96c4d726a1b3ba0ad) **oriensworld/ow-home** — feat(tts): add generic tts_say event with FIFO speech queue (2026-07-02)
-* [`889efc7`](https://github.com/dadavidtseng/leetcode-practice/commit/889efc7b3b6c4f67b1429feecf99a5a83c28b01d) **leetcode-practice** — Update README - Topic Tags (2026-07-02)
-* [`8f68761`](https://github.com/dadavidtseng/leetcode-practice/commit/8f687619fffec96b2f769669f3bf8a7dde352c7f) **leetcode-practice** — Time: 8 ms (6.95%), Space: 19.4 MB (47.44%) - LeetHub (2026-07-02)
-* [`5c50e30`](https://github.com/dadavidtseng/leetcode-practice/commit/5c50e30a84eeca5ba437da55bfa33430598e0fae) **leetcode-practice** — Updated stats (2026-07-02)
-* [`e9e5e24`](https://github.com/dadavidtseng/leetcode-practice/commit/e9e5e24915c31c0ad242955d3cf5c18cac18423c) **leetcode-practice** — Update README - Topic Tags (2026-07-02)
-* [`b8f5914`](https://github.com/dadavidtseng/leetcode-practice/commit/b8f5914f43751342b03f0e2344d81ac3fb20bb80) **leetcode-practice** — Time: 8 ms (6.95%), Space: 19.4 MB (47.44%) - LeetHub (2026-07-02)
-* [`8fd014e`](https://github.com/dadavidtseng/leetcode-practice/commit/8fd014ea1bf042c744158075257123d8d481b032) **leetcode-practice** — Create README - LeetHub (2026-07-02)
+* [`8259d8a`](https://github.com/oriensworld/ow-marketplace/commit/8259d8a4fdc9c37d38e01bf41b83520dc725eceb) **oriensworld/ow-marketplace** — chore: bump ow-plugin version to 0.3.1 (2026-07-02)
+* [`85f0b0c`](https://github.com/oriensworld/ow-plugin/commit/85f0b0c169ff10ef56f7bf1341a9b539baeacd1c) **oriensworld/ow-plugin** — chore: bump version to 0.3.1 (2026-07-02)
+* [`53b4087`](https://github.com/oriensworld/ow-plugin/commit/53b4087b556ed3aa79f68c2e2fdee2ac5d46eff8) **oriensworld/ow-plugin** — feat: add PostToolUse hook for Write/Edit events (2026-07-02)
+* [`d6d05ee`](https://github.com/oriensworld/ow-marketplace/commit/d6d05eeadb077991b5f67ac23a6ce8dfc21d3c9e) **oriensworld/ow-marketplace** — chore: bump ow-plugin version to 0.3.0 (2026-07-02)
+* [`72a5106`](https://github.com/oriensworld/ow-plugin/commit/72a5106a83607cd01765e062941032c848408bed) **oriensworld/ow-plugin** — feat: add commands, agents, hooks and bump to v0.3.0 (2026-07-02)
+* [`9c72c8e`](https://github.com/oriensworld/ow-marketplace/commit/9c72c8ec160a364dc12ea31d5241d6e57ca54031) **oriensworld/ow-marketplace** — chore: bump version for ow-plugin to 0.2.0 (2026-07-02)
+* [`7da3883`](https://github.com/oriensworld/ow-plugin/commit/7da38830ab97ec3e1e9e30d78bd02390ff1de4d3) **oriensworld/ow-plugin** — chore: bump version to 0.2.0 (2026-07-02)
+* [`9bcee32`](https://github.com/oriensworld/ow-plugin/commit/9bcee3254df282b0548e9118497c01094a830056) **oriensworld/ow-plugin** — update: .mcp.json for claude desktop (2026-07-02)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
