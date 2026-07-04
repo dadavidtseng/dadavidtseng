@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`c71c62a`](https://github.com/oriensworld/ow-home/commit/c71c62ac703bb83d97cf11e1a1b4ffd7bf515fc7) **oriensworld/ow-home** — fix(audio): serialize all audio playback through shared lock (2026-07-04)
+* [`6da4c1f`](https://github.com/oriensworld/ow-home/commit/6da4c1fe08373a0951a1770dedbb60799809ff2c) **oriensworld/ow-home** — fix(sfx): handle ConfigSection in _load_effects (2026-07-04)
 * [`9c8343c`](https://github.com/dadavidtseng/neetcode-practice/commit/9c8343c781952b0caed285b3cee2975d6bc25f9c) **neetcode-practice** — Add: islands-and-treasure - submission-0 (2026-07-03)
 * [`9742b24`](https://github.com/dadavidtseng/leetcode-practice/commit/9742b2482733c03d0e680420ea28527d6fc9d832) **leetcode-practice** — Time: 37 ms (13.21%), Space: 23.1 MB (32.25%) - LeetHub (2026-07-03)
 * [`e4a4268`](https://github.com/dadavidtseng/neetcode-practice/commit/e4a42681c98fdd4b4ca09009983d73c0d8303aa4) **neetcode-practice** — Add: count-number-of-islands - submission-5 (2026-07-03)
 * [`97010d7`](https://github.com/dadavidtseng/leetcode-practice/commit/97010d76239cc76f0fc4059274629f5ef8ff00b4) **leetcode-practice** — Update README - Topic Tags (2026-07-03)
 * [`0079d1c`](https://github.com/dadavidtseng/leetcode-practice/commit/0079d1ce39087d6fc9e8da557414215af8a484b6) **leetcode-practice** — Time: 298 ms (6.1%), Space: 25.8 MB (28.3%) - LeetHub (2026-07-03)
 * [`82b7553`](https://github.com/dadavidtseng/neetcode-practice/commit/82b7553fb099a9e2c8a9109f2b5f6c218d3c52e7) **neetcode-practice** — Add: count-number-of-islands - submission-4 (2026-07-03)
-* [`c6c3ca0`](https://github.com/dadavidtseng/leetcode-practice/commit/c6c3ca036ff9021f48f8ed6f8e418f4d4043a2d0) **leetcode-practice** — Update README - Topic Tags (2026-07-03)
-* [`5ecc8db`](https://github.com/dadavidtseng/leetcode-practice/commit/5ecc8db6f7a68814b255551f7350438a0fd3710f) **leetcode-practice** — Time: 237 ms (76.77%), Space: 21.4 MB (91.47%) - LeetHub (2026-07-03)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
