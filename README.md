@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
-* [`e0a0a04`](https://github.com/dadavidtseng/leetcode-practice/commit/e0a0a04f8ae4c3f542d041802ff360e7505b1687) **leetcode-practice** — Updated stats (2026-07-07)
-* [`bfddb6f`](https://github.com/dadavidtseng/leetcode-practice/commit/bfddb6f788f089bbc628512c288684bdbf71ade7) **leetcode-practice** — Update README - Topic Tags (2026-07-07)
-* [`3167bfe`](https://github.com/dadavidtseng/leetcode-practice/commit/3167bfe7d9ab033d1edb5df8be7ed7edd20a4bad) **leetcode-practice** — Time: 0 ms (100%), Space: 19.2 MB (55.73%) - LeetHub (2026-07-07)
-* [`98750b0`](https://github.com/dadavidtseng/leetcode-practice/commit/98750b0cad75e0d6e61c3b939a7f9e981b9c7fe8) **leetcode-practice** — Create README - LeetHub (2026-07-07)
-* [`78039b8`](https://github.com/dadavidtseng/neetcode-practice/commit/78039b89a3f1dfa2a52ab5b94cf5d90ecd803e83) **neetcode-practice** — Add: plus-one - submission-0 (2026-07-07)
-* [`f56f405`](https://github.com/dadavidtseng/neetcode-practice/commit/f56f40579ba47fcf3e1851e05303105ef1e36d4c) **neetcode-practice** — Add: non-cyclical-number - submission-0 (2026-07-07)
-* [`90e19ba`](https://github.com/dadavidtseng/leetcode-practice/commit/90e19bafa3cfd89bbdb7ecde7feca4b0675cf7f8) **leetcode-practice** — Updated stats (2026-07-07)
-* [`10812a2`](https://github.com/dadavidtseng/leetcode-practice/commit/10812a276bb0f480722196863b7524980905e1f9) **leetcode-practice** — Update README - Topic Tags (2026-07-07)
+* [`850cbc9`](https://github.com/dadavidtseng/leetcode-python/commit/850cbc9dd43148db904209387a9651bacedfb189) **leetcode-python** — feat: add interval and math solutions (2026-07-07)
+* [`c35e32d`](https://github.com/dadavidtseng/leetcode-cpp/commit/c35e32d03f32d8d3512a5959cd9c11a071f1086e) **leetcode-cpp** — refactor: reorganize greedy, intervals, and heap solution... (2026-07-07)
+* [`8443421`](https://github.com/dadavidtseng/neetcode-practice/commit/84434215880708477be01cf7af2d217ed2aeb573) **neetcode-practice** — Add: jump-game - submission-5 (2026-07-07)
+* [`fdb9095`](https://github.com/dadavidtseng/leetcode-practice/commit/fdb909508f58463f350bb32e9a7ed5fef75c4dad) **leetcode-practice** — Update README - Topic Tags (2026-07-07)
+* [`3080ef2`](https://github.com/dadavidtseng/leetcode-practice/commit/3080ef218fc2632e1a6e7678983b2ef9aa4088f5) **leetcode-practice** — Time: 383 ms (12.15%), Space: 55.7 MB (7.94%) - LeetHub (2026-07-07)
+* [`a6fcedd`](https://github.com/dadavidtseng/leetcode-practice/commit/a6fcedd7c95525dd22c4a6ee589963eb32a90689) **leetcode-practice** — Update README - Topic Tags (2026-07-07)
+* [`7c0df7b`](https://github.com/dadavidtseng/leetcode-practice/commit/7c0df7bcf7867399e784deb4b3256bfae27dfc57) **leetcode-practice** — Time: 259 ms (13.83%), Space: 53.3 MB (13.6%) - LeetHub (2026-07-07)
+* [`4a7ea7e`](https://github.com/dadavidtseng/neetcode-practice/commit/4a7ea7e0071eec4f89fe6c4b0ba2c05f0f7b9636) **neetcode-practice** — Add: jump-game - submission-2 (2026-07-07)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
