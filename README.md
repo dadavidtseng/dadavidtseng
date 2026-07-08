@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
-* [`3c08a05`](https://github.com/dadavidtseng/leetcode-practice/commit/3c08a0535be6079880ba0b96dbb0d649a0582162) **leetcode-practice** — Update README - Topic Tags (2026-07-08)
-* [`0cf4ffa`](https://github.com/dadavidtseng/leetcode-practice/commit/0cf4ffa95affd5c73ede20af7deefc499089afbd) **leetcode-practice** — Time: 2 ms (82%), Space: 19.6 MB (78.77%) - LeetHub (2026-07-08)
-* [`948e251`](https://github.com/dadavidtseng/neetcode-practice/commit/948e251edbe945f47709d22e94c96323420f15aa) **neetcode-practice** — Add: reconstruct-flight-path - submission-1 (2026-07-08)
-* [`5df7707`](https://github.com/dadavidtseng/leetcode-practice/commit/5df7707a4b3ebd9a55e6399584bcec82d074bfa0) **leetcode-practice** — Updated stats (2026-07-08)
-* [`b46f570`](https://github.com/dadavidtseng/leetcode-practice/commit/b46f570db8408bfedc5e49103f0ca32ed7e6a16c) **leetcode-practice** — Update README - Topic Tags (2026-07-08)
-* [`f235fc6`](https://github.com/dadavidtseng/leetcode-practice/commit/f235fc6fbacb0978fc9d76642360ea97deb4e6cc) **leetcode-practice** — Create README - LeetHub (2026-07-08)
-* [`14c18e5`](https://github.com/dadavidtseng/leetcode-practice/commit/14c18e59180ccd5f08d64ae42c46be031ab2a7ce) **leetcode-practice** — Time: 2 ms (82%), Space: 20.2 MB (9.68%) - LeetHub (2026-07-08)
-* [`3ecc16e`](https://github.com/dadavidtseng/neetcode-practice/commit/3ecc16e80a401a62bd5f2feb970bdece8f95ee3a) **neetcode-practice** — Add: reconstruct-flight-path - submission-0 (2026-07-08)
+* [`8fe77f7`](https://github.com/dadavidtseng/leetcode-practice/commit/8fe77f717bc85003544b5e6e7830b48871483bf9) **leetcode-practice** — Updated stats (2026-07-08)
+* [`e649cc1`](https://github.com/dadavidtseng/leetcode-practice/commit/e649cc1e0638269d3c583cba2f044c949d508a91) **leetcode-practice** — Update README - Topic Tags (2026-07-08)
+* [`2db464b`](https://github.com/dadavidtseng/leetcode-practice/commit/2db464b00e30457ecaa8cebca40ead04aab65e39) **leetcode-practice** — Time: 0 ms (100%), Space: 19.5 MB (53.96%) - LeetHub (2026-07-08)
+* [`8e9756b`](https://github.com/dadavidtseng/leetcode-practice/commit/8e9756bfc94dadccc07d1484f49dae0edd578228) **leetcode-practice** — Create README - LeetHub (2026-07-08)
+* [`46c53ff`](https://github.com/dadavidtseng/neetcode-practice/commit/46c53ff0f1a1f1faeedbfbdd170325ec70e01ef9) **neetcode-practice** — Add: pow-x-n - submission-0 (2026-07-08)
+* [`6cf1ec2`](https://github.com/dadavidtseng/leetcode-practice/commit/6cf1ec22a97ce1f50912a0d7407eeee308c20517) **leetcode-practice** — Updated stats (2026-07-08)
+* [`e17d8a7`](https://github.com/dadavidtseng/leetcode-practice/commit/e17d8a7a916fad766ab4ca6b213fd2fde9543c4e) **leetcode-practice** — Update README - Topic Tags (2026-07-08)
+* [`00faf23`](https://github.com/dadavidtseng/leetcode-practice/commit/00faf238362f299a1c1430a25810aad898bbf814) **leetcode-practice** — Time: 2 ms (65.49%), Space: 21.2 MB (29.36%) - LeetHub (2026-07-08)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
