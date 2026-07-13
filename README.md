@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`72aa239`](https://github.com/dadavidtseng/leetcode-python/commit/72aa2398e3919601c8db64ea506528f40724fa71) **leetcode-python** — style: rename BruteForce to Brute_Force and apply ruff fo... (2026-07-13)
+* [`a8f2a8f`](https://github.com/dadavidtseng/leetcode-cpp/commit/a8f2a8f0b1e3b1ef03f506011829fd2ac04b5f36) **leetcode-cpp** — style: rename BruteForce to Brute_Force and normalize poi... (2026-07-13)
+* [`c40076e`](https://github.com/dadavidtseng/neetcode-practice/commit/c40076ec8622ed2e7aefe81177cdd68638a6fa3b) **neetcode-practice** — Add: arranging-coins - submission-5 (2026-07-13)
 * [`1b4f0e0`](https://github.com/dadavidtseng/neetcode-practice/commit/1b4f0e05765c2b87bb2c9a4f3026924079c74c6e) **neetcode-practice** — Add: arranging-coins - submission-4 (2026-07-13)
 * [`4a99ff2`](https://github.com/dadavidtseng/su26-ai301-contribution-log/commit/4a99ff2a50935b6703911afe19d8669721dc6ab3) **su26-ai301-contribution-log** — docs: complete Phase II — reproduction and solution plan ... (2026-07-12)
 * [`34f0f13`](https://github.com/dadavidtseng/neetcode-practice/commit/34f0f132153d793f732870e01af604be7dda4802) **neetcode-practice** — Add: word-pattern - submission-5 (2026-07-12)
 * [`80623bd`](https://github.com/dadavidtseng/neetcode-practice/commit/80623bd1e843fc256ba3c0d40c6d8e06ca96e84f) **neetcode-practice** — Add: word-pattern - submission-3 (2026-07-12)
 * [`f588ff3`](https://github.com/dadavidtseng/neetcode-practice/commit/f588ff3d3bfd1140cef77439c5ecec974b889f3c) **neetcode-practice** — Add: word-pattern - submission-2 (2026-07-12)
-* [`659a0fd`](https://github.com/dadavidtseng/neetcode-practice/commit/659a0fd1f072c4779587752eb84aa14630db2215) **neetcode-practice** — Add: word-pattern - submission-1 (2026-07-12)
-* [`bce38b8`](https://github.com/dadavidtseng/neetcode-practice/commit/bce38b8db56f28b584c3fb3737fd72ebb561073c) **neetcode-practice** — Add: three-integer-sum - submission-5 (2026-07-12)
-* [`70bcfd5`](https://github.com/dadavidtseng/leetcode-practice/commit/70bcfd5306a9e4f5b5b3a96aa1414aa2d92a91e8) **leetcode-practice** — Update README - Topic Tags (2026-07-11)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
