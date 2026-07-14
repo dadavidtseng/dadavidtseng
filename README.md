@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
-* [`d59438e`](https://github.com/plugnjam/plug-build/commit/d59438e5e540cbbeb298c14e78db476102428410) **plugnjam/plug-build** — feat(compiler): implement MSVC backend (2026-07-14)
-* [`9a1c8b2`](https://github.com/plugnjam/plug-build/commit/9a1c8b2e52ee90d921ad6c4b2b4dca444f922d33) **plugnjam/plug-build** — feat(compiler): implement Clang backend for all platforms (2026-07-14)
-* [`5da5fe7`](https://github.com/plugnjam/plug-core/commit/5da5fe79700cd8601b8d389096faff70f3181c4d) **plugnjam/plug-core** — refactor(plugin_loader): rename requires to dependencies\... (2026-07-14)
-* [`fe99505`](https://github.com/plugnjam/plug-core/commit/fe995050f47d5de911f9826af25a5803579e00df) **plugnjam/plug-core** — docs(plugin_loader): add doxygen comments and section hea... (2026-07-14)
-* [`8987835`](https://github.com/plugnjam/plug-core/commit/898783551c6bf4130fdb6a305556c76d0e8a522e) **plugnjam/plug-core** — docs(plugin_loader): add doxygen comments and section hea... (2026-07-14)
-* [`42f1293`](https://github.com/plugnjam/plug-core/commit/42f12933e742a52025310d21417e338147bcab99) **plugnjam/plug-core** — style: align doc comment params and add braces to single-... (2026-07-13)
-* [`3787916`](https://github.com/plugnjam/plug-core/commit/378791624a9402432b5fcc82e54b6c073ffb6a0e) **plugnjam/plug-core** — refactor(jobs): remove redundant doxygen from public crea... (2026-07-13)
-* [`f1bcae5`](https://github.com/plugnjam/plug-core/commit/f1bcae5a71900c78f5b0b36d0ea5b0dad6a38bf4) **plugnjam/plug-core** — docs(toml): simplify header comments for parse_manifest (2026-07-13)
+* [`7cfa985`](https://github.com/dadavidtseng/neetcode-practice/commit/7cfa98526af5e216f2e807afcf44ad7c8d98ce8f) **neetcode-practice** — Add: number-of-one-bits - submission-2 (2026-07-14)
+* [`d33a432`](https://github.com/plugnjam/plug-core/commit/d33a4321a87a4bf2bd861c062bd50bb02e3ee563) **plugnjam/plug-core** — fix(test): update hot-reload test to use plug build inste... (2026-07-14)
+* [`1a823ff`](https://github.com/plugnjam/plug-core/commit/1a823ffab24c0e12876d638941decb968f81c3c5) **plugnjam/plug-core** — ci: add GH_TOKEN for gh release download (required by gh ... (2026-07-14)
+* [`7d03f96`](https://github.com/plugnjam/plug-core/commit/7d03f96f3ecc1a2a0cc804b09c00114ca4dafbaa) **plugnjam/plug-core** — ci: remove PLUG_BUILD_TOKEN (plug-build is public) (2026-07-14)
+* [`33cff5d`](https://github.com/plugnjam/plug-core/commit/33cff5d89d43489799b7533d88794d8000380789) **plugnjam/plug-core** — ci: download plug-build release binary instead of compiling (2026-07-14)
+* [`69bbd1f`](https://github.com/plugnjam/plug-build/commit/69bbd1f00c33668b911dfe491e6b5ba400f45192) **plugnjam/plug-build** — ci: add release workflow for prebuilt binaries (2026-07-14)
+* [`5219eb4`](https://github.com/plugnjam/plug-build/commit/5219eb4a4a3cb4e6ce88aa60982b708e33bacba2) **plugnjam/plug-build** — fix(test): isolate clean_removes_artifacts from parallel ... (2026-07-14)
+* [`4e931b3`](https://github.com/plugnjam/plug-build/commit/4e931b396a1037db1065aef3de07e7a36b651775) **plugnjam/plug-build** — fix: macOS .bundle extension and test isolation (2026-07-14)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
