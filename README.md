@@ -10,6 +10,7 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`5da5fe7`](https://github.com/plugnjam/plug-core/commit/5da5fe79700cd8601b8d389096faff70f3181c4d) **plugnjam/plug-core** — refactor(plugin_loader): rename requires to dependencies\... (2026-07-14)
 * [`fe99505`](https://github.com/plugnjam/plug-core/commit/fe995050f47d5de911f9826af25a5803579e00df) **plugnjam/plug-core** — docs(plugin_loader): add doxygen comments and section hea... (2026-07-14)
 * [`8987835`](https://github.com/plugnjam/plug-core/commit/898783551c6bf4130fdb6a305556c76d0e8a522e) **plugnjam/plug-core** — docs(plugin_loader): add doxygen comments and section hea... (2026-07-14)
 * [`42f1293`](https://github.com/plugnjam/plug-core/commit/42f12933e742a52025310d21417e338147bcab99) **plugnjam/plug-core** — style: align doc comment params and add braces to single-... (2026-07-13)
@@ -17,7 +18,6 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 * [`f1bcae5`](https://github.com/plugnjam/plug-core/commit/f1bcae5a71900c78f5b0b36d0ea5b0dad6a38bf4) **plugnjam/plug-core** — docs(toml): simplify header comments for parse_manifest (2026-07-13)
 * [`72aa239`](https://github.com/dadavidtseng/leetcode-python/commit/72aa2398e3919601c8db64ea506528f40724fa71) **leetcode-python** — style: rename BruteForce to Brute_Force and apply ruff fo... (2026-07-13)
 * [`a8f2a8f`](https://github.com/dadavidtseng/leetcode-cpp/commit/a8f2a8f0b1e3b1ef03f506011829fd2ac04b5f36) **leetcode-cpp** — style: rename BruteForce to Brute_Force and normalize poi... (2026-07-13)
-* [`c40076e`](https://github.com/dadavidtseng/neetcode-practice/commit/c40076ec8622ed2e7aefe81177cdd68638a6fa3b) **neetcode-practice** — Add: arranging-coins - submission-5 (2026-07-13)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
