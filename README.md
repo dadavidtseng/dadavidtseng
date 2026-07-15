@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
-* [`a060daa`](https://github.com/plugnjam/plug-research/commit/a060daad82b79dd1ad80c78e983c9662e364ae36) **plugnjam/plug-research** — docs(wiki): update index, log, and hot-cache for spec-03 (2026-07-15)
-* [`4655fdf`](https://github.com/dadavidtseng/neetcode-practice/commit/4655fdfbb582199af9059f27790c1ab48527016f) **neetcode-practice** — Add: intersection-of-two-linked-lists - submission-6 (2026-07-14)
-* [`e17372a`](https://github.com/dadavidtseng/neetcode-practice/commit/e17372a4e67a6acc6a3871bd2ba88232a83d19f2) **neetcode-practice** — Add: intersection-of-two-linked-lists - submission-5 (2026-07-14)
-* [`811536e`](https://github.com/dadavidtseng/neetcode-practice/commit/811536ea2f98ad6edd47c9c056f93c8ff5e12071) **neetcode-practice** — Add: intersection-of-two-linked-lists - submission-4 (2026-07-14)
-* [`addb855`](https://github.com/dadavidtseng/neetcode-practice/commit/addb855c84121e936d749a9b0b48cdc7fd4276a5) **neetcode-practice** — Add: intersection-of-two-linked-lists - submission-3 (2026-07-14)
-* [`3f560f5`](https://github.com/dadavidtseng/neetcode-practice/commit/3f560f5dfc90b3db9357e91458bc580ad3700e71) **neetcode-practice** — Add: intersection-of-two-linked-lists - submission-2 (2026-07-14)
-* [`7cfa985`](https://github.com/dadavidtseng/neetcode-practice/commit/7cfa98526af5e216f2e807afcf44ad7c8d98ce8f) **neetcode-practice** — Add: number-of-one-bits - submission-2 (2026-07-14)
-* [`d33a432`](https://github.com/plugnjam/plug-core/commit/d33a4321a87a4bf2bd861c062bd50bb02e3ee563) **plugnjam/plug-core** — fix(test): update hot-reload test to use plug build inste... (2026-07-14)
+* [`b5033af`](https://github.com/dadavidtseng/neetcode-practice/commit/b5033afb36831c6ab6b9e02256714673c692d77c) **neetcode-practice** — Add: number-of-one-bits - submission-11 (2026-07-15)
+* [`e80ce42`](https://github.com/dadavidtseng/neetcode-practice/commit/e80ce42b7039389b4efa8b6321ed3df7d60f8dd9) **neetcode-practice** — Add: number-of-one-bits - submission-10 (2026-07-15)
+* [`cb2f4ef`](https://github.com/dadavidtseng/neetcode-practice/commit/cb2f4ef0243aec081fc51170333576ebf116f5af) **neetcode-practice** — Add: number-of-one-bits - submission-9 (2026-07-15)
+* [`fbd5c20`](https://github.com/dadavidtseng/neetcode-practice/commit/fbd5c20140edcfe9797fad3ef81dffe20dad8fd3) **neetcode-practice** — Add: number-of-one-bits - submission-8 (2026-07-15)
+* [`3f89d6f`](https://github.com/dadavidtseng/neetcode-practice/commit/3f89d6fe14857c1958c62c86f29ee85631b16525) **neetcode-practice** — Add: number-of-one-bits - submission-7 (2026-07-15)
+* [`25657fa`](https://github.com/dadavidtseng/neetcode-practice/commit/25657fa0a6f136feb61f7da7c961b6ac412e2c62) **neetcode-practice** — Add: number-of-one-bits - submission-6 (2026-07-15)
+* [`d31485a`](https://github.com/dadavidtseng/neetcode-practice/commit/d31485af3d3ead9d7d4395518b2e86a74900f156) **neetcode-practice** — Add: number-of-one-bits - submission-5 (2026-07-15)
+* [`ab7b4f9`](https://github.com/dadavidtseng/neetcode-practice/commit/ab7b4f973e3254732460ba684d897589b4ed0d18) **neetcode-practice** — Add: number-of-one-bits - submission-4 (2026-07-15)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
