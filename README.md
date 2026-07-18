@@ -10,6 +10,7 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`cd36981`](https://github.com/dadavidtseng/neetcode-practice/commit/cd36981823e24cbacc275dd4972d5f89656fd0b8) **neetcode-practice** — Add: subtree-of-a-binary-tree - submission-1 (2026-07-18)
 * [`bd1038b`](https://github.com/dadavidtseng/biome/commit/bd1038be1ad110aae60bcdbe9a154c6a2fc85c14) **biome** — fix(inference): improve overload selection (#10970) (2026-07-18)
 * [`01bba12`](https://github.com/dadavidtseng/biome/commit/01bba129afefced1c04aa69592b1b7f337a7b609) **biome** — feat(inference): inference engine via salsa (#10888) (2026-07-18)
 * [`d9029ac`](https://github.com/dadavidtseng/su26-ai301-contribution-log/commit/d9029acbd93a052f3b20a9b263fcb89f328a282f) **su26-ai301-contribution-log** — docs: update biome contribution to Phase IV Complete (2026-07-18)
@@ -17,7 +18,6 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 * [`9c16c6a`](https://github.com/dadavidtseng/neetcode-practice/commit/9c16c6acf1eb1ccca9c3b464388af01c5921decc) **neetcode-practice** — Add: longest-common-prefix - submission-1 (2026-07-18)
 * [`2737eac`](https://github.com/dadavidtseng/neetcode-practice/commit/2737eac1e4b76839d9f3a6bed2a2d670636b92e5) **neetcode-practice** — Add: range-sum-of-bst - submission-3 (2026-07-18)
 * [`61897d1`](https://github.com/dadavidtseng/neetcode-practice/commit/61897d1d0f4f8c7aec75a768a0e572b205f39a23) **neetcode-practice** — Add: range-sum-of-bst - submission-1 (2026-07-18)
-* [`e24189c`](https://github.com/dadavidtseng/neetcode-practice/commit/e24189ce19ff83bcf7683a6b2a68f67d6bdd204c) **neetcode-practice** — Add: range-sum-of-bst - submission-0 (2026-07-18)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
