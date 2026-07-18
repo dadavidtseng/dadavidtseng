@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`64b0e52`](https://github.com/plugnjam/plug-core/commit/64b0e52ad8ddba90662d60d18aaef43e86701c2a) **plugnjam/plug-core** — fix(core): correct test harness ASSERT/RUN and strengthen... (2026-07-18)
+* [`7c31ef5`](https://github.com/plugnjam/plug-core/commit/7c31ef5a06497ec35f842ae10f6a660807c55f6b) **plugnjam/plug-core** — feat(core): implement reloadable=false support for statef... (2026-07-18)
+* [`eed1117`](https://github.com/plugnjam/plug-build/commit/eed111758c9bac9068714237b3ea9f0b5a0693a9) **plugnjam/plug-build** — chore(plug-build): bump version to 0.2.0 (2026-07-18)
+* [`16e3ff7`](https://github.com/plugnjam/plug-build/commit/16e3ff7798417ffe35e5a43e168034fde0387d53) **plugnjam/plug-build** — feat(plug-build): implement [build.platforms.<os>] manife... (2026-07-18)
 * [`e1b2f38`](https://github.com/dadavidtseng/neetcode-practice/commit/e1b2f38247c37bd980a098a4b7e315113de07dd4) **neetcode-practice** — Add: subtree-of-a-binary-tree - submission-2 (2026-07-18)
 * [`cd36981`](https://github.com/dadavidtseng/neetcode-practice/commit/cd36981823e24cbacc275dd4972d5f89656fd0b8) **neetcode-practice** — Add: subtree-of-a-binary-tree - submission-1 (2026-07-18)
 * [`bd1038b`](https://github.com/dadavidtseng/biome/commit/bd1038be1ad110aae60bcdbe9a154c6a2fc85c14) **biome** — fix(inference): improve overload selection (#10970) (2026-07-18)
 * [`01bba12`](https://github.com/dadavidtseng/biome/commit/01bba129afefced1c04aa69592b1b7f337a7b609) **biome** — feat(inference): inference engine via salsa (#10888) (2026-07-18)
-* [`d9029ac`](https://github.com/dadavidtseng/su26-ai301-contribution-log/commit/d9029acbd93a052f3b20a9b263fcb89f328a282f) **su26-ai301-contribution-log** — docs: update biome contribution to Phase IV Complete (2026-07-18)
-* [`5e3d2e2`](https://github.com/dadavidtseng/biome/commit/5e3d2e24c99e4e3694562437a6d899cf31926c73) **biome** — chore: add changeset for member chain idempotency fix (2026-07-18)
-* [`9c16c6a`](https://github.com/dadavidtseng/neetcode-practice/commit/9c16c6acf1eb1ccca9c3b464388af01c5921decc) **neetcode-practice** — Add: longest-common-prefix - submission-1 (2026-07-18)
-* [`2737eac`](https://github.com/dadavidtseng/neetcode-practice/commit/2737eac1e4b76839d9f3a6bed2a2d670636b92e5) **neetcode-practice** — Add: range-sum-of-bst - submission-3 (2026-07-18)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
