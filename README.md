@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`7e70e27`](https://github.com/dadavidtseng/su26-ai301-contribution-log/commit/7e70e276bed8336dffe86f070e7ed1d617071f75) **su26-ai301-contribution-log** — docs: complete Phase III — implementation and testing for... (2026-07-18)
+* [`faa1094`](https://github.com/dadavidtseng/biome/commit/faa109410458403a1ef76d7e7d812db989a3ef74) **biome** — chore: add changeset for member chain idempotency fix (2026-07-18)
+* [`1c39e11`](https://github.com/dadavidtseng/biome/commit/1c39e11c9b46458d13795592c609a028b81e03e2) **biome** — test(format/js): add idempotency tests for member chains ... (2026-07-18)
+* [`27050a6`](https://github.com/oriensworld/ow-website/commit/27050a66804b5d390fb4fdc0d22934ba0393eab8) **oriensworld/ow-website** — refactor(brand): rename nap of the earth to oriensworld (2026-07-17)
+* [`beecd97`](https://github.com/oriensworld/ow-website/commit/beecd97063f9ea80cd8cbb3790f45baa6ed6e03b) **oriensworld/ow-website** — chore: rename package from nap-of-the-website to ow-website (2026-07-17)
 * [`a12b328`](https://github.com/dadavidtseng/leetcode-python/commit/a12b32801445533e03c3354dff78025c294ed420) **leetcode-python** — refactor: update import paths and add new blind-75 solutions (2026-07-17)
 * [`df5c22c`](https://github.com/dadavidtseng/leetcode-cpp/commit/df5c22c17c9dd5851ec4d69ed317c933a9f4145f) **leetcode-cpp** — refactor: reorganize solutions into topic directories and... (2026-07-17)
 * [`7241085`](https://github.com/dadavidtseng/neetcode-practice/commit/72410858922980bb33b83471588aa39b26433b96) **neetcode-practice** — Add: same-binary-tree - submission-3 (2026-07-17)
-* [`b749271`](https://github.com/dadavidtseng/neetcode-practice/commit/b74927100ba108c6a878207d7a72564e4cfb0023) **neetcode-practice** — Add: same-binary-tree - submission-2 (2026-07-17)
-* [`9a681ae`](https://github.com/dadavidtseng/neetcode-practice/commit/9a681aeaf2f6458d7b678615fd2740815e40e276) **neetcode-practice** — Add: longest-palindromic-substring - submission-0 (2026-07-17)
-* [`2fefdca`](https://github.com/dadavidtseng/neetcode-practice/commit/2fefdca1d498c346e968fc3cc87f2c4d2dd824b6) **neetcode-practice** — Add: is-palindrome - submission-9 (2026-07-17)
-* [`94ba304`](https://github.com/dadavidtseng/neetcode-practice/commit/94ba304075a553dd2ec5ae142a280a2c05708c1d) **neetcode-practice** — Add: is-palindrome - submission-8 (2026-07-17)
-* [`56a0bb4`](https://github.com/dadavidtseng/neetcode-practice/commit/56a0bb44ae0eff52311f53b7880bd19474ee5c0c) **neetcode-practice** — Add: is-palindrome - submission-7 (2026-07-17)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
