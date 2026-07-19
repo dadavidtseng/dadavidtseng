@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`be1d20d`](https://github.com/plugnjam/plug-rhi-vulkan/commit/be1d20d63e54683730ad8000a8133b4663a80683) **plugnjam/plug-rhi-vulkan** — test(vulkan): cover command recording flow (2026-07-19)
+* [`783111f`](https://github.com/plugnjam/plug-rhi-vulkan/commit/783111fb8c8eb6b88498e7f993a181d6f4a6db2d) **plugnjam/plug-rhi-vulkan** — test(vulkan): cover GPU resource lifecycle (2026-07-19)
+* [`6f41bfb`](https://github.com/plugnjam/plug-rhi-vulkan/commit/6f41bfb72bd4f68001f93e30c0b2fa7a98f3dc5c) **plugnjam/plug-rhi-vulkan** — test(vulkan): cover frame synchronization flow (2026-07-19)
+* [`630e159`](https://github.com/plugnjam/plug-rhi-vulkan/commit/630e159d315bc88afe48708f5869c61410904303) **plugnjam/plug-rhi-vulkan** — test(vulkan): cover swapchain selection policies (2026-07-19)
+* [`1a2414e`](https://github.com/plugnjam/plug-rhi-vulkan/commit/1a2414ebccc9a0241cf1dc7f69b457c4b3d2f714) **plugnjam/plug-rhi-vulkan** — test(vulkan): cover physical device selection (2026-07-19)
 * [`4cd6838`](https://github.com/plugnjam/plug-rhi-vulkan/commit/4cd68381a8004abb2ea609bc6fdc6b47d13971e7) **plugnjam/plug-rhi-vulkan** — fix(ci): preserve vendored file bytes (2026-07-19)
 * [`507800d`](https://github.com/plugnjam/plug-rhi-vulkan/commit/507800dffe66937a8b385ce336c281c6b5c9ff3f) **plugnjam/plug-rhi-vulkan** — fix(ci): preserve checksum manifest line endings (2026-07-19)
 * [`1b7235c`](https://github.com/plugnjam/plug-rhi-vulkan/commit/1b7235c329a25678fa11c1ddab7793733cf4929b) **plugnjam/plug-rhi-vulkan** — feat(allocator): add generation-checked slot allocator (2026-07-19)
-* [`dde7b48`](https://github.com/oriensworld/ow-marketplace/commit/dde7b4853c81a8050713e411802e6240a70146e7) **oriensworld/ow-marketplace** — update: README.md (2026-07-19)
-* [`2e08538`](https://github.com/oriensworld/ow-marketplace/commit/2e08538674549a079717136e40df5fca49c337a7) **oriensworld/ow-marketplace** — chore: bump version to 0.5.1 for ow-plugin (2026-07-19)
-* [`3aab750`](https://github.com/oriensworld/ow-plugin/commit/3aab7504a0f2f1bd5a22f61f1d766544b29ef663) **oriensworld/ow-plugin** — feat(commands): add allowed-tools and examples to echo co... (2026-07-19)
-* [`9268b2d`](https://github.com/oriensworld/ow-marketplace/commit/9268b2df209716169c6b6de3f0137260d90b3361) **oriensworld/ow-marketplace** — chore: bump version to 0.5.0 for ow-plugin (2026-07-19)
-* [`69c10cb`](https://github.com/oriensworld/ow-plugin/commit/69c10cb23b4b5e69513f0551ff509f79ab68c13d) **oriensworld/ow-plugin** — feat: add Codex plugin compatibility (2026-07-19)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
