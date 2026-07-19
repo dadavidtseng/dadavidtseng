@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
-* [`805f5d9`](https://github.com/plugnjam/plug-core/commit/805f5d95abd9580878431f0ee6bc0a54ddd39720) **plugnjam/plug-core** — ci: authenticate private plug-build downloads (2026-07-19)
-* [`8e71efc`](https://github.com/plugnjam/plug-window/commit/8e71efc029708be83cac609ee03a5ae2cdf5d7b7) **plugnjam/plug-window** — fix(plug-window): fix smoke test scripts (2026-07-19)
-* [`81e1ab1`](https://github.com/plugnjam/plug-core/commit/81e1ab1a624e196bb3168ca983ebfcde62dd7b50) **plugnjam/plug-core** — fix(core): kernel-registered APIs satisfy manifest requires (2026-07-19)
-* [`b69d9ba`](https://github.com/plugnjam/plug-window/commit/b69d9bac689619ce7475a51af3e5462e6fd406f3) **plugnjam/plug-window** — feat(plug-window): add visible window smoke test (Task 10.1) (2026-07-19)
-* [`bf0949a`](https://github.com/plugnjam/plug-build/commit/bf0949a253ee673246ff633759e2236afd77bad1) **plugnjam/plug-build** — fix(windows): align CRT linkage and preserve linker diagn... (2026-07-19)
-* [`cf4ed38`](https://github.com/plugnjam/plug-window/commit/cf4ed38c43d99a33f7f50e7f5ee95e95f27265da) **plugnjam/plug-window** — ci: authenticate private repository access (2026-07-19)
-* [`09fb8b7`](https://github.com/plugnjam/plug-window/commit/09fb8b7fbc22af41cd835b40ae87e264c07596e8) **plugnjam/plug-window** — docs(plug-window): document surface ownership in plug_win... (2026-07-19)
-* [`0d24a3e`](https://github.com/plugnjam/plug-window/commit/0d24a3e3519b2ed7604635afba8fcaa164259870) **plugnjam/plug-window** — fix(plug-window): correct native defines, repeat events, ... (2026-07-19)
+* [`4cd6838`](https://github.com/plugnjam/plug-rhi-vulkan/commit/4cd68381a8004abb2ea609bc6fdc6b47d13971e7) **plugnjam/plug-rhi-vulkan** — fix(ci): preserve vendored file bytes (2026-07-19)
+* [`507800d`](https://github.com/plugnjam/plug-rhi-vulkan/commit/507800dffe66937a8b385ce336c281c6b5c9ff3f) **plugnjam/plug-rhi-vulkan** — fix(ci): preserve checksum manifest line endings (2026-07-19)
+* [`1b7235c`](https://github.com/plugnjam/plug-rhi-vulkan/commit/1b7235c329a25678fa11c1ddab7793733cf4929b) **plugnjam/plug-rhi-vulkan** — feat(allocator): add generation-checked slot allocator (2026-07-19)
+* [`dde7b48`](https://github.com/oriensworld/ow-marketplace/commit/dde7b4853c81a8050713e411802e6240a70146e7) **oriensworld/ow-marketplace** — update: README.md (2026-07-19)
+* [`2e08538`](https://github.com/oriensworld/ow-marketplace/commit/2e08538674549a079717136e40df5fca49c337a7) **oriensworld/ow-marketplace** — chore: bump version to 0.5.1 for ow-plugin (2026-07-19)
+* [`3aab750`](https://github.com/oriensworld/ow-plugin/commit/3aab7504a0f2f1bd5a22f61f1d766544b29ef663) **oriensworld/ow-plugin** — feat(commands): add allowed-tools and examples to echo co... (2026-07-19)
+* [`9268b2d`](https://github.com/oriensworld/ow-marketplace/commit/9268b2df209716169c6b6de3f0137260d90b3361) **oriensworld/ow-marketplace** — chore: bump version to 0.5.0 for ow-plugin (2026-07-19)
+* [`69c10cb`](https://github.com/oriensworld/ow-plugin/commit/69c10cb23b4b5e69513f0551ff509f79ab68c13d) **oriensworld/ow-plugin** — feat: add Codex plugin compatibility (2026-07-19)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
