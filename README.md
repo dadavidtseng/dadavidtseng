@@ -10,6 +10,7 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`7957349`](https://github.com/plugnjam/plug-samples/commit/79573494b3fc26f920e0825111b651b7aeae7a63) **plugnjam/plug-samples** — fix(triangle): isolate submission benchmark timing (2026-07-20)
 * [`7117b16`](https://github.com/plugnjam/plug-samples/commit/7117b161e89e1a48ae09af6a62994833be5db244) **plugnjam/plug-samples** — ci: allow Python setup on GPU runner (2026-07-20)
 * [`9ed98dd`](https://github.com/plugnjam/plug-samples/commit/9ed98dd1c4a9ad00d51ce12a5cef746cafae92fe) **plugnjam/plug-samples** — ci: provision Python for workflow jobs (2026-07-20)
 * [`b16e040`](https://github.com/plugnjam/plug-samples/commit/b16e040cbd41b8ec22b61d6d6c6a8cfa2d85808f) **plugnjam/plug-samples** — ci: use PowerShell for Windows checkout placement (2026-07-20)
@@ -17,7 +18,6 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 * [`a8fabcf`](https://github.com/dadavidtseng/neetcode-practice/commit/a8fabcfeff3c20eba7bf5f96958c30e195ac05fc) **neetcode-practice** — Add: longest-strictly-increasing-or-strictly-decreasing-s... (2026-07-20)
 * [`2b1de5c`](https://github.com/dadavidtseng/neetcode-practice/commit/2b1de5c03c2bb20a19a705576eb7056a3c3d4dc8) **neetcode-practice** — Add: longest-strictly-increasing-or-strictly-decreasing-s... (2026-07-20)
 * [`10bda4d`](https://github.com/dadavidtseng/neetcode-practice/commit/10bda4d579cfe5b9fa4832d12cdd35563c3fc90d) **neetcode-practice** — Add: longest-strictly-increasing-or-strictly-decreasing-s... (2026-07-20)
-* [`2617325`](https://github.com/dadavidtseng/neetcode-practice/commit/2617325073863600eacf72b7898ea4f5e282856c) **neetcode-practice** — Add: longest-strictly-increasing-or-strictly-decreasing-s... (2026-07-20)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
