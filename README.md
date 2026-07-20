@@ -10,6 +10,7 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`f19c99c`](https://github.com/plugnjam/plug-samples/commit/f19c99c1a17412eb78e7e7e39aa58f2cd2867e30) **plugnjam/plug-samples** — docs(wsl2): document triangle validation (2026-07-20)
 * [`f2842d0`](https://github.com/plugnjam/plug-samples/commit/f2842d0e7494a4a91f885d9c47b578be357cd7d2) **plugnjam/plug-samples** — ci: verify triangle stack across hosted and GPU runners (2026-07-19)
 * [`0503ce0`](https://github.com/plugnjam/plug-rhi-vulkan/commit/0503ce0c52c259a6401c44a0844c772fc120e38b) **plugnjam/plug-rhi-vulkan** — ci: run aggregate RHI unit tests (2026-07-19)
 * [`6a4031e`](https://github.com/plugnjam/plug-samples/commit/6a4031e50a61412aa664a369da9f51375d4672d3) **plugnjam/plug-samples** — feat(triangle): add runtime bundle assembler (2026-07-19)
@@ -17,7 +18,6 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 * [`4ca126e`](https://github.com/plugnjam/plug-samples/commit/4ca126efd4d72f57851aacd3f36f27e03cb4b9de) **plugnjam/plug-samples** — fix(triangle): canonicalize SPIR-V annotations (2026-07-19)
 * [`4ab7e12`](https://github.com/dadavidtseng/neetcode-practice/commit/4ab7e12b143b3cbe796d44fb93fabfad324cd4b5) **neetcode-practice** — Add: subtree-of-a-binary-tree - submission-3 (2026-07-19)
 * [`c6dade4`](https://github.com/plugnjam/plug-samples/commit/c6dade41b7fd09bcdb398b885ae344ef9beb1d88) **plugnjam/plug-samples** — chore(build): ignore Windows import libraries (2026-07-19)
-* [`37ae887`](https://github.com/plugnjam/plug-rhi-vulkan/commit/37ae887acfcd0280512881008ee8d074d3b640ec) **plugnjam/plug-rhi-vulkan** — chore(build): ignore Windows import libraries (2026-07-19)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
