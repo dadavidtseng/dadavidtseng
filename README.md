@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
-* [`f19c99c`](https://github.com/plugnjam/plug-samples/commit/f19c99c1a17412eb78e7e7e39aa58f2cd2867e30) **plugnjam/plug-samples** — docs(wsl2): document triangle validation (2026-07-20)
-* [`f2842d0`](https://github.com/plugnjam/plug-samples/commit/f2842d0e7494a4a91f885d9c47b578be357cd7d2) **plugnjam/plug-samples** — ci: verify triangle stack across hosted and GPU runners (2026-07-19)
-* [`0503ce0`](https://github.com/plugnjam/plug-rhi-vulkan/commit/0503ce0c52c259a6401c44a0844c772fc120e38b) **plugnjam/plug-rhi-vulkan** — ci: run aggregate RHI unit tests (2026-07-19)
-* [`6a4031e`](https://github.com/plugnjam/plug-samples/commit/6a4031e50a61412aa664a369da9f51375d4672d3) **plugnjam/plug-samples** — feat(triangle): add runtime bundle assembler (2026-07-19)
-* [`22eef03`](https://github.com/dadavidtseng/YuWeiTseng/commit/22eef03d5cad7a74f1b89e9a8967279bb12ebac2) **YuWeiTseng** — docs: document LaTeX-only build workflow (2026-07-19)
-* [`4ca126e`](https://github.com/plugnjam/plug-samples/commit/4ca126efd4d72f57851aacd3f36f27e03cb4b9de) **plugnjam/plug-samples** — fix(triangle): canonicalize SPIR-V annotations (2026-07-19)
-* [`4ab7e12`](https://github.com/dadavidtseng/neetcode-practice/commit/4ab7e12b143b3cbe796d44fb93fabfad324cd4b5) **neetcode-practice** — Add: subtree-of-a-binary-tree - submission-3 (2026-07-19)
-* [`c6dade4`](https://github.com/plugnjam/plug-samples/commit/c6dade41b7fd09bcdb398b885ae344ef9beb1d88) **plugnjam/plug-samples** — chore(build): ignore Windows import libraries (2026-07-19)
+* [`7117b16`](https://github.com/plugnjam/plug-samples/commit/7117b161e89e1a48ae09af6a62994833be5db244) **plugnjam/plug-samples** — ci: allow Python setup on GPU runner (2026-07-20)
+* [`9ed98dd`](https://github.com/plugnjam/plug-samples/commit/9ed98dd1c4a9ad00d51ce12a5cef746cafae92fe) **plugnjam/plug-samples** — ci: provision Python for workflow jobs (2026-07-20)
+* [`b16e040`](https://github.com/plugnjam/plug-samples/commit/b16e040cbd41b8ec22b61d6d6c6a8cfa2d85808f) **plugnjam/plug-samples** — ci: use PowerShell for Windows checkout placement (2026-07-20)
+* [`e03a239`](https://github.com/dadavidtseng/neetcode-practice/commit/e03a239659fd63c995e703b5bc3fc5ad54aca3ff) **neetcode-practice** — Add: longest-strictly-increasing-or-strictly-decreasing-s... (2026-07-20)
+* [`a8fabcf`](https://github.com/dadavidtseng/neetcode-practice/commit/a8fabcfeff3c20eba7bf5f96958c30e195ac05fc) **neetcode-practice** — Add: longest-strictly-increasing-or-strictly-decreasing-s... (2026-07-20)
+* [`2b1de5c`](https://github.com/dadavidtseng/neetcode-practice/commit/2b1de5c03c2bb20a19a705576eb7056a3c3d4dc8) **neetcode-practice** — Add: longest-strictly-increasing-or-strictly-decreasing-s... (2026-07-20)
+* [`10bda4d`](https://github.com/dadavidtseng/neetcode-practice/commit/10bda4d579cfe5b9fa4832d12cdd35563c3fc90d) **neetcode-practice** — Add: longest-strictly-increasing-or-strictly-decreasing-s... (2026-07-20)
+* [`2617325`](https://github.com/dadavidtseng/neetcode-practice/commit/2617325073863600eacf72b7898ea4f5e282856c) **neetcode-practice** — Add: longest-strictly-increasing-or-strictly-decreasing-s... (2026-07-20)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
