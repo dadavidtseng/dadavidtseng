@@ -10,6 +10,7 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`601d2a3`](https://github.com/plugnjam/plug-core/commit/601d2a3d83f92c29881b43de88e0c79654fbeae4) **plugnjam/plug-core** — docs: add project README (2026-07-21)
 * [`49a7c1d`](https://github.com/dadavidtseng/neetcode-practice/commit/49a7c1d56b0fdf7cad4aa90750e419a118d0ca21) **neetcode-practice** — Add: subtree-of-a-binary-tree - submission-6 (2026-07-21)
 * [`163edc2`](https://github.com/dadavidtseng/neetcode-practice/commit/163edc2509092a86a0e2548c51c3342c0b14263b) **neetcode-practice** — Add: subtree-of-a-binary-tree - submission-5 (2026-07-21)
 * [`d4a2f15`](https://github.com/dadavidtseng/neetcode-practice/commit/d4a2f1536fceb026ef79eb6ace76944c24e07ff9) **neetcode-practice** — Add: subtree-of-a-binary-tree - submission-4 (2026-07-21)
@@ -17,7 +18,6 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 * [`c1aafc0`](https://github.com/dadavidtseng/neetcode-practice/commit/c1aafc06733d0d06ea0f404ed440c7a615b3d66e) **neetcode-practice** — Add: score-of-a-string - submission-0 (2026-07-21)
 * [`514eae5`](https://github.com/plugnjam/plug-core/commit/514eae51b757660362e553ab5ec97003c1c0a872) **plugnjam/plug-core** — refactor(file_watcher): define internal API boundary (2026-07-21)
 * [`94c9478`](https://github.com/plugnjam/plug-core/commit/94c947863ba77737ef08615580a1b7e1082e390e) **plugnjam/plug-core** — docs(plugin_loader): add comments for newly added functio... (2026-07-21)
-* [`ce87521`](https://github.com/plugnjam/plug-core/commit/ce87521e39525f178a5f43a1b3e8e405010c093a) **plugnjam/plug-core** — test(plugin_loader): cover dependency and reload recovery (2026-07-20)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
