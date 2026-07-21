@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`514eae5`](https://github.com/plugnjam/plug-core/commit/514eae51b757660362e553ab5ec97003c1c0a872) **plugnjam/plug-core** — refactor(file_watcher): define internal API boundary (2026-07-21)
+* [`94c9478`](https://github.com/plugnjam/plug-core/commit/94c947863ba77737ef08615580a1b7e1082e390e) **plugnjam/plug-core** — docs(plugin_loader): add comments for newly added functio... (2026-07-21)
+* [`ce87521`](https://github.com/plugnjam/plug-core/commit/ce87521e39525f178a5f43a1b3e8e405010c093a) **plugnjam/plug-core** — test(plugin_loader): cover dependency and reload recovery (2026-07-20)
 * [`a02447a`](https://github.com/plugnjam/plug-core/commit/a02447a2d987295ac215da264b4a2ca8bc451d83) **plugnjam/plug-core** — refactor(plugin_loader)!: enforce noun-verb naming (2026-07-20)
 * [`c50c8ed`](https://github.com/dadavidtseng/YuWeiTseng/commit/c50c8ed164af55dd9329747699b64a44762814b5) **YuWeiTseng** — docs: document Traditional Chinese resume variants (2026-07-20)
 * [`e50cc3b`](https://github.com/dadavidtseng/YuWeiTseng/commit/e50cc3bc4b5ab9a698f6d38a16eac5ae9fb0efa1) **YuWeiTseng** — docs: refresh repository overview (2026-07-20)
 * [`86752fc`](https://github.com/plugnjam/plug-core/commit/86752fc15891403b52c4d91e2bb78fc3f60d25e7) **plugnjam/plug-core** — refactor(plugin_loader): rename requires to dependencies\... (2026-07-20)
 * [`7957349`](https://github.com/plugnjam/plug-samples/commit/79573494b3fc26f920e0825111b651b7aeae7a63) **plugnjam/plug-samples** — fix(triangle): isolate submission benchmark timing (2026-07-20)
-* [`7117b16`](https://github.com/plugnjam/plug-samples/commit/7117b161e89e1a48ae09af6a62994833be5db244) **plugnjam/plug-samples** — ci: allow Python setup on GPU runner (2026-07-20)
-* [`9ed98dd`](https://github.com/plugnjam/plug-samples/commit/9ed98dd1c4a9ad00d51ce12a5cef746cafae92fe) **plugnjam/plug-samples** — ci: provision Python for workflow jobs (2026-07-20)
-* [`b16e040`](https://github.com/plugnjam/plug-samples/commit/b16e040cbd41b8ec22b61d6d6c6a8cfa2d85808f) **plugnjam/plug-samples** — ci: use PowerShell for Windows checkout placement (2026-07-20)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
