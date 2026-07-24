@@ -16,8 +16,8 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 * [`9b4b87d`](https://github.com/dadavidtseng/leetcode-practice/commit/9b4b87dd812c21c0c6c84758fe4a19fbf57c90f7) **leetcode-practice** — Time: 0 ms (100%), Space: 22.1 MB (42.5%) - LeetHub (2026-07-24)
 * [`056bbd4`](https://github.com/dadavidtseng/leetcode-practice/commit/056bbd46d6d2ecd4628eb6a8117dcb20f8cbc431) **leetcode-practice** — Create README - LeetHub (2026-07-24)
 * [`996d8ac`](https://github.com/dadavidtseng/neetcode-practice/commit/996d8acd3683fce07cdec7de4d4e7a213d32738a) **neetcode-practice** — Add: delete-node-in-a-bst - submission-0 (2026-07-24)
+* [`365e914`](https://github.com/plugnjam/plug-samples/commit/365e914403ddc68e6afefc77810daf1281ae3f18) **plugnjam/plug-samples** — refactor(core-api): adopt namespaced core headers (2026-07-24)
 * [`47c549a`](https://github.com/plugnjam/plug-core/commit/47c549a05c8429e5ce01268cc1bbe2a0302b881a) **plugnjam/plug-core** — refactor(headers)!: namespace public core headers (2026-07-24)
-* [`bbebbb6`](https://github.com/plugnjam/plug-rhi-vulkan/commit/bbebbb6051caf178c3c3e1b91b0a5fe4474d555a) **plugnjam/plug-rhi-vulkan** — refactor(core-api): adopt namespaced core headers (2026-07-24)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
