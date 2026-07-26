@@ -10,6 +10,7 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`ca066ad`](https://github.com/dadavidtseng/neetcode-practice/commit/ca066ad2a2e7fc4d5e15ba6d56642504d7649f08) **neetcode-practice** — Add: find-target-in-rotated-sorted-array - submission-3 (2026-07-26)
 * [`10c41e5`](https://github.com/dadavidtseng/leetcode-rust/commit/10c41e5283aadacf6b8384c86ca5ad11e1393695) **leetcode-rust** — chore: scaffold topic directory structure with .gitkeep (2026-07-25)
 * [`f5711a9`](https://github.com/dadavidtseng/leetcode-cpp/commit/f5711a9e63e1eabd9ac96d67871b97ae53d9a493) **leetcode-cpp** — style: normalize comments and minor cleanup in two-sum an... (2026-07-25)
 * [`0943eb4`](https://github.com/dadavidtseng/leetcode-python/commit/0943eb43e21ee704798838063c016d00b514cc22) **leetcode-python** — style: normalize comments in two-sum and contains-duplicate (2026-07-25)
@@ -17,7 +18,6 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 * [`3df27fe`](https://github.com/dadavidtseng/leetcode-practice/commit/3df27fe1283c086ca4aace702c6c0649228c9996) **leetcode-practice** — Update README - Topic Tags (2026-07-25)
 * [`28f429d`](https://github.com/dadavidtseng/leetcode-practice/commit/28f429d6f13db4631098bccd66874a0a976a3c9d) **leetcode-practice** — Time: 13 ms (30.88%), Space: 2.3 MB (57.85%) - LeetHub (2026-07-25)
 * [`6c0c3e0`](https://github.com/dadavidtseng/neetcode-practice/commit/6c0c3e0f18782b058dfce6cb7e159298bd65934f) **neetcode-practice** — Add: two-integer-sum - submission-6 (2026-07-25)
-* [`d436c01`](https://github.com/oriensworld/ow-marketplace/commit/d436c01102c8f133b05c45298f1797d8fd0f9ca4) **oriensworld/ow-marketplace** — docs: update marketplace usage (2026-07-24)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
