@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`6f5adfe`](https://github.com/dadavidtseng/coordina/commit/6f5adfe6d4895e54dd5ec5a7eb39d4b050dc9d36) **coordina** — feat(audit): add transaction-required writer (2026-07-29)
+* [`7fef877`](https://github.com/dadavidtseng/coordina/commit/7fef87794470dab96c090538b2cf91fcbb74555b) **coordina** — test(projects): cover invitation workflow (2026-07-29)
+* [`c9cdb23`](https://github.com/dadavidtseng/coordina/commit/c9cdb234dd4c47bef835ee208577ad14606c0a0b) **coordina** — test(projects): cover project API contracts (2026-07-29)
 * [`746f74b`](https://github.com/dadavidtseng/portfolio/commit/746f74bd89f1f107f42ce061e9a04be6f8e4aee1) **portfolio** — fix(nav): align desktop header controls (2026-07-29)
 * [`cb44c49`](https://github.com/dadavidtseng/coordina/commit/cb44c49cc8ac26e629dcdbc05c741cd615b9ba09) **coordina** — test(projects): cover authorization boundaries (2026-07-29)
 * [`d91e52e`](https://github.com/dadavidtseng/leetcode-practice/commit/d91e52e134f1843c258bfccd06bf30f563cb8dcf) **leetcode-practice** — Update README - Topic Tags (2026-07-29)
 * [`d020f2e`](https://github.com/dadavidtseng/leetcode-practice/commit/d020f2e43879a9b91b5e0d128810e0f7bfb6696a) **leetcode-practice** — Time: 0 ms (100%), Space: 10.3 MB (9.5%) - LeetHub (2026-07-29)
 * [`3877c38`](https://github.com/dadavidtseng/neetcode-practice/commit/3877c38d509cc44385cb5b8f6001d7c5432f8daa) **neetcode-practice** — Add: rotate-matrix - submission-8 (2026-07-29)
-* [`52b4648`](https://github.com/dadavidtseng/leetcode-practice/commit/52b46482094635f62c6906efc4094a8979699f61) **leetcode-practice** — Update README - Topic Tags (2026-07-29)
-* [`c7b186b`](https://github.com/dadavidtseng/leetcode-practice/commit/c7b186bf6c09e5ca33e9309191dd1f3c6819e8dc) **leetcode-practice** — Time: 0 ms (100%), Space: 10.3 MB (37.84%) - LeetHub (2026-07-29)
-* [`2ee7c71`](https://github.com/dadavidtseng/neetcode-practice/commit/2ee7c71861e6ba2a24a86a8d7277d393e629e945) **neetcode-practice** — Add: rotate-matrix - submission-7 (2026-07-29)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
