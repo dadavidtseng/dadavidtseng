@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
-* [`44b40de`](https://github.com/dadavidtseng/coordina/commit/44b40de0cb56075fe64ceeb92b1ebd0f62ab05ae) **coordina** — test(organizations): cover tenant invariants (2026-07-29)
-* [`06c6afa`](https://github.com/dadavidtseng/coordina/commit/06c6afa344ce6fa9d6b16d0b6b3edd9b613fd5aa) **coordina** — test(auth): cover password reset security (2026-07-29)
-* [`a5258bf`](https://github.com/dadavidtseng/coordina/commit/a5258bfe112ced3420d016c972379172908b9ff5) **coordina** — test(auth): cover session authentication API (2026-07-29)
-* [`9be6ede`](https://github.com/dadavidtseng/coordina/commit/9be6ede552a6b7d402bc74de6cbdc096b1abd48e) **coordina** — test(auth): cover custom user invariants (2026-07-29)
-* [`ca3880d`](https://github.com/dadavidtseng/coordina/commit/ca3880d595a4bfc9251d8445aa24c330c46981a7) **coordina** — feat(ops): expose API contracts and health checks (2026-07-29)
-* [`7adbd4b`](https://github.com/dadavidtseng/coordina/commit/7adbd4b34354024b9965720da89c8be6824db1a4) **coordina** — feat(api): standardize request correlation and errors (2026-07-29)
-* [`13e9351`](https://github.com/dadavidtseng/neetcode-practice/commit/13e9351ee3cb10c3ed08ffc1cd0cd719a9c29b5d) **neetcode-practice** — Add: convert-bst-to-greater-tree - submission-6 (2026-07-29)
-* [`64a25fb`](https://github.com/dadavidtseng/leetcode-practice/commit/64a25fb531e0704d4f89640a65132c4dc56ef7ec) **leetcode-practice** — Update README - Topic Tags (2026-07-29)
+* [`746f74b`](https://github.com/dadavidtseng/portfolio/commit/746f74bd89f1f107f42ce061e9a04be6f8e4aee1) **portfolio** — fix(nav): align desktop header controls (2026-07-29)
+* [`cb44c49`](https://github.com/dadavidtseng/coordina/commit/cb44c49cc8ac26e629dcdbc05c741cd615b9ba09) **coordina** — test(projects): cover authorization boundaries (2026-07-29)
+* [`d91e52e`](https://github.com/dadavidtseng/leetcode-practice/commit/d91e52e134f1843c258bfccd06bf30f563cb8dcf) **leetcode-practice** — Update README - Topic Tags (2026-07-29)
+* [`d020f2e`](https://github.com/dadavidtseng/leetcode-practice/commit/d020f2e43879a9b91b5e0d128810e0f7bfb6696a) **leetcode-practice** — Time: 0 ms (100%), Space: 10.3 MB (9.5%) - LeetHub (2026-07-29)
+* [`3877c38`](https://github.com/dadavidtseng/neetcode-practice/commit/3877c38d509cc44385cb5b8f6001d7c5432f8daa) **neetcode-practice** — Add: rotate-matrix - submission-8 (2026-07-29)
+* [`52b4648`](https://github.com/dadavidtseng/leetcode-practice/commit/52b46482094635f62c6906efc4094a8979699f61) **leetcode-practice** — Update README - Topic Tags (2026-07-29)
+* [`c7b186b`](https://github.com/dadavidtseng/leetcode-practice/commit/c7b186bf6c09e5ca33e9309191dd1f3c6819e8dc) **leetcode-practice** — Time: 0 ms (100%), Space: 10.3 MB (37.84%) - LeetHub (2026-07-29)
+* [`2ee7c71`](https://github.com/dadavidtseng/neetcode-practice/commit/2ee7c71861e6ba2a24a86a8d7277d393e629e945) **neetcode-practice** — Add: rotate-matrix - submission-7 (2026-07-29)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
