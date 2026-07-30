@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`a0c5867`](https://github.com/dadavidtseng/coordina/commit/a0c5867173aebd1a395f653255d140e20b3bccaa) **coordina** — test(documents): cover processing and cleanup workers (2026-07-30)
+* [`dabcd2b`](https://github.com/dadavidtseng/coordina/commit/dabcd2b5c66a135423f79611141f67a92c861ec4) **coordina** — test(documents): cover document REST APIs (2026-07-30)
+* [`3f8b527`](https://github.com/dadavidtseng/coordina/commit/3f8b5271a40dfa4606923eff4de64c509f438ef8) **coordina** — feat(documents): expose document REST APIs (2026-07-30)
+* [`de5de74`](https://github.com/dadavidtseng/coordina/commit/de5de742bf8e42ccb75830e04689114c37e32940) **coordina** — test(documents): cover S3 upload services (2026-07-30)
 * [`2773438`](https://github.com/dadavidtseng/coordina/commit/27734387b55bf791ef3f62ec9a6dbd4722ba76f8) **coordina** — feat(common): add idempotent execution lifecycle (2026-07-29)
 * [`3d64c3c`](https://github.com/dadavidtseng/coordina/commit/3d64c3c60fc6a104247227be9a96cfc7158f3715) **coordina** — test(audit): cover project event integration (2026-07-29)
 * [`6f5adfe`](https://github.com/dadavidtseng/coordina/commit/6f5adfe6d4895e54dd5ec5a7eb39d4b050dc9d36) **coordina** — feat(audit): add transaction-required writer (2026-07-29)
 * [`7fef877`](https://github.com/dadavidtseng/coordina/commit/7fef87794470dab96c090538b2cf91fcbb74555b) **coordina** — test(projects): cover invitation workflow (2026-07-29)
-* [`c9cdb23`](https://github.com/dadavidtseng/coordina/commit/c9cdb234dd4c47bef835ee208577ad14606c0a0b) **coordina** — test(projects): cover project API contracts (2026-07-29)
-* [`746f74b`](https://github.com/dadavidtseng/portfolio/commit/746f74bd89f1f107f42ce061e9a04be6f8e4aee1) **portfolio** — fix(nav): align desktop header controls (2026-07-29)
-* [`cb44c49`](https://github.com/dadavidtseng/coordina/commit/cb44c49cc8ac26e629dcdbc05c741cd615b9ba09) **coordina** — test(projects): cover authorization boundaries (2026-07-29)
-* [`d91e52e`](https://github.com/dadavidtseng/leetcode-practice/commit/d91e52e134f1843c258bfccd06bf30f563cb8dcf) **leetcode-practice** — Update README - Topic Tags (2026-07-29)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
