@@ -10,6 +10,7 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`043fabf`](https://github.com/dadavidtseng/portfolio/commit/043fabfe8a9861d3995bc87139415baa222362a5) **portfolio** — docs(deploy): document container workflow (2026-07-31)
 * [`ae19554`](https://github.com/dadavidtseng/portfolio/commit/ae1955497af6424076217fa619dbaf9e430e564c) **portfolio** — docs(frontend): document provider-neutral runtime (2026-07-31)
 * [`cd12df9`](https://github.com/dadavidtseng/portfolio/commit/cd12df9c472aaf427380e2aa7fdea6788475d937) **portfolio** — docs(frontend): document Django chat runtime (2026-07-31)
 * [`e302675`](https://github.com/dadavidtseng/portfolio/commit/e3026757e7c94b146a0a0a4bbec3230c67702db2) **portfolio** — docs(frontend): document standalone Node runtime (2026-07-31)
@@ -17,7 +18,6 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 * [`140314f`](https://github.com/dadavidtseng/portfolio/commit/140314f1034ae9d79917341de0883d01b469054a) **portfolio** — docs(backend): document public project API (2026-07-31)
 * [`55875d8`](https://github.com/dadavidtseng/portfolio/commit/55875d8667e58800cdcd4eeaceb2fd59fe175ac4) **portfolio** — docs(backend): document Admin and storage (2026-07-31)
 * [`819f1bd`](https://github.com/dadavidtseng/portfolio/commit/819f1bd76c9b251419ea28aef8b8511b50f0fc07) **portfolio** — docs(backend): document Django workspace (2026-07-31)
-* [`0df6c3f`](https://github.com/dadavidtseng/portfolio/commit/0df6c3f1359c3cce8a0216ce0095f41684ddbd74) **portfolio** — docs(projects): document Django and MDX boundary (2026-07-31)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
