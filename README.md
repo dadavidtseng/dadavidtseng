@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
-* [`043fabf`](https://github.com/dadavidtseng/portfolio/commit/043fabfe8a9861d3995bc87139415baa222362a5) **portfolio** — docs(deploy): document container workflow (2026-07-31)
-* [`ae19554`](https://github.com/dadavidtseng/portfolio/commit/ae1955497af6424076217fa619dbaf9e430e564c) **portfolio** — docs(frontend): document provider-neutral runtime (2026-07-31)
-* [`cd12df9`](https://github.com/dadavidtseng/portfolio/commit/cd12df9c472aaf427380e2aa7fdea6788475d937) **portfolio** — docs(frontend): document Django chat runtime (2026-07-31)
-* [`e302675`](https://github.com/dadavidtseng/portfolio/commit/e3026757e7c94b146a0a0a4bbec3230c67702db2) **portfolio** — docs(frontend): document standalone Node runtime (2026-07-31)
-* [`875aac4`](https://github.com/dadavidtseng/portfolio/commit/875aac4a51a346d8f192acf72818b07af896f815) **portfolio** — docs(backend): document MDX import workflow (2026-07-31)
-* [`140314f`](https://github.com/dadavidtseng/portfolio/commit/140314f1034ae9d79917341de0883d01b469054a) **portfolio** — docs(backend): document public project API (2026-07-31)
-* [`55875d8`](https://github.com/dadavidtseng/portfolio/commit/55875d8667e58800cdcd4eeaceb2fd59fe175ac4) **portfolio** — docs(backend): document Admin and storage (2026-07-31)
-* [`819f1bd`](https://github.com/dadavidtseng/portfolio/commit/819f1bd76c9b251419ea28aef8b8511b50f0fc07) **portfolio** — docs(backend): document Django workspace (2026-07-31)
+* [`c61790b`](https://github.com/dadavidtseng/portfolio/commit/c61790b043f2073457c0d412430dce85464637ca) **portfolio** — docs(frontend): document hybrid project details (2026-07-31)
+* [`347481c`](https://github.com/dadavidtseng/leetcode-practice/commit/347481cda53b474150d6ed9a9b6969c03bf3b1d7) **leetcode-practice** — Update README - Topic Tags (2026-07-31)
+* [`eb8fbe7`](https://github.com/dadavidtseng/leetcode-practice/commit/eb8fbe71c3d988f3ed26b2e694affd999c8f64c9) **leetcode-practice** — Time: 4 ms (42.2%), Space: 20.4 MB (40.39%) - LeetHub (2026-07-31)
+* [`9e43979`](https://github.com/dadavidtseng/leetcode-practice/commit/9e439798f5e2b1ab0eb2a5a6af4912b7e9f17859) **leetcode-practice** — Update README - Topic Tags (2026-07-31)
+* [`a29ab5b`](https://github.com/dadavidtseng/leetcode-practice/commit/a29ab5b2616f660799568cac8ea174c6fd1a0328) **leetcode-practice** — Time: 4 ms (42.2%), Space: 20.4 MB (40.39%) - LeetHub (2026-07-31)
+* [`51b8859`](https://github.com/dadavidtseng/neetcode-practice/commit/51b88597c85cfa28b2153c2b96463eb94cda5d43) **neetcode-practice** — Add: two-integer-sum - submission-7 (2026-07-31)
+* [`4b29106`](https://github.com/dadavidtseng/YuWeiTseng/commit/4b2910670c742aa52e814a30fdb145c2eae544d1) **YuWeiTseng** — refactor(resume-swe): simplify LaTeX source (2026-07-31)
+* [`06bb914`](https://github.com/dadavidtseng/portfolio/commit/06bb914bae35d5b0e1c3cb5af23136a6c3e3c08f) **portfolio** — chore(data): refresh imported project fixture (2026-07-31)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
