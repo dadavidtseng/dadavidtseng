@@ -10,8 +10,8 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
-* [`7698e0b`](https://github.com/dadavidtseng/leetcode-practice/commit/7698e0bc43550c7441a5ea9cb4c48a0bb629ae37) **leetcode-practice** — Time: 0 ms (100%), Space: 22.9 MB (53.93%) - LeetHub (2026-08-01)
 * [`ca5c9da`](https://github.com/dadavidtseng/leetcode-practice/commit/ca5c9da557ba329fcf5fb1d163bb78a8af04d132) **leetcode-practice** — Update README - Topic Tags (2026-08-01)
+* [`7698e0b`](https://github.com/dadavidtseng/leetcode-practice/commit/7698e0bc43550c7441a5ea9cb4c48a0bb629ae37) **leetcode-practice** — Time: 0 ms (100%), Space: 22.9 MB (53.93%) - LeetHub (2026-08-01)
 * [`80834e0`](https://github.com/dadavidtseng/neetcode-practice/commit/80834e03edd68897bc452e590e29fa343b26ee3b) **neetcode-practice** — Add: reorder-linked-list - submission-2 (2026-08-01)
 * [`36cc628`](https://github.com/dadavidtseng/portfolio/commit/36cc62800d5874ca42a4f5674dd81e47a4b50d15) **portfolio** — feat(deploy): add production TLS cutover config (2026-07-31)
 * [`84865b2`](https://github.com/dadavidtseng/portfolio/commit/84865b223f02f1472df4ac2698f9b663a4dd5551) **portfolio** — fix(deploy): restart compose services after reboot (2026-07-31)
