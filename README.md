@@ -10,6 +10,7 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`4616a78`](https://github.com/dadavidtseng/YuWeiTseng/commit/4616a788d23a7eef75e7e77dbdc65a786c3d0a8b) **YuWeiTseng** — refactor(resume-swe): clarify full-stack bullets and acti... (2026-08-08)
 * [`f7b0757`](https://github.com/dadavidtseng/YuWeiTseng/commit/f7b0757ac795e4369f7b17df1b238dea8442e730) **YuWeiTseng** — docs: reconcile resume evidence and positioning (2026-08-08)
 * [`88cb92c`](https://github.com/dadavidtseng/leetcode-practice/commit/88cb92c4fafccd38a59cdc14a2f626a822d89639) **leetcode-practice** — Time: 0 ms (100%), Space: 2.4 MB (36.05%) - LeetHub (2026-08-07)
 * [`65c5307`](https://github.com/dadavidtseng/leetcode-practice/commit/65c5307883b053f24ca66ff4b64a524c2425cd25) **leetcode-practice** — Update README - Topic Tags (2026-08-07)
@@ -17,7 +18,6 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 * [`5d768fc`](https://github.com/dadavidtseng/neetcode-practice/commit/5d768fcc5bfd8508ab35c42ee6d3073ef6c05b77) **neetcode-practice** — Add: two-integer-sum - submission-11 (2026-08-06)
 * [`88f392a`](https://github.com/dadavidtseng/neetcode-practice/commit/88f392a18f05890c38aa23a14fb35e25a7c75c5f) **neetcode-practice** — Add: two-integer-sum - submission-10 (2026-08-05)
 * [`5edcc5e`](https://github.com/dadavidtseng/neetcode-practice/commit/5edcc5e3c2d4655e058ca62675395596cdd7b848) **neetcode-practice** — Add: two-integer-sum - submission-9 (2026-08-04)
-* [`f3f2b05`](https://github.com/dadavidtseng/leetcode-practice/commit/f3f2b05e30bf78d6d94f4833fd55f20b909fd29e) **leetcode-practice** — Time: 0 ms (100%), Space: 20.4 MB (57.9%) - LeetHub (2026-08-02)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
