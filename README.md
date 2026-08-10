@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
-* [`46d95a7`](https://github.com/dadavidtseng/YuWeiTseng/commit/46d95a7811aee5bfdfbb95aa2d8294bda811320d) **YuWeiTseng** — fix: add missing python keyword in swe resume (2026-08-09)
-* [`615386f`](https://github.com/dadavidtseng/portfolio/commit/615386fcbd60e3fd6f97a32cde9df884275056c1) **portfolio** — docs(frontend): document Vercel observability (2026-08-09)
-* [`53b5d22`](https://github.com/dadavidtseng/portfolio/commit/53b5d22e019d35fefffc6eead7e15c23fbdcd4a3) **portfolio** — chore: trigger Vercel preview deployment (2026-08-09)
-* [`279a6dd`](https://github.com/oriensworld/ow-home/commit/279a6ddee431479c94a79b7537ac6c06588757e7) **oriensworld/ow-home** — chore(firmware): update ESP32 node config (2026-08-09)
-* [`fa5509b`](https://github.com/oriensworld/ow-home/commit/fa5509b76ddd5f9944c6f200cebec04bb1bc6bf3) **oriensworld/ow-home** — chore: ignore local Codex state (2026-08-09)
-* [`cdd8e32`](https://github.com/dadavidtseng/YuWeiTseng/commit/cdd8e32d32a23fd17ff17ef8a30e886a2f0bcfb8) **YuWeiTseng** — fix: adjust action verbs for all resumes (2026-08-08)
-* [`9431d04`](https://github.com/dadavidtseng/YuWeiTseng/commit/9431d049f2c1b37981f13b68244acb9b64bcd2f3) **YuWeiTseng** — fix: duplicated `intergrate` words in swe resume (2026-08-08)
-* [`096b23f`](https://github.com/dadavidtseng/YuWeiTseng/commit/096b23f0d622f4ac65e2a8089a38c4349372b2ea) **YuWeiTseng** — fix: replace duplicated and inappropriate action verbs in... (2026-08-08)
+* [`5a8a43a`](https://github.com/dadavidtseng/neetcode-practice/commit/5a8a43a7d0a481b1c552a7df646a10da92c320b9) **neetcode-practice** — Add: longest-substring-without-duplicates - submission-5 (2026-08-10)
+* [`90962a5`](https://github.com/dadavidtseng/leetcode-practice/commit/90962a5ff3eaeaf013f6ee339094507bda1f2ecc) **leetcode-practice** — Time: 191 ms (24.16%), Space: 20 MB (8.88%) - LeetHub (2026-08-10)
+* [`2d38334`](https://github.com/dadavidtseng/leetcode-practice/commit/2d38334855d119081e1c398005c0cb41da239db3) **leetcode-practice** — Time: 215 ms (15.8%), Space: 19.9 MB (17.73%) - LeetHub (2026-08-10)
+* [`7d6fb5e`](https://github.com/dadavidtseng/leetcode-practice/commit/7d6fb5e051ee875ef6d9d95e096e052a135a1298) **leetcode-practice** — Update README - Topic Tags (2026-08-10)
+* [`6840490`](https://github.com/dadavidtseng/leetcode-practice/commit/684049096c77db00678ed1559aba0477fde233d8) **leetcode-practice** — Time: 3091 ms (5%), Space: 19.9 MB (8.88%) - LeetHub (2026-08-10)
+* [`634bec7`](https://github.com/dadavidtseng/leetcode-practice/commit/634bec7ff52d5b0d98f6ade860e6a83a861a43f2) **leetcode-practice** — Update README - Topic Tags (2026-08-10)
+* [`9eeca13`](https://github.com/dadavidtseng/neetcode-practice/commit/9eeca13adb6a85f98a08561ce68a917713af343c) **neetcode-practice** — Add: longest-substring-without-duplicates - submission-2 (2026-08-10)
+* [`15b3f1c`](https://github.com/dadavidtseng/neetcode-practice/commit/15b3f1cfc4d7690a19d4add8450811e55482ed70) **neetcode-practice** — Add: longest-substring-without-duplicates - submission-3 (2026-08-10)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
