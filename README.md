@@ -10,6 +10,7 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`a66134c`](https://github.com/dadavidtseng/leetcode-practice/commit/a66134c87f8d6b0a79deae991784137049e87ca7) **leetcode-practice** — Time: 51 ms (18.14%), Space: 19.4 MB (14.99%) - LeetHub (2026-08-10)
 * [`5a8a43a`](https://github.com/dadavidtseng/neetcode-practice/commit/5a8a43a7d0a481b1c552a7df646a10da92c320b9) **neetcode-practice** — Add: longest-substring-without-duplicates - submission-5 (2026-08-10)
 * [`90962a5`](https://github.com/dadavidtseng/leetcode-practice/commit/90962a5ff3eaeaf013f6ee339094507bda1f2ecc) **leetcode-practice** — Time: 191 ms (24.16%), Space: 20 MB (8.88%) - LeetHub (2026-08-10)
 * [`2d38334`](https://github.com/dadavidtseng/leetcode-practice/commit/2d38334855d119081e1c398005c0cb41da239db3) **leetcode-practice** — Time: 215 ms (15.8%), Space: 19.9 MB (17.73%) - LeetHub (2026-08-10)
@@ -17,7 +18,6 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 * [`6840490`](https://github.com/dadavidtseng/leetcode-practice/commit/684049096c77db00678ed1559aba0477fde233d8) **leetcode-practice** — Time: 3091 ms (5%), Space: 19.9 MB (8.88%) - LeetHub (2026-08-10)
 * [`634bec7`](https://github.com/dadavidtseng/leetcode-practice/commit/634bec7ff52d5b0d98f6ade860e6a83a861a43f2) **leetcode-practice** — Update README - Topic Tags (2026-08-10)
 * [`9eeca13`](https://github.com/dadavidtseng/neetcode-practice/commit/9eeca13adb6a85f98a08561ce68a917713af343c) **neetcode-practice** — Add: longest-substring-without-duplicates - submission-2 (2026-08-10)
-* [`15b3f1c`](https://github.com/dadavidtseng/neetcode-practice/commit/15b3f1cfc4d7690a19d4add8450811e55482ed70) **neetcode-practice** — Add: longest-substring-without-duplicates - submission-3 (2026-08-10)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
