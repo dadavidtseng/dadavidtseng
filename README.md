@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`eb2083c`](https://github.com/dadavidtseng/portfolio/commit/eb2083c23600dd24e24ec6456377a6d1e27758e7) **portfolio** — chore(frontend): remove legacy grid visualization (2026-08-12)
+* [`f0c1e9e`](https://github.com/dadavidtseng/leetcode-cpp/commit/f0c1e9e66a3ceff963c10a0d9f8f37132f6aba4a) **leetcode-cpp** — feat: move and expand longest-repeating-character-replace... (2026-08-12)
+* [`73bbc11`](https://github.com/dadavidtseng/leetcode-python/commit/73bbc117bd9eb759d06a623d2e700d01af240d35) **leetcode-python** — fix: correct wrong name argument in combination-sum-ii te... (2026-08-12)
 * [`0625eb0`](https://github.com/dadavidtseng/neetcode-practice/commit/0625eb0ef6986c85c44aab871dc3e793a6972d28) **neetcode-practice** — Add: sql-capitalization - submission-0 (2026-08-11)
 * [`d98d0cc`](https://github.com/dadavidtseng/neetcode-practice/commit/d98d0cc7dc952132a5d59d0b841a9cb47e815c4d) **neetcode-practice** — Add: sql-create-table - submission-3 (2026-08-11)
 * [`f60b832`](https://github.com/dadavidtseng/neetcode-practice/commit/f60b8321a5d036acd3012ddb37b3210071da3c40) **neetcode-practice** — Add: sql-create-table - submission-1 (2026-08-11)
 * [`15f6af2`](https://github.com/dadavidtseng/leetcode-practice/commit/15f6af2764288a22fad77ae2413dacc5cad485b7) **leetcode-practice** — Update README - Topic Tags (2026-08-11)
 * [`fffa277`](https://github.com/dadavidtseng/leetcode-practice/commit/fffa2778ea013ea2848ddee651f9243f12a495e2) **leetcode-practice** — Time: 12 ms (23.44%), Space: 10.9 MB (42.04%) - LeetHub (2026-08-11)
-* [`1cfaad7`](https://github.com/dadavidtseng/neetcode-practice/commit/1cfaad7e6875674eeeba86872ba6cd8ce31a23b2) **neetcode-practice** — Add: longest-repeating-substring-with-replacement - submi... (2026-08-11)
-* [`ead1fc8`](https://github.com/dadavidtseng/creatorverse/commit/ead1fc8267f57934214c3199a5b480e9ee028040) **creatorverse** — style: apply linter formatting and add code comments (2026-08-11)
-* [`8bfa9f1`](https://github.com/dadavidtseng/creatorverse/commit/8bfa9f14b52133459bc09ee3a18e8c149e741377) **creatorverse** — update: include unique url links of each creator in walkt... (2026-08-11)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
