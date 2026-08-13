@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`882f038`](https://github.com/dadavidtseng/leetcode-practice/commit/882f038d1ccd8f44028bab06f1d7e802866fc798) **leetcode-practice** — Update README - Topic Tags (2026-08-13)
+* [`e06a7e7`](https://github.com/dadavidtseng/leetcode-practice/commit/e06a7e781d8aca54fc2f61f0b3aafb5c4d01d36d) **leetcode-practice** — Time: 0 ms (100%), Space: 22.8 MB (53.34%) - LeetHub (2026-08-13)
+* [`6cadba6`](https://github.com/dadavidtseng/neetcode-practice/commit/6cadba6767acd1a135707f8ba716ad6ca9bb5802) **neetcode-practice** — Add: reorder-linked-list - submission-9 (2026-08-13)
+* [`716bae3`](https://github.com/dadavidtseng/leetcode-practice/commit/716bae343833f6898caab9b4ebcf8375926cc98c) **leetcode-practice** — Update README - Topic Tags (2026-08-13)
+* [`5648d98`](https://github.com/dadavidtseng/leetcode-practice/commit/5648d98183113d499e6b7dc7221d21b0552deac8) **leetcode-practice** — Time: 2 ms (12.11%), Space: 24.8 MB (6.4%) - LeetHub (2026-08-13)
+* [`2591f6e`](https://github.com/dadavidtseng/neetcode-practice/commit/2591f6e200d8bec453360fcb0f214b2267e970f9) **neetcode-practice** — Add: reorder-linked-list - submission-8 (2026-08-13)
 * [`ee3b8ee`](https://github.com/dadavidtseng/neetcode-practice/commit/ee3b8ee2b701e544f242af11238fcc2a3eeb03f9) **neetcode-practice** — Add: reorder-linked-list - submission-6 (2026-08-13)
 * [`cf84550`](https://github.com/dadavidtseng/leetcode-practice/commit/cf84550154ec5c8b0ce4b20786a77dba779c89db) **leetcode-practice** — Update README - Topic Tags (2026-08-13)
-* [`e0db0f9`](https://github.com/dadavidtseng/leetcode-practice/commit/e0db0f98e240eb718d3efff9694541cf86e0d623) **leetcode-practice** — Time: 0 ms (100%), Space: 24 MB (6.35%) - LeetHub (2026-08-13)
-* [`a0cad31`](https://github.com/dadavidtseng/neetcode-practice/commit/a0cad313bc096fd5077fc5b41a454317f29bc997) **neetcode-practice** — Add: reorder-linked-list - submission-5 (2026-08-13)
-* [`4f88aa5`](https://github.com/dadavidtseng/neetcode-practice/commit/4f88aa58a59b02c64ff1989caf34e4a3c5ccacb0) **neetcode-practice** — Add: reorder-linked-list - submission-4 (2026-08-13)
-* [`124c911`](https://github.com/dadavidtseng/neetcode-practice/commit/124c911fc3b698122b1d8e022180092004c0921d) **neetcode-practice** — Add: reorder-linked-list - submission-3 (2026-08-13)
-* [`91f4653`](https://github.com/dadavidtseng/leetcode-python/commit/91f4653163ffdd7e7e5161417245c26a014881f6) **leetcode-python** — style: apply ruff import sorting across all solution files (2026-08-13)
-* [`8b6f259`](https://github.com/dadavidtseng/leetcode-cpp/commit/8b6f259dea0d5d07c50edd19690c657be665486b) **leetcode-cpp** — feat: expand longest-repeating-character-replacement with... (2026-08-13)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
