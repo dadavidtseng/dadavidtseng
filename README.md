@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`5164d6e`](https://github.com/dadavidtseng/neetcode-gpt/commit/5164d6eb3d81a909dc9b1ea62207d187f36fc92a) **neetcode-gpt** — Implement Gradient descent optimizer (Math Foundations 1/6) (2026-08-13)
+* [`eafce59`](https://github.com/dadavidtseng/neetcode-gpt/commit/eafce5986711b19d1d75b642ef291b49add3b538) **neetcode-gpt** — Initialize neetcode-gpt project (2026-08-13)
 * [`f7ac7d3`](https://github.com/dadavidtseng/leetcode-practice/commit/f7ac7d3b41f915dc7d61098e906c7a9cdc749513) **leetcode-practice** — Update README - Topic Tags (2026-08-12)
 * [`93176e3`](https://github.com/dadavidtseng/leetcode-practice/commit/93176e3cf94da0c999eb2814d548a1633bfac133) **leetcode-practice** — Time: 77 ms (80.65%), Space: 19.7 MB (50.88%) - LeetHub (2026-08-12)
 * [`fb9e8e5`](https://github.com/dadavidtseng/neetcode-practice/commit/fb9e8e5903d05d4c9eee65318cf50b40fe12aa9f) **neetcode-practice** — Add: longest-repeating-substring-with-replacement - submi... (2026-08-12)
 * [`b35cd7f`](https://github.com/dadavidtseng/leetcode-practice/commit/b35cd7fb84ee826031c896f61aad77065acce761) **leetcode-practice** — Update README - Topic Tags (2026-08-12)
 * [`03ec3da`](https://github.com/dadavidtseng/leetcode-practice/commit/03ec3da0c3e9f6c5dcac92b1dec104e41fed1a44) **leetcode-practice** — Time: 304 ms (5.36%), Space: 19.6 MB (50.88%) - LeetHub (2026-08-12)
 * [`e7a9e11`](https://github.com/dadavidtseng/neetcode-practice/commit/e7a9e11ded6f4a50c6857456c2d3b9efd4ea2e24) **neetcode-practice** — Add: longest-repeating-substring-with-replacement - submi... (2026-08-12)
-* [`2f5e642`](https://github.com/dadavidtseng/leetcode-practice/commit/2f5e642ef9fd81b6bbeb0aa18f38316c5bdf8969) **leetcode-practice** — Update README - Topic Tags (2026-08-12)
-* [`62c4d39`](https://github.com/dadavidtseng/leetcode-practice/commit/62c4d3912548e4fdd123cf39a616879c1f977a71) **leetcode-practice** — Time: 6 ms (47.23%), Space: 11 MB (42.04%) - LeetHub (2026-08-12)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
