@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
-* [`e693dfb`](https://github.com/dadavidtseng/neetcode-practice/commit/e693dfb4daf1634bf55211a69e8358fa55b43fde) **neetcode-practice** — Add: minimum-window-with-characters - submission-12 (2026-08-13)
-* [`459a744`](https://github.com/dadavidtseng/neetcode-practice/commit/459a744cc1e148248576a2f73506de3a54319abb) **neetcode-practice** — Add: minimum-window-with-characters - submission-11 (2026-08-13)
-* [`ed503cd`](https://github.com/dadavidtseng/neetcode-practice/commit/ed503cd392fdc31a3b52c21c9b373cec85b95142) **neetcode-practice** — Add: minimum-window-with-characters - submission-10 (2026-08-13)
-* [`c92643b`](https://github.com/dadavidtseng/neetcode-practice/commit/c92643b27589a24acc2ad3d642755bb62df598fe) **neetcode-practice** — Add: minimum-window-with-characters - submission-8 (2026-08-13)
-* [`658a80a`](https://github.com/dadavidtseng/neetcode-practice/commit/658a80a775afed7c35030df2c0d5c56af3c3ab65) **neetcode-practice** — Add: minimum-window-with-characters - submission-5 (2026-08-13)
-* [`5164d6e`](https://github.com/dadavidtseng/neetcode-gpt/commit/5164d6eb3d81a909dc9b1ea62207d187f36fc92a) **neetcode-gpt** — Implement Gradient descent optimizer (Math Foundations 1/6) (2026-08-13)
-* [`eafce59`](https://github.com/dadavidtseng/neetcode-gpt/commit/eafce5986711b19d1d75b642ef291b49add3b538) **neetcode-gpt** — Initialize neetcode-gpt project (2026-08-13)
-* [`f7ac7d3`](https://github.com/dadavidtseng/leetcode-practice/commit/f7ac7d3b41f915dc7d61098e906c7a9cdc749513) **leetcode-practice** — Update README - Topic Tags (2026-08-12)
+* [`ee3b8ee`](https://github.com/dadavidtseng/neetcode-practice/commit/ee3b8ee2b701e544f242af11238fcc2a3eeb03f9) **neetcode-practice** — Add: reorder-linked-list - submission-6 (2026-08-13)
+* [`cf84550`](https://github.com/dadavidtseng/leetcode-practice/commit/cf84550154ec5c8b0ce4b20786a77dba779c89db) **leetcode-practice** — Update README - Topic Tags (2026-08-13)
+* [`e0db0f9`](https://github.com/dadavidtseng/leetcode-practice/commit/e0db0f98e240eb718d3efff9694541cf86e0d623) **leetcode-practice** — Time: 0 ms (100%), Space: 24 MB (6.35%) - LeetHub (2026-08-13)
+* [`a0cad31`](https://github.com/dadavidtseng/neetcode-practice/commit/a0cad313bc096fd5077fc5b41a454317f29bc997) **neetcode-practice** — Add: reorder-linked-list - submission-5 (2026-08-13)
+* [`4f88aa5`](https://github.com/dadavidtseng/neetcode-practice/commit/4f88aa58a59b02c64ff1989caf34e4a3c5ccacb0) **neetcode-practice** — Add: reorder-linked-list - submission-4 (2026-08-13)
+* [`124c911`](https://github.com/dadavidtseng/neetcode-practice/commit/124c911fc3b698122b1d8e022180092004c0921d) **neetcode-practice** — Add: reorder-linked-list - submission-3 (2026-08-13)
+* [`91f4653`](https://github.com/dadavidtseng/leetcode-python/commit/91f4653163ffdd7e7e5161417245c26a014881f6) **leetcode-python** — style: apply ruff import sorting across all solution files (2026-08-13)
+* [`8b6f259`](https://github.com/dadavidtseng/leetcode-cpp/commit/8b6f259dea0d5d07c50edd19690c657be665486b) **leetcode-cpp** — feat: expand longest-repeating-character-replacement with... (2026-08-13)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
