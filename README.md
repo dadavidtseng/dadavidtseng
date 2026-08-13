@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
-* [`882f038`](https://github.com/dadavidtseng/leetcode-practice/commit/882f038d1ccd8f44028bab06f1d7e802866fc798) **leetcode-practice** — Update README - Topic Tags (2026-08-13)
-* [`e06a7e7`](https://github.com/dadavidtseng/leetcode-practice/commit/e06a7e781d8aca54fc2f61f0b3aafb5c4d01d36d) **leetcode-practice** — Time: 0 ms (100%), Space: 22.8 MB (53.34%) - LeetHub (2026-08-13)
-* [`6cadba6`](https://github.com/dadavidtseng/neetcode-practice/commit/6cadba6767acd1a135707f8ba716ad6ca9bb5802) **neetcode-practice** — Add: reorder-linked-list - submission-9 (2026-08-13)
-* [`716bae3`](https://github.com/dadavidtseng/leetcode-practice/commit/716bae343833f6898caab9b4ebcf8375926cc98c) **leetcode-practice** — Update README - Topic Tags (2026-08-13)
-* [`5648d98`](https://github.com/dadavidtseng/leetcode-practice/commit/5648d98183113d499e6b7dc7221d21b0552deac8) **leetcode-practice** — Time: 2 ms (12.11%), Space: 24.8 MB (6.4%) - LeetHub (2026-08-13)
-* [`2591f6e`](https://github.com/dadavidtseng/neetcode-practice/commit/2591f6e200d8bec453360fcb0f214b2267e970f9) **neetcode-practice** — Add: reorder-linked-list - submission-8 (2026-08-13)
-* [`ee3b8ee`](https://github.com/dadavidtseng/neetcode-practice/commit/ee3b8ee2b701e544f242af11238fcc2a3eeb03f9) **neetcode-practice** — Add: reorder-linked-list - submission-6 (2026-08-13)
-* [`cf84550`](https://github.com/dadavidtseng/leetcode-practice/commit/cf84550154ec5c8b0ce4b20786a77dba779c89db) **leetcode-practice** — Update README - Topic Tags (2026-08-13)
+* [`d75bf7c`](https://github.com/dadavidtseng/leetcode-practice/commit/d75bf7cac06540dab930be778e0227a59340a0c7) **leetcode-practice** — Update README - Topic Tags (2026-08-13)
+* [`d1983ae`](https://github.com/dadavidtseng/leetcode-practice/commit/d1983aec3f6d843c1ab396c9857af5cbdcad3e0c) **leetcode-practice** — Time: 0 ms (100%), Space: 27.7 MB (80.16%) - LeetHub (2026-08-13)
+* [`4e5f15b`](https://github.com/dadavidtseng/neetcode-practice/commit/4e5f15be31cefd33d46be6066b7fc0139fe0d3b6) **neetcode-practice** — Add: reorder-linked-list - submission-12 (2026-08-13)
+* [`1345fde`](https://github.com/dadavidtseng/neetcode-practice/commit/1345fde9f69c794550cf59199b5c4895e1dd4a28) **neetcode-practice** — Add: reorder-linked-list - submission-11 (2026-08-13)
+* [`06c4b5d`](https://github.com/dadavidtseng/leetcode-practice/commit/06c4b5d7b8d47c48dbb5b825af1c8457fa77bafc) **leetcode-practice** — Update README - Topic Tags (2026-08-13)
+* [`66c0004`](https://github.com/dadavidtseng/leetcode-practice/commit/66c00046bba8757fcc429ff2d04dac9eb7c0915b) **leetcode-practice** — Time: 3 ms (49.76%), Space: 30.6 MB (6.71%) - LeetHub (2026-08-13)
+* [`b89f828`](https://github.com/dadavidtseng/neetcode-practice/commit/b89f82839c160b286929534afc178acbdd14c014) **neetcode-practice** — Add: reorder-linked-list - submission-10 (2026-08-13)
+* [`ca90a56`](https://github.com/dadavidtseng/leetcode-practice/commit/ca90a56161e9127d5fab8924cde62417288c0fb9) **leetcode-practice** — Update README - Topic Tags (2026-08-13)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
