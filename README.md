@@ -10,6 +10,7 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`f789b93`](https://github.com/dadavidtseng/portfolio/commit/f789b93c292cb10e46717211096ba56da61e08f6) **portfolio** — feat: til/general-idea-of-networking (2026-08-19)
 * [`5be03f6`](https://github.com/dadavidtseng/leetcode-practice/commit/5be03f68c990bc4742d32c965d87e2cf060f7fe9) **leetcode-practice** — Update README - Topic Tags (2026-08-18)
 * [`bdfb1c1`](https://github.com/dadavidtseng/neetcode-practice/commit/bdfb1c132468844ef2d262983327a0976406bf4e) **neetcode-practice** — Add: stone-game-ii - submission-1 (2026-08-18)
 * [`2e49dbd`](https://github.com/dadavidtseng/leetcode-practice/commit/2e49dbd46ed2b5a269b765c89d50c054807c6c82) **leetcode-practice** — Time: 454 ms (12.99%), Space: 34.2 MB (5.39%) - LeetHub (2026-08-18)
@@ -17,7 +18,6 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 * [`7c2ad85`](https://github.com/dadavidtseng/leetcode-practice/commit/7c2ad850b194b3ceb60baf5721074e82d918b3de) **leetcode-practice** — Update README - Topic Tags (2026-08-18)
 * [`98ff957`](https://github.com/dadavidtseng/leetcode-practice/commit/98ff957bf9eef8b6e0a192f1e242122b07e476a7) **leetcode-practice** — Create README - LeetHub (2026-08-18)
 * [`ff88fb6`](https://github.com/dadavidtseng/neetcode-practice/commit/ff88fb6031ad45cbebda6bd0436f404f676aa255) **neetcode-practice** — Add: stone-game-ii - submission-3 (2026-08-18)
-* [`446f158`](https://github.com/dadavidtseng/leetcode-practice/commit/446f158e8f06a57d7edbabdc29301e6a863bd1a8) **leetcode-practice** — Updated stats (2026-08-18)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
