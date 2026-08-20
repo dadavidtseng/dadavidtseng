@@ -10,6 +10,7 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`404c239`](https://github.com/dadavidtseng/neetcode-practice/commit/404c2397c15a5f29bc24df87611fa22f6c89eccf) **neetcode-practice** — Add: quickSort - submission-1 (2026-08-20)
 * [`8e5ccc9`](https://github.com/dadavidtseng/neetcode-practice/commit/8e5ccc9a56cf936c135275d59f48ae9e090c8ad5) **neetcode-practice** — Add: mergeSort - submission-3 (2026-08-20)
 * [`a2b3a23`](https://github.com/dadavidtseng/neetcode-practice/commit/a2b3a237dcb0f5241b0cc159d61fad68d8bf1a46) **neetcode-practice** — Add: mergeSort - submission-0 (2026-08-20)
 * [`750a312`](https://github.com/dadavidtseng/leetcode-practice/commit/750a3129395108044b6f482a7d6f7d65cd9a6550) **leetcode-practice** — Time: 0 ms (100%), Space: 19.3 MB (61.54%) - LeetHub (2026-08-20)
@@ -17,7 +18,6 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 * [`a9a3698`](https://github.com/dadavidtseng/neetcode-practice/commit/a9a369850c50ed44aab774ded297bd549f24f337) **neetcode-practice** — Add: insertionSort - submission-0 (2026-08-20)
 * [`96a551c`](https://github.com/dadavidtseng/leetcode-practice/commit/96a551c790e26b108ea808bf424262f0661f5936) **leetcode-practice** — Updated stats (2026-08-20)
 * [`62b4764`](https://github.com/dadavidtseng/leetcode-practice/commit/62b47647a29f7289960c8db3d9c4640297d8274d) **leetcode-practice** — Update README - Topic Tags (2026-08-20)
-* [`ec4fe39`](https://github.com/dadavidtseng/leetcode-practice/commit/ec4fe3909984626d14cdb0327f109b0c6bd8ad9b) **leetcode-practice** — Update README - Topic Tags (2026-08-20)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
