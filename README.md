@@ -10,6 +10,7 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`73e7e26`](https://github.com/dadavidtseng/neetcode-practice/commit/73e7e2605ffe5981c9ecb39dcf0a3b3650f1b640) **neetcode-practice** — Add: python-boolean-and - submission-0 (2026-08-21)
 * [`3ce8b36`](https://github.com/dadavidtseng/neetcode-practice/commit/3ce8b36e8e5afe11bff3009a74610aebde703bda) **neetcode-practice** — Add: python-more-operators - submission-0 (2026-08-21)
 * [`4435dda`](https://github.com/dadavidtseng/neetcode-practice/commit/4435dda0d015fe24b001c683552b62db6d527001) **neetcode-practice** — Add: python-type-casting - submission-0 (2026-08-21)
 * [`5452da0`](https://github.com/dadavidtseng/neetcode-practice/commit/5452da08bdf4559612abd9d573caa8bc52caec78) **neetcode-practice** — Add: python-naming-conventions - submission-0 (2026-08-21)
@@ -17,7 +18,6 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 * [`99e1da5`](https://github.com/dadavidtseng/neetcode-practice/commit/99e1da51c67a48af1bdd0fb262d5ddf97bcc22f2) **neetcode-practice** — Add: python-empty-variable - submission-0 (2026-08-21)
 * [`8960237`](https://github.com/dadavidtseng/neetcode-practice/commit/896023769072287aacadc2b3ce9443e0e08b8ebb) **neetcode-practice** — Add: python-multiple-assignment - submission-0 (2026-08-21)
 * [`cb3f79b`](https://github.com/dadavidtseng/neetcode-practice/commit/cb3f79b81db39b33ecab60d982996b96e0244dac) **neetcode-practice** — Add: python-type-errors - submission-0 (2026-08-21)
-* [`a3692f6`](https://github.com/dadavidtseng/neetcode-practice/commit/a3692f671d16db1b915b7418da58e723aae710ed) **neetcode-practice** — Add: python-variable-declaration - submission-0 (2026-08-20)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
