@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`5452da0`](https://github.com/dadavidtseng/neetcode-practice/commit/5452da08bdf4559612abd9d573caa8bc52caec78) **neetcode-practice** — Add: python-naming-conventions - submission-0 (2026-08-21)
+* [`f78500a`](https://github.com/dadavidtseng/neetcode-practice/commit/f78500af929f9141f94fd12bc94938a8d60c7329) **neetcode-practice** — Add: python-variable-naming - submission-0 (2026-08-21)
+* [`99e1da5`](https://github.com/dadavidtseng/neetcode-practice/commit/99e1da51c67a48af1bdd0fb262d5ddf97bcc22f2) **neetcode-practice** — Add: python-empty-variable - submission-0 (2026-08-21)
 * [`8960237`](https://github.com/dadavidtseng/neetcode-practice/commit/896023769072287aacadc2b3ce9443e0e08b8ebb) **neetcode-practice** — Add: python-multiple-assignment - submission-0 (2026-08-21)
 * [`cb3f79b`](https://github.com/dadavidtseng/neetcode-practice/commit/cb3f79b81db39b33ecab60d982996b96e0244dac) **neetcode-practice** — Add: python-type-errors - submission-0 (2026-08-21)
 * [`a3692f6`](https://github.com/dadavidtseng/neetcode-practice/commit/a3692f671d16db1b915b7418da58e723aae710ed) **neetcode-practice** — Add: python-variable-declaration - submission-0 (2026-08-20)
 * [`607f3ba`](https://github.com/dadavidtseng/neetcode-practice/commit/607f3baf262252e1ab07fc627269d1835a72afc3) **neetcode-practice** — Add: python-code-errors - submission-0 (2026-08-20)
 * [`0ecd18b`](https://github.com/dadavidtseng/neetcode-practice/commit/0ecd18bea09751a9df93dc4d217098f45656e158) **neetcode-practice** — Add: python-reassigning-variables - submission-0 (2026-08-21)
-* [`821eb64`](https://github.com/dadavidtseng/neetcode-practice/commit/821eb642053aa18bcd321d84401b09852bc06f43) **neetcode-practice** — Add: python-hello-world - submission-1 (2026-08-20)
-* [`6d60aab`](https://github.com/dadavidtseng/neetcode-practice/commit/6d60aabf07db89418b9d8351a26ab1bc13d7af3b) **neetcode-practice** — Add: python-hello-world - submission-0 (2026-08-20)
-* [`dc9efdf`](https://github.com/dadavidtseng/neetcode-practice/commit/dc9efdffe1fdaa37b9b5070b44b80281e9efef9a) **neetcode-practice** — Add: python-execution-order - submission-0 (2026-08-20)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
