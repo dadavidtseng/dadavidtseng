@@ -25,9 +25,6 @@ jobs:
         run: npm ci
 
       - name: Update README
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          TZ: Asia/Taipei
         run: node build-readme.mjs
 
       - name: Commit and push if changed
