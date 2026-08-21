@@ -10,14 +10,14 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 
 ### Recent Commits
 <!-- recent_commits starts -->
+* [`821eb64`](https://github.com/dadavidtseng/neetcode-practice/commit/821eb642053aa18bcd321d84401b09852bc06f43) **neetcode-practice** — Add: python-hello-world - submission-1 (2026-08-20)
+* [`6d60aab`](https://github.com/dadavidtseng/neetcode-practice/commit/6d60aabf07db89418b9d8351a26ab1bc13d7af3b) **neetcode-practice** — Add: python-hello-world - submission-0 (2026-08-20)
+* [`dc9efdf`](https://github.com/dadavidtseng/neetcode-practice/commit/dc9efdffe1fdaa37b9b5070b44b80281e9efef9a) **neetcode-practice** — Add: python-execution-order - submission-0 (2026-08-20)
+* [`6dd7478`](https://github.com/dadavidtseng/neetcode-practice/commit/6dd74787da05f1565c09cf227543bb091270246f) **neetcode-practice** — Add: python-what-is-python - submission-0 (2026-08-20)
 * [`ec2df29`](https://github.com/dadavidtseng/neetcode-practice/commit/ec2df29880327902c6dc37649e5c65beb7b2f08c) **neetcode-practice** — Add: python-dynamic-typing - submission-0 (2026-08-21)
 * [`529e83c`](https://github.com/dadavidtseng/neetcode-practice/commit/529e83c9648d97460f58acbec5e751fc679211c5) **neetcode-practice** — Add: python-variable-types - submission-0 (2026-08-21)
 * [`8c650d0`](https://github.com/dadavidtseng/neetcode-practice/commit/8c650d000d5246cd22c388f175df64777c93ad38) **neetcode-practice** — Add: python-comments - submission-0 (2026-08-20)
 * [`1f68437`](https://github.com/dadavidtseng/neetcode-practice/commit/1f684376f5b24a1400b79b5b3a76ded53c33f427) **neetcode-practice** — Add: python-printing-text - submission-0 (2026-08-20)
-* [`5cc6ece`](https://github.com/dadavidtseng/neetcode-practice/commit/5cc6ece90f0a423add19ff89f8faae8ede4c3e49) **neetcode-practice** — Add: sql-drop-table - submission-0 (2026-08-20)
-* [`5ade7ff`](https://github.com/dadavidtseng/neetcode-practice/commit/5ade7ff9972f04da4d19b0b199e4461fc5d97945) **neetcode-practice** — Add: sql-alter-table - submission-0 (2026-08-20)
-* [`18462c6`](https://github.com/dadavidtseng/neetcode-practice/commit/18462c6d3e80e5caf9c0d861a6fb85e37260bdff) **neetcode-practice** — Add: sql-default-values - submission-1 (2026-08-20)
-* [`18291e1`](https://github.com/dadavidtseng/neetcode-practice/commit/18291e17c41f739ba9031a0432fe0de1f48bfac7) **neetcode-practice** — Add: sql-table-rows - submission-2 (2026-08-20)
 <!-- recent_commits ends -->
 
 </td><td valign="top" width="50%">
