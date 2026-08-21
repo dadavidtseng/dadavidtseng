@@ -18,7 +18,6 @@ Read [my blog](https://dadavidtseng.com/blog) or check out [my portfolio](https:
 ### TIL
 <!-- til starts -->
 * [GCD & LCM](https://dadavidtseng.com/til/gcd-and-lcm/) (2026-08-21)
-* [Morris Traversal](https://dadavidtseng.com/til/morris-traversal/) (2026-08-19)
 * [General Idea of Networking](https://dadavidtseng.com/til/general-idea-of-networking/) (2026-08-18)
 <!-- til ends -->
 
